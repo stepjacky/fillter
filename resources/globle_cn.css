@@ -204,7 +204,7 @@ body {
 }
 
 .bound {
-    width: 980px;
+    width: 1350px;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -237,7 +237,7 @@ span.HighlightSearch {
     background-color: #f8f8f8;
     background-image: url(/resources/images/common/hw_000469.jpg);
     background-repeat: repeat-x;
-    height: 60px;
+    height: 96px;
     border-bottom: 1px solid #FFFFFF;
     min-width: 1000px;
     width: auto !important;
@@ -349,8 +349,8 @@ span.HighlightSearch {
     height: 46px;
     border-top: 1px solid #d7d4cf;
     border-bottom: 1px solid #C4C6C3;
-    min-width: 1000px;
-    width: auto !important;
+    min-width: 980px;
+    width: 980px !important;
     margin: 0px auto;
     position: relative;
     z-index: 10;
@@ -362,6 +362,10 @@ span.HighlightSearch {
     height: 46px;
     position: relative;
     z-index: 100;
+    /*
+    background-image: url(/resources/images/common/nav_bg.png);
+    background-repeat: no-repeat;;
+    */
 }
 
 #menu .nav ul {

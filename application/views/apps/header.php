@@ -9,14 +9,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" charset="utf-8" src="/resources/jquery-1.8.2.js"></script>
 
-    <script type="text/javascript" src="/resources/superslider/jquery.SuperSlide.js"></script>
+
     <link href="/resources/styles/index.css" rel="stylesheet" type="text/css"/>
+
     <link href="/resources/globle_cn.css" rel="stylesheet" type="text/css"/>
     <link href="/resources/globle_cn_ie6.css" rel="stylesheet" type="text/css"/>
 
+
+
 </head>
 <body>
-<div class="container_12">
+<div id="header">
+    <div class="bound">
+        <div class="header_bg">
+            <div class="logo"><img src="/resources/images/common/logo.png"  class="fix" /></div>
+            <div class="header_info">
+                <ul>
+                    <li><a href="#">中文&nbsp;|&nbsp;</a></li>
+                    <li><a href="#">English&nbsp;|&nbsp;</a></li>
+                    <li><a href="#">德语&nbsp;|&nbsp;</a></li>
+                    <li><a href="#">法语&nbsp;|&nbsp;</a></li>
+                    <li><a href="#">日语&nbsp;|&nbsp;</a></li>
+                    <li><input name="search" type="text" class="search" /></li>
+                    <li><input name="butn" type="button" class="search_ico" /></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
 <div id="menu">
 <div class="nav">
 <ul>
@@ -57,10 +83,10 @@
 
                 <ul class="m_box">
                     <li><a href="http://www.huawei.com/cn/industry/moving-forward/hw-u_165670.htm"><img width="259" height="140" src="/resources/images/common/hw_s_223305.gif"></a></li>
-                    <li class="title"><a href="http://www.huawei.com/cn/industry/moving-forward/hw-u_165670.htm">沃达丰与华为联合创新成果</a></li>
+                    <li class="title"><a href="http://www.huawei.com/cn/industry/moving-forward/hw-u_165670.htm">XXX与菲尔特联合创新成果</a></li>
                     <li class="summary">
                         <ul>
-                            <li>从2006年至今，沃达丰与华为共同创立了6个联合创新中心，创造了业界极有价值的技术和服务，巩固了沃达丰作为最具创新能力电信运营商的地位。</li>
+                            <li>从2006年至今，XXX与菲尔特共同创立了6个联合创新中心，创造了业界极有价值的技术和服务，巩固了XXX作为最具创新能力电信运营商的地位。</li>
                         </ul>
                     </li>
                 </ul>
@@ -260,8 +286,8 @@
                     <li><a href="http://www.huawei.com/cn/about-huawei/corporate-info/annual-report/huawei2011/index.htm">《公司年报》</a></li>
                     <li><a href="http://www.huawei.com/cn/about-huawei/corporate-citizenship/csr-report/index.htm">《社会责任报告》</a></li>
                     <li><a href="http://www.huawei.com/cn/about-huawei/publications/winwin-magazine/index.htm">《营赢》</a></li>
-                    <li><a href="http://www.huawei.com/cn/about-huawei/publications/communicate/index.htm">《华为技术》</a></li>
-                    <li><a href="http://app.huawei.com/paper/index.do">《华为人》</a></li>
+                    <li><a href="http://www.huawei.com/cn/about-huawei/publications/communicate/index.htm">《菲尔特技术》</a></li>
+                    <li><a href="http://app.huawei.com/paper/index.do">《菲尔特人》</a></li>
                     <li><a href="http://enterprise.huawei.com/cn/about/e-journal/ict/index.htm?node=6&amp;child=0">《ICT新视界》</a></li>
                 </ul>
 
@@ -321,40 +347,19 @@
 </ul>
 </div>
 </div>
-<div style="margin-bottom: 0px;" id="pcList" class="videoList-container">
-    <div id="slide-index" style="width: 1170px;">
-        <div class="slides" style="width: 4680px; margin-left: 0px;">
-            <div links="[{left:'30px',top:'81px'},{left:'30px',top:'244px'},{direction:'tb'}]" class="slide autoMaxWidth" style="width: 1170px;">
-                <div id="bi_0" class="image"><a target="_blank" href="http://www.huawei.com/minisite/mwc2013/cn/index.html"><img src="/resources/images/common/hw_203943.jpg" name="MWC2013 banner -cn" style="left: -375px; position: relative;"></a></div>
-                <div id="bt_0" class="text" style="left: 115px; top: 81px;"></div>
-                <div id="bb_0" class="button" style="left: 115px; top: 244px; display: block;"></div>
-            </div>
-            <div links="[{left:'30px',top:'81px'},{left:'30px',top:'244px'},{direction:'tb'}]" class="slide autoMaxWidth" style="width: 1170px;">
-                <div id="bi_1" class="image"><a target="_blank" href="http://www.huaweidevice.com/cn/productFeatures.do?pinfoId=3112&amp;directoryId=5005&amp;treeId=3677&amp;tab=0"><img src="/resources/images/common/hw_204710.jpg" name="Ascend-p2-cn" style="left: -375px; position: relative;"></a></div>
-                <div id="bt_1" class="text" style="left: 3000px; top: 81px;"></div>
-                <div id="bb_1" class="button" style="left: 3000px; top: 244px; display: block;"></div>
-            </div>
-            <div links="[{left:'30px',top:'81px'},{left:'30px',top:'244px'},{direction:'tb'}]" class="slide autoMaxWidth" style="width: 1170px;">
-                <div id="bi_2" class="image"><a target="_blank" href="http://enterprise.huawei.com/topic/2013Cebit_cn/index.html"><img src="/resources/images/common/hw_204524.jpg" name="cebit2013 banner cn" style="left: -375px; position: relative;"></a></div>
-                <div id="bt_2" class="text" style="left: 3000px; top: 81px;"></div>
-                <div id="bb_2" class="button" style="left: 3000px; top: 244px; display: block;"></div>
-            </div>
-            <div links="[{left:'30px',top:'81px'},{left:'30px',top:'244px'},{direction:'tb'}]" class="slide autoMaxWidth" style="width: 1170px;">
-                <div id="bi_0" class="image"><a target="_blank" href="http://www.huawei.com/minisite/mwc2013/cn/index.html"><img src="/resources/images/common/hw_203943.jpg" name="MWC2013 banner -cn" style="left: -375px; position: relative;"></a></div>
-                <div id="bt_0" class="text" style="left: 115px; top: 81px;"></div>
-                <div id="bb_0" class="button" style="left: 115px; top: 244px; display: block;"></div>
-            </div></div>
-        <div class="control">
+<script type="text/javascript" src="/resources/coin-slider/coin-slider.min.js"></script>
+<link rel="stylesheet" href="/resources/coin-slider/coin-slider-styles.css" type="text/css" />
+<div id='coin-slider' class="header_img">
+    <a href="/resources/images/common/hw_203943.jpg" target="_blank">
+        <img src='/resources/images/common/hw_203943.jpg' >
 
-            <a href="" class="active"></a>
+    </a><a href="/resources/images/common/hw_204524.jpg" target="_blank">
+        <img src='/resources/images/common/hw_204524.jpg' >
+
+    </a><a href="/resources/images/common/hw_204710.jpg" target="_blank">
+        <img src='/resources/images/common/hw_204710.jpg' >
+
+    </a>
 
 
-            <a href="" class=""></a>
-
-
-            <a href="" class=""></a>
-
-
-        </div>
-    </div>
 </div>
