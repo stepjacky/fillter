@@ -1,3 +1,19 @@
+<script type="text/javascript" src="/resources/coin-slider/coin-slider.min.js"></script>
+<link rel="stylesheet" href="/resources/coin-slider/coin-slider-styles.css" type="text/css" />
+<div id='coin-slider' class="header_img">
+    <a href="/resources/images/common/img1.png" target="_blank">
+        <img src='/resources/images/common/img1.png' >
+
+    </a><a href="/resources/images/common/img2.png" target="_blank">
+        <img src='/resources/images/common/img2.png' >
+
+    </a><a href="/resources/images/common/img3.png" target="_blank">
+        <img src='/resources/images/common/img3.png' >
+
+    </a>
+
+
+</div>
 <link rel="stylesheet" href="/resources/styles/index/index.css" media="screen,print"/>
 <div class="main">
 <!--典型产品-->

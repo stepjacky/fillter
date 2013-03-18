@@ -347,19 +347,4 @@
 </ul>
 </div>
 </div>
-<script type="text/javascript" src="/resources/coin-slider/coin-slider.min.js"></script>
-<link rel="stylesheet" href="/resources/coin-slider/coin-slider-styles.css" type="text/css" />
-<div id='coin-slider' class="header_img">
-    <a href="/resources/images/common/hw_203943.jpg" target="_blank">
-        <img src='/resources/images/common/hw_203943.jpg' >
 
-    </a><a href="/resources/images/common/hw_204524.jpg" target="_blank">
-        <img src='/resources/images/common/hw_204524.jpg' >
-
-    </a><a href="/resources/images/common/hw_204710.jpg" target="_blank">
-        <img src='/resources/images/common/hw_204710.jpg' >
-
-    </a>
-
-
-</div>
