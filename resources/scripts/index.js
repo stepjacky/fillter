@@ -25,7 +25,7 @@ $(function () {
 
     )
 
-    $('#coin-slider').coinslider({ width: 980,height:396,delay: 3000 });
+    $('#coin-slider').coinslider({ width: 980,height:296,delay: 3000 });
 
 
 });

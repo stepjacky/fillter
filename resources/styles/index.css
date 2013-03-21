@@ -39,7 +39,7 @@ body {
 
 .header_bg {
     width: 1500px;
-    height: 100px;
+    height: 70px;
     background: url(/resources/images/common/header_bg.jpg) repeat-x;
     overflow: hidden;
 }
