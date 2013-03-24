@@ -23,7 +23,7 @@ class MY_Controller extends CI_Controller
          $this->load->library('form_validation');
          $this->load->library('upload');
          $this->load->helper('date');
-         $this->load->library('session');
+         $this->load->library('nsession');
          $this->load->helper('cookie');
 
         if(func_num_args()==1){

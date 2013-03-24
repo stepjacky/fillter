@@ -24,56 +24,24 @@
  *    
  */
 
-class Artitle_model extends Media_Model {
+class Artitle_model extends PK_Model {
      
     public  function __construct(){
         parent::__construct("Artitle_model");
-    }  
-
-    public function get($id){
-        if(!$this->__valid($id)) return $this->emptyObject();
-        $bean = parent::get($id);
-
-        $SQL="select c.id id ,c.guest username, c.firedate firedate,c.content content
-              ,mu.avatar userimg
-              from comment c
-              join myuser mu on mu.name=c.guest
-              where c.artitle_id='".$id."'";
-        $query = $this->db->query($SQL);
-        $comments = $query->result_array();
-        $bean['comments'] = $comments;
-        $bean['cmtcount'] = count($comments);
-
-        $tags = explode(',', $bean['tags']);
-
-        $this->db->select("id,name,minipic");
-        $this->db->like("tags",$tags[0]);
-        foreach($tags as $tag){
-            $this->db->or_like('tags', $tag);
-        }
-        $this->db->limit(4,0);
-        $query = $this->db->get($this->table());
-        $abouts = $query->result_array();
-        $bean['abouts'] = $abouts;
-        $bean['keywords'] = $tags;
-
-        return $bean;
     }
 
-    public function find_by_tag($tag,$rows=20){
-        $this->db->select("id,name,tags,firedate,summary,largepic");
-        $this->db->like('tags',$tag);
-        $this->db->order_by('firedate','desc');
-        $this->db->limit($rows,0);
-        $query = $this->db->get($this->table());
-        $beans = $query->result_array();
-        foreach($beans as &$bean){
-            $tags = explode(',',$bean['tags']);
-            $bean['atags'] = $tags;
+    public function saveUpdate($data,$pk='id'){
+        $pk = urldecode($pk);
+        $id = $data[$pk];
+        if(!$this->__valid($id))return;
+        $bean = $this->get($id,$pk);
+        if( $bean['empty'] ){
+            $this->save($data,$pk,FALSE);
+        }else{
+            $this->update($data,$pk);
         }
-
-        return $beans;
     }
+
 
     public function list_by_tag($tag='',$page=1,$rows=10){
         $data = array();
@@ -97,79 +65,32 @@ class Artitle_model extends Media_Model {
 
     }
 
+    public function find_info($aid,$lang='chinese'){
+        $this->db->select("name,content");
+        $this->db->where('aid',$aid);
+        $this->db->where('lang',$lang);
+        $query = $this->db->get('artitle_info');
+        $data  = $query->first_row('array');
+        $this->firelog($data);
+        if(count($data)==0)$data['empty']=TRUE;
+        $data['aid']=$aid;
+        $data['lang']=$lang;
+        return $data;
+    }
 
-    public function save_recommend($beans){
-        $data = array();
-        $i=0;
-        foreach($beans as $bean){
-            $data[$i++]=array(
-                'artitle_id'=>$bean,
-                'home'=>false
-            );
+    public function  save_info($data){
+        $aid   = $data['aid'];
+        $lang  = $data['lang'];
+        $bean =  $this->find_info($aid,$lang);
+        $empty = isset($bean['empty']);
+        unset($bean['empty']);
+        if($empty){
+            $this->db->insert('artitle_info', $data);
+        }else{
+            $this->db->where('aid',$aid);
+            $this->db->where('lang',$lang);
+            $this->db->update('artitle_info', $data);
         }
-        $this->db->empty_table('recommendartitle');
-        //$this->firelog($data);
-        $this->db->insert_batch('recommendartitle',$data);
     }
 
-
-    public function save_home_artitle($beans){
-        $data = array();
-        $i=0;
-        foreach($beans as $bean){
-            $data[$i++]=array(
-                'artitle_id'=>$bean
-            );
-        }
-        $this->db->empty_table('homeartitle');
-        //$this->firelog($data);
-        $this->db->insert_batch('homeartitle',$data);
-    }
-
-    public function find_recommend(){
-        $SQL="select a.id id ,a.name, name ,a.firedate firedate,a.minipic minipic
-              from recommendartitle ra
-              join artitle a on a.id=ra.artitle_id
-              order by a.firedate desc,a.views desc
-              limit 4
-              ";
-
-        $beans = $this->query($SQL);
-        return $beans;
-    }
-
-    public function find_home_artitle(){
-        $SQL="select a.id id ,a.name, name ,a.firedate firedate,a.largepic largepic
-              from homeartitle ra
-              join artitle a on a.id=ra.artitle_id
-              order by a.firedate desc,a.views desc
-              limit 5
-              ";
-
-        $beans = $this->query($SQL);
-        return $beans;
-    }
-
-    public function find_index_by_tag($tag='',$rows=5){
-        $this->db->select("id,name,firedate,minipic,largepic");
-        $this->db->like('tags',$tag);
-        $this->db->order_by('firedate','desc');
-        $this->db->limit($rows,0);
-        $query = $this->db->get($this->table());
-        $beans = $query->result_array();
-        return $beans;
-    }
-
-    public function find_index_recommend(){
-
-        $this->db->select('id,name,minipic');
-        $this->db->limit(5,0);
-        $this->db->order_by('firedate','desc');
-        $query = $this->db->get($this->table());
-        return $query->result_array();
-    }
-
-
-
-    
 }   

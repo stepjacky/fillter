@@ -98,11 +98,11 @@ class MY_Model extends CI_Model
     /**
      * @param array;
      */
-    public function save($data,$pk='id')
+    public function save($data,$pk='id',$genId=TRUE)
     {
 
 
-        if($pk=='id')
+        if($pk=='id' && $genId)
            $data[$pk]=getGuidId();
 
         $str = $this->db->insert_string($this->table(), $data);
@@ -164,10 +164,11 @@ class MY_Model extends CI_Model
     }
 
     public function get($id,$pk='id'){
-
         $id = urldecode($id);
+
         $query = $this->db->get_where($this->table(), array($pk => $id));
-        return  $query->row_array();
+        $bean =   $query->row_array();
+        return count($bean)==0?$this->emptyObject():$bean;
     }
 
     public function table(){
@@ -179,7 +180,7 @@ class MY_Model extends CI_Model
       */
     public function emptyObject($pk='id'){
         $fields = $this->db->list_fields($this->table());
-        $data = array();
+        $data = array('empty'=>true);
         foreach ($fields as $field)
         {
             $data[$field]="";
@@ -262,7 +263,7 @@ class PK_Model extends Media_Model{
         if(!$this->__valid($id))return;
         $bean = $this->get($id,$pk);
         if(empty($bean)){
-            $this->save($data,$pk);
+            $this->save($data,$pk,FALSE);
         }else{
             $this->update($data,$pk);
         }

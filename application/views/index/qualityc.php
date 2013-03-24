@@ -1,1 +1,0 @@
-<link href="/resources/styles/index/artitle.css" rel="stylesheet"  />

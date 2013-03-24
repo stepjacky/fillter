@@ -28,13 +28,39 @@ class Admin extends MY_Controller {
      
     public  function __construct(){
         parent::__construct();
+        $this->load->model('Myuser_model','usrDao');
     }
 
-    public function index($site='index'){
+    public function index(){
+
+        (!$this->nsession->userdata('user')) AND redirect('admin/openlogin');
+
+
         $this->load->view("admin/header");
-        $this->load->view("admin/".$site);
+        $this->load->view("admin/index");
         $this->load->view("admin/footer");
     }
-    
-    
+
+    public function openlogin(){
+        $this->load->view("admin/header");
+        $this->load->view("admin/openlogin");
+        $this->load->view("admin/footer");
+    }
+
+    public function login(){
+
+        $id  =$this->_post("id");
+        $password  =$this->_post('password');
+        $user = $this->usrDao->login($id,$password);
+        $this->fireLog($user);
+        !$user  AND redirect('/admin/openlogin');
+        $this->nsession->set_userdata('user',$user);
+        redirect('/admin/');
+
+    }
+
+    public function logout(){
+        $this->nsession->sess_destroy();
+        redirect('/admin/openlogin');
+    }
 }   

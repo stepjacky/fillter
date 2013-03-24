@@ -9,6 +9,9 @@
     <script type="text/javascript" src="/resources/ckfinder/ckfinder.js"></script>
 
     <link type="text/css" href="/resources/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet" />
+
+    <link type="text/css" href="/resources/bootstrap/font-awesome/css/font-awesome.css" rel="stylesheet" />
+
     <link type="text/css" href="/resources/bootstrap/css/datepicker.css" media="screen" rel="stylesheet" />
 
     <link href="/resources/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />
@@ -18,11 +21,9 @@
     <![endif]-->
     <script type="text/javascript" src="/resources/bootstrap/js/bootstrap.js"></script>
     <script type="text/javascript" src="/resources/bootstrap/js/bootstrap-datepicker.js"></script>
-
-    <style>
-        body{
-            padding-top: 50px;
-        }
-    </style>
+    <link rel="stylesheet" href="/resources/zTree/css/zTreeStyle/zTreeStyle.css" type="text/css">
+    <script type="text/javascript" src="/resources/zTree//js/jquery.ztree.core-3.5.js"></script>
+    <link href="/resources/styles/admin/login.css"  rel="stylesheet" media="screen"  >
 </head>
 <body>
+<div class="container">

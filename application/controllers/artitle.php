@@ -45,34 +45,60 @@ class Artitle extends Media_Controller {
       */
     public function editNew($id=-1){
         
-       $data = array(); 
-             
-               $ckcfg = array();
-               $ckcfg["name"]  ="content";          
-      
-        if($id!=-1){
-            $id = urldecode($id);
-            $data = $this->dao->get($id);
-            $this->fireLog($data);
-            $ckcfg["value"] = $data["content"];
 
-        }
-        
-             $data['my_editor'] = $this->create_ckeditor->createEditor( $ckcfg);
-        $this->load->view("admin/res-head");
-        $this->load->view($this->dao->table()."/editNew",$data);
-        $this->load->view("admin/footer");
+       $ckcfg = array();
+       $ckcfg["name"]  ="content";
+       $id = urldecode($id);
+       $data = $this->dao->get($id);
+       $data['id'] = $id;
+       $this->fireLog($data);
+       $ckcfg["value"] = $data["content"];
+       $ckcfg["height"] = 500;
+       $data['my_editor'] = $this->create_ckeditor->createEditor( $ckcfg);
+       $this->load->view('admin/header');
+       $this->load->view($this->dao->table()."/editNew",$data);
+       $this->load->view('admin/footer');
     }
 
     public function one($id){
         $id = urldecode($id);
-        $data  = array('flag'=>'artitle');
-        $data['bean'] = $this->dao->get($id);
-        $tags = $this->tagDao->find_by_catalog('artitle');
-        $data['tags']=$tags;
-        $this->__user_header($data);
+        $data  = array();
+        $bean  = $this->dao->get($id);
+        $bean['id'] = $id;
+        $data['bean'] = $bean;
         $this->load->view($this->dao->table()."/one", $data);
-        $this->load->view("apps/footer");
+
+    }
+
+    public function one_info($aid,$lang='chinese'){
+        $bean  =$this->dao->find_info($aid,$lang);
+        $data  = array(
+            "bean"=>$bean
+        );
+
+        $this->load->view('artitle/info',$data);
+    }
+    public function edit_one_info($aid,$lang='chinese'){
+        $bean  =$this->dao->find_info($aid,$lang);
+        $ckcfg["name"]  ="content";
+        $ckcfg["value"] = isset($bean["content"])?$bean["content"]:'';
+        $ckcfg["height"] = 500;
+        $ckcfg["width"] = 800;
+        $data['my_editor'] = $this->create_ckeditor->createEditor( $ckcfg);
+        $data["bean"]=$bean;
+        $this->load->view('admin/header-withoutbar');
+        $this->load->view('artitle/info-edit',$data);
+        $this->load->view('admin/footer');
+    }
+
+    public function save_info($aid,$lang){
+        $data =  array(
+            'aid'=>$aid,
+            'lang'=>$lang,
+            'name'=> $this->_post('name'),
+            'content'=>$this->_post('content')
+        );
+        $this->dao->save_info($data);
     }
 
     public  function selector($page=1){

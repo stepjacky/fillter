@@ -43,42 +43,8 @@ class Myuser_model extends Media_Model {
         $this->db->trans_complete();
     }
 
-    public function getByQQOpenId($openId){
-        $query = $this->db->get_where($this->table, array('qq_openId' => $openId));
-        if ($query->num_rows() > 0)
-        {
-            $row = $query->first_row("array");
-            return $row;
-        }else{
-            return FALSE;
-        }
-    }
 
-    public function getUserName($nick){
-        if(strlen(trim($nick))==0)
-            $nick ='BE通讯用户';
-        $sql = "select amount from qqnickname where name='$nick'";
 
-        $query = $this->db->query($sql);
-        if($query->num_rows()>0){
-            //该用户名已经存在,证明曾经注册过
-            $row = $query->first_row();
-            $mount = $row->amount+1;
-            $this->db->where('name', $nick);
-            $this->db->update('qqnickname', array(
-                "amount"=>$mount
-            ));
-            return $nick.$mount;
-        }else{
-            $data = array(
-                'name' => $nick,
-                'amount' => 1
-            );
-
-            $this->db->insert('qqnickname', $data);
-            return $nick;
-        }
-    }
 
     public function  save($data){
         $this->db->trans_start();
@@ -89,18 +55,7 @@ class Myuser_model extends Media_Model {
         $this->db->trans_complete();
     }
 
-    public function find_by_email($email){
-        if(!$this->__valid($email))return FALSE;
-        $this->db->select('id,name,password');
-        $this->db->where('email',$email);
-        $query = $this->db->get($this->table());
-        $user = $query->first_row('array');
-        return $user;
-
-    }
-
     public function login($username,$password){
-
 
         $this->db->where('id', $username);
         $this->db->where('password', $password);
@@ -111,7 +66,7 @@ class Myuser_model extends Media_Model {
 
     }
 
-    public function register($email,$name,$password){
+    public function register($email,$password){
 
 
        $email = urldecode($email);
@@ -121,7 +76,6 @@ class Myuser_model extends Media_Model {
        if($count!=0)return FALSE;
        $data = array(
            'id'=>$email,
-           'name'=>$name,
            'password'=>$password
        );
        $this->save($data);

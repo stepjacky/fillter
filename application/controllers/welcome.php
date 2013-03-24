@@ -20,32 +20,13 @@ class Welcome extends MY_Controller
 
         $this->load->view("apps/footer");
     }
+    public function catalog($id){
 
-
-    public function product()
-    {
-         $this->__user_header($data);
-        $this->load->view("index/artitle", $data);
-        $this->load->view("apps/footer");
-    }
-
-    public function research()
-    {
-        $data = array("flag" => "research");
-
+        $data = array("flag" => "index");
         $this->__user_header($data);
 
-        $this->load->view("index/research", $data);
+        $this->load->view("index/catalog", $data);
 
-        $this->load->view("apps/footer");
-    }
-
-    public function qualityc()
-    {
-        $data = array("flag" => "qualityc");
-
-        $this->__user_header($data);
-        $this->load->view("index/qualityc", $data);
         $this->load->view("apps/footer");
     }
 
@@ -74,17 +55,7 @@ class Welcome extends MY_Controller
         $this->load->view("apps/footer");
     }
 
-    public function openlogin()
-    {
-        $data = array(
-            "flag" => "index"
-        );
-        $this->__user_header($data);
 
-        $this->load->view("index/openlogin");
-
-        $this->load->view("apps/footer");
-    }
 
 }
 

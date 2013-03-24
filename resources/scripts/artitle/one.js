@@ -6,10 +6,31 @@
  * To change this template use File | Settings | File Templates.
  */
 
-function feedback(aid,cntid){
-    var content = $("#"+cntid).val();
-    var url="/comment/add_for_artitle/"+aid+"?ds="+new Date();
-    $.post(url,"content="+content,function(){
-        alert('评论成功，谢谢参与');
+
+$(function(){
+
+    $("div.btn-group button").bind("click",langClick);
+
+
+});
+
+
+function langClick(evt){
+    var $that = $(evt.target);
+    var btns = $that.siblings("button");
+    $.each(btns,function(idx,item){
+        if($(item).hasClass("btn-success")){
+           $(item).removeClass("btn-success");
+           $(item).addClass("btn-info");
+        }
     });
+    $that.removeClass("btn-info");
+    $that.addClass("btn-success");
+    var aid = $that.attr('aid');
+    var lang = $that.attr('lang');
+    $("#detail").load('artitle/one_info/'+aid+"/"+lang);
+}
+
+function editOne(id,lang){
+    window.showModalDialog('artitle/edit_one_info/'+id+'/'+lang);
 }
