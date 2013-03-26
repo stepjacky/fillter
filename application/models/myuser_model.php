@@ -84,6 +84,11 @@ class Myuser_model extends Media_Model {
     }
 
 
+    public function add_contact($data){
+
+        $this->db->insert('contact_info',$data);
+    }
+
 
 
     

@@ -9,7 +9,12 @@
 |	http://codeigniter.com/user_guide/general/hooks.html
 |
 */
-
+$hook['pre_controller'] = array(
+    'class'    => 'LangClass',
+    'function' => 'set_lang',
+    'filename' => 'Langclass.php',
+    'filepath' => 'hooks',
+);
 
 
 /* End of file hooks.php */

@@ -65,8 +65,8 @@ var zNodes =[
     { id:23, pId:2, name:"多层金属烧结网"},
     { id:231, pId:23, name:"五层金属烧结网"},
     { id:24, pId:2, name:"金属纤维制品"},
-    { id:241, pId:24, name:"波纹状熔体滤芯"},
-    { id:242, pId:24, name:"筒状滤芯"},
+    { id:241, pId:24, name:"金属纤维毡制作的滤芯"},
+    { id:242, pId:24, name:"多层金属烧结网制作的滤芯"},
     { id:243, pId:24, name:"过滤碟片"},
     { id:244, pId:24, name:"高温气体除尘滤袋"},
     { id:245, pId:24, name:"太阳能回热器网芯"},
@@ -82,10 +82,10 @@ var zNodes =[
     { id:322, pId:32, name:"金属纤维毡技术"},
     { id:323, pId:32, name:"金属烧结网技术"},
     { id:324, pId:32, name:"各种滤器的设计及加工技术"},
-    { id:33, pId:3, name:"研发项目和课题"},
-    { id:331, pId:33, name:"金属纤维研发"},
-    { id:332, pId:33, name:"金属纤维毡研发"},
-    { id:333, pId:33, name:"金属烧结网研发"},
+    { id:33, pId:3, name:"研发项目、课题及专利"},
+    { id:331, pId:33, name:"重点研发项目"},
+    { id:332, pId:33, name:"重点研发课题"},
+    { id:333, pId:33, name:"专利"},
     { id:4, pId:0, name:"质量控制"},
     { id:41, pId:4, name:"质量方针"},
     { id:42, pId:4, name:"ISO 9000质量管理体系"},
@@ -103,7 +103,9 @@ var zNodes =[
     { id:57, pId:5, name:"企业宣传册"},
     { id:6, pId:0, name:"联系方式"},
     { id:61, pId:6, name:"地址电话"},
-    { id:62, pId:6, name:"常见问题"}
+    { id:62, pId:6, name:"常见问题"},
+    { id:63, pId:6, name:"地图显示"},
+    { id:64, pId:6, name:"简易联系"}
 
 
 

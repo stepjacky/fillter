@@ -388,7 +388,7 @@ span.HighlightSearch {
     display: block;
     line-height: 47px;
     text-decoration: none;
-    color: #666;
+    color: #ffffff;
     font-size: 14px;
     font-weight: bold;
     text-align: center;
@@ -401,7 +401,9 @@ span.HighlightSearch {
     height: 47px;
     margin-left: 2px;
     width: auto;
+    /*
     text-shadow: #fff 1px 1px 0px;
+    */
     padding: 0 32px 0 22px;
 }
 

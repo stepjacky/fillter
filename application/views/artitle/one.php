@@ -3,11 +3,11 @@
 ?>
 
 <div class="btn-group">
-    <button class="btn btn-info" lang="chinese" aid="<?=$id?>" >汉</button>
-    <button class="btn btn-info" lang="english"  aid="<?=$id?>" >英</button>
-    <button class="btn btn-info" lang="franch"  aid="<?=$id?>" >法</button>
-    <button class="btn btn-info" lang="japanese"  aid="<?=$id?>" >日</button>
-    <button class="btn btn-info" lang="german"  aid="<?=$id?>" >德</button>
+    <button class="btn btn-info" lang="zh-cn" aid="<?=$id?>" >汉</button>
+    <button class="btn btn-info" lang="en-us"  aid="<?=$id?>" >英</button>
+    <button class="btn btn-info" lang="fr-fr"  aid="<?=$id?>" >法</button>
+    <button class="btn btn-info" lang="ja"  aid="<?=$id?>" >日</button>
+    <button class="btn btn-info" lang="de-de"  aid="<?=$id?>" >德</button>
 </div>
 <div id="detail">
 

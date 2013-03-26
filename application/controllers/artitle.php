@@ -70,7 +70,7 @@ class Artitle extends Media_Controller {
 
     }
 
-    public function one_info($aid,$lang='chinese'){
+    public function one_info($aid,$lang='zh-cn'){
         $bean  =$this->dao->find_info($aid,$lang);
         $data  = array(
             "bean"=>$bean
@@ -78,12 +78,12 @@ class Artitle extends Media_Controller {
 
         $this->load->view('artitle/info',$data);
     }
-    public function edit_one_info($aid,$lang='chinese'){
+    public function edit_one_info($aid,$lang='zh-cn'){
         $bean  =$this->dao->find_info($aid,$lang);
         $ckcfg["name"]  ="content";
         $ckcfg["value"] = isset($bean["content"])?$bean["content"]:'';
         $ckcfg["height"] = 500;
-        $ckcfg["width"] = 800;
+        $ckcfg["width"] = 880;
         $data['my_editor'] = $this->create_ckeditor->createEditor( $ckcfg);
         $data["bean"]=$bean;
         $this->load->view('admin/header-withoutbar');

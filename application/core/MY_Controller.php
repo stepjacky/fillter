@@ -153,7 +153,6 @@ class MY_Controller extends CI_Controller
     }
 
     public   function __user_header(&$data){
-        $data['headmenu'] = $this->__head_menus($data['flag']);
         $this->load->view("apps/header",$data);
     }
 

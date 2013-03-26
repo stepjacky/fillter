@@ -145,7 +145,10 @@ class Nsession {
     */
 	function _sess_run()
 	{
-		session_start();
+        if(!isset($_SESSION))
+        {
+            session_start();
+        }
 
 		$session_id_ttl = $this->object->config->item('sess_expiration');
 

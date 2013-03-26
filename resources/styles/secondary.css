@@ -1,0 +1,261 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, h1, h2, h3, hr, p, dl, dt, dd, ul, ol, li, form, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    font-weight: normal;
+}
+h2{
+    font-weight: bolder;
+}
+/*ul,ol,li {list-style:none;}*/
+/*body,button,input,select,textarea {font:12px "",Tahoma,arial,sans-serif; color:#555;}*/
+img, a img {
+    border: none;
+}
+
+/** Link */
+a:link, a:visited {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    text-decoration:none;
+    color: #0e90d2;
+}
+
+a img, img, embed, object {
+    border: none;
+    vertical-align: top;
+}
+
+/** Global */
+body {
+    background: #fff;
+    color: #383838;
+}
+
+.screen {
+    overflow: hidden;
+    *zoom: 1;
+}
+
+.clear {
+    *zoom: 1;
+}
+
+.clear:after {
+    content: '';
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.hidden {
+    display: none;
+}
+.menu{ width:300px;}
+.item{}
+.item h2{ cursor:pointer; height:30px; line-height:30px;}
+.item ol{ background:#f2f2f2; margin-left:15px; display:block;}
+
+.menu {
+    width: 200px;
+    min-height: 750px;
+    height: auto;
+    overflow: hidden;
+    float: left;
+}
+
+.menu item {
+    width: 180px;
+    overflow: hidden;
+    float: left;
+}
+
+.menu h2 {
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 14px;
+    color: #333333;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #333333;
+    padding-left: 20px;
+}
+
+.menu ol {
+    margin-top: 15px;
+}
+
+.menu ol li {
+    width: 150px;
+    line-height: 20px;
+    overflow: hidden;
+    padding: 5px;
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 14px;
+    color: #333333;
+    list-style: none;
+    margin-left: 15px;
+}
+
+.cont {
+    width: 980px;
+    margin-top: 8px;
+    overflow: hidden;
+    float: left;
+}
+
+.cont h1 {
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 14px;
+    color: #333333;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.cont_dx {
+    height: 3px;
+    width: 980px;
+    background: url(/resources/images/common/dianbg.jpg) repeat-x;
+    overflow: hidden;
+    float: left;
+}
+
+/**分类 */
+.left_list {
+    width: 200px;
+    min-height: 750px;
+    height: auto;
+    overflow: hidden;
+    float: left;
+}
+
+/**详细内容 */
+.list_detail {
+    width: 500px;
+    height: 750px;
+    overflow: hidden;
+    float: left;
+    margin-left: 30px;
+}
+
+.list_detail h1 {
+    width: 500px;
+    height: 40px;
+    overflow: hidden;
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 16px;
+    color: #0f6f0f;
+    font-weight: bold;
+    padding-left: 10px;
+    line-height: 40px;
+    border-bottom-width: 1px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-bottom-color: #999999;
+}
+
+.list_detail h2 {
+    height: 40px;
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 16px;
+    color: #333333;
+    font-weight: bold;
+    line-height: 40px;
+    margin-left: 20px;
+    *margin-left: 10px;
+    float: left;
+}
+
+.list_detail_dx {
+    height: 3px;
+    width: 460px;
+    background: url(/resources/images/common/dianbg.jpg) repeat-x;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.list_detail h3 {
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 14px;
+    color: #333333;
+    padding-left: 30px;
+    line-height: 50px;
+}
+
+.list_detail ul {
+    margin-top: 10px;
+    width: 500px;
+    float: left;
+}
+
+.list_detail li {
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 14px;
+    color: #333333;
+    padding-left: 30px;
+    line-height: 30px;
+    list-style: none;
+}
+
+.list_detail img {
+    width: 307px;
+    height: 242px;
+    overflow: hidden;
+    margin-left: 80px;
+    *margin-left: 40px;
+    float: left;
+}
+
+/**联系方式  */
+.contact {
+    width: 220px;
+    min-height: 750px;
+    height: auto;
+    overflow: hidden;
+    float: left;
+    background-color: #efefef;
+    margin-left: 30px;
+    *margin-left: 15px;
+    margin-top: 5px;
+}
+
+.contact h1 {
+    width: 220px;
+    height: 35px;
+    overflow: hidden;
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 16px;
+    color: #0f6f0f;
+    font-weight: bold;
+    padding-left: 10px;
+    line-height: 35px;
+    border-bottom-width: 1px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-bottom-color: #999999;
+}
+
+.contact ul {
+    margin-top: 10px;
+}
+
+.contact li {
+    font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
+    font-size: 12px;
+    color: #666666;
+    line-height: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
