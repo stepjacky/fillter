@@ -26,8 +26,9 @@ class Welcome extends MY_Controller
 
         $data = array("flag" => "index");
         $this->__user_header($data);
-
-        $tree = $this->adao->find_cata_content(1111);
+        $locale = $this->nsession->userdata('locale');
+        if(! $locale) $locale='zh-cn';
+        $tree = $this->adao->find_cata_content($id,$locale);
 
         $data['tree'] = $tree;
         $tid = substr($id,0,1);

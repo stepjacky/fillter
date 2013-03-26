@@ -46,23 +46,7 @@
 
     <!--内容详情-->
     <div class="list_detail">
-        <h1>纯金属纤维线</h1>
-        <h2>材料</h2>
-        <div class="list_detail_dx"></div>
-        <h3>SS316L不锈钢，铁铬铝合金，哈氏合金，纯镍</h3>
-        <h2>优势</h2>
-        <div class="list_detail_dx"></div>
-        <ul>
-            <li>抗拉强度和切断强度大</li>
-            <li>电阻率稳定</li>
-            <li>耐腐蚀</li>
-            <li>耐高温</li>
-            <li>导电性能好</li>
-        </ul>
-        <h2>应用描述</h2>
-        <div class="list_detail_dx"></div>
-        <h3>由单股或多股金属丝制成的柔性线，可用于防静电刷，导电缝纫线等。</h3>
-        <div class="img"><img src="/resources/images/common/detailimg01.jpg" alt="img01"/></div>
+        <?=$tree['content']?>
 
     </div>
     <!--内容详情-->
