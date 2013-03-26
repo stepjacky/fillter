@@ -101,7 +101,7 @@ class Artitle_model extends PK_Model {
         $this->db->where('lang',$lang);
         $query = $this->db->get('artitle_info');
         $data = $query->first_row('array');
-        $bean['content'] = isset($data['content'])?:'';
+        $bean['content'] = isset($data['content'])?$data['content']:'';
 
         $SQL="select af.name name from artitle a join artitle_info af on af.aid=a.parent and af.lang=?  where a.id=?";
         $query = $this->db->query($SQL,array($lang,$id));

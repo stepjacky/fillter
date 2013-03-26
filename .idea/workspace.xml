@@ -71,7 +71,7 @@
       <file leaf-file-name="artitle_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/artitle_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="19" selection-start="3599" selection-end="3606" vertical-scroll-proportion="-14.794118">
+            <state line="103" column="67" selection-start="3651" selection-end="3651" vertical-scroll-proportion="-14.794118">
               <folding />
             </state>
           </provider>
@@ -80,16 +80,16 @@
       <file leaf-file-name="catalog_1.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/index/catalog_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="31" selection-start="2999" selection-end="3021" vertical-scroll-proportion="-5.970588">
+            <state line="109" column="31" selection-start="3000" selection-end="3021" vertical-scroll-proportion="-10.382353">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catalog_2.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="catalog_2.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/index/catalog_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="29" selection-start="2232" selection-end="2232" vertical-scroll-proportion="-4.4117646">
+            <state line="61" column="29" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.18115942">
               <folding />
             </state>
           </provider>
@@ -122,10 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catalog_6.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="catalog_6.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/index/catalog_6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="0.34541062">
+            <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="-8.411765">
               <folding />
             </state>
           </provider>
@@ -149,7 +149,6 @@
         <option value="$PROJECT_DIR$/resources/styles/index.css" />
         <option value="$PROJECT_DIR$/application/models/myuser_model.php" />
         <option value="$PROJECT_DIR$/resources/scripts/index/catalog.js" />
-        <option value="$PROJECT_DIR$/application/models/artitle_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/welcome.php" />
         <option value="$PROJECT_DIR$/application/views/index/catalog_1.php" />
         <option value="$PROJECT_DIR$/application/views/index/catalog_2.php" />
@@ -157,6 +156,7 @@
         <option value="$PROJECT_DIR$/application/views/index/catalog_4.php" />
         <option value="$PROJECT_DIR$/application/views/index/catalog_5.php" />
         <option value="$PROJECT_DIR$/application/views/index/catalog_6.php" />
+        <option value="$PROJECT_DIR$/application/models/artitle_model.php" />
       </list>
     </option>
   </component>
@@ -549,7 +549,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -681,27 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/artitle_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="19" selection-start="3599" selection-end="3606" vertical-scroll-proportion="-14.794118">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/index/catalog_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="31" selection-start="2999" selection-end="3021" vertical-scroll-proportion="-5.970588">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/index/catalog_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="29" selection-start="2232" selection-end="2232" vertical-scroll-proportion="-4.4117646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="29" selection-start="1489" selection-end="1489" vertical-scroll-proportion="-6.617647">
@@ -725,7 +704,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="0.34541062">
+        <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="-8.411765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/artitle_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="67" selection-start="3651" selection-end="3651" vertical-scroll-proportion="-14.794118">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index/catalog_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="31" selection-start="3000" selection-end="3021" vertical-scroll-proportion="-10.382353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index/catalog_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="29" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.18115942">
           <folding />
         </state>
       </provider>
