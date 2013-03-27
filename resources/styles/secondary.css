@@ -208,12 +208,12 @@ body {
 }
 
 .list_detail img {
-    width: 307px;
-    height: 242px;
+    width: auto;
+    height: auto;
     overflow: hidden;
-    margin-left: 80px;
+   /* margin-left: 80px;
     *margin-left: 40px;
-    float: left;
+    float: left;*/
 }
 
 /**联系方式  */
