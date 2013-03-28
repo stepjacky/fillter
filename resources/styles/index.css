@@ -226,8 +226,13 @@ body {
     line-height: 25px;
 }
 .contact-box li input{
-    width:150px ;
+    width:90% ;
     height: 20px;
+    border: #084654 1px solid;
+}
+.contact-box li textarea{
+    width:90% ;
+    height: 60px;
     border: #939393 1px solid;
 }
 .contact-box li a{

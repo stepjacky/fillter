@@ -84,7 +84,7 @@ body {
     font-size: 14px;
     color: #333333;
     border-bottom-width: 1px;
-    border-bottom-style: solid;
+    border-bottom-style: dotted;
     border-bottom-color: #333333;
     padding-left: 20px;
 }

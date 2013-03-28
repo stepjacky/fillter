@@ -106,17 +106,27 @@
           <form id="cform">
             <ul class="contact-box">
             <li>
-              邮件:<input  name="email"  type="text"  />
+              姓名:<br/>
+                <input  name="name"  type="text"  />
             </li>
              <li>
-             电话:<input    name="phone"  type="text"  />
+              单位:<br/>
+                 <input name="address"  type="text"  />
+             </li>
+
+             <li>
+               电话:<br/>
+                 <input    name="phone"  type="text"  />
             </li>
              <li>
-                    公司:<input  name="company"  type="text"  />
-            </li>
+               邮件:<br/>
+                 <input  name="email"  type="text"  />
+             </li>
              <li>
-                   地址:<input  name="address"  type="text"  />
-            </li>
+               信息:<br/>
+                 <textarea  name="company" ></textarea>
+             </li>
+
             <li>
                 <a href="#" onclick="contactMe('cform')">
                    <img  src="/resources/images/common/contact.png"   />
