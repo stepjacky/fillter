@@ -319,6 +319,10 @@
         </div>
     </div>
 </li>
+<li is="menuindex">
+    <a class="about_huawei" href="/welcome/catalog/6" iblk="联系方式"><span>联系方式</span></a>
+
+</li>
 </ul>
 </div>
 </div>

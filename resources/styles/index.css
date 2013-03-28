@@ -134,7 +134,7 @@ body {
 /*footer*/
 .footer {
     width: 980px;
-    min-height: 345px;
+    min-height: 300px;
     height: auto;
     margin: 0 auto;
     overflow: hidden;
@@ -214,6 +214,7 @@ body {
     width: 980px;
     height: 25px;
     margin: 0 auto;
+    margin-top: 30px;
 }
 
 .contact-box{
