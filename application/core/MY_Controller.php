@@ -140,6 +140,10 @@ class MY_Controller extends CI_Controller
     protected function _post($name){
         return $this->input->post($name, TRUE);
     }
+
+    protected function _post_no_xsl($name){
+        return $this->input->post($name);
+    }
     protected function _post_exists($key,&$data){
         if(!isset($data[$key]) || !$data[$key]) return FALSE;
         return TRUE;

@@ -96,7 +96,7 @@ class Artitle extends Media_Controller {
             'aid'=>$aid,
             'lang'=>$lang,
             'name'=> $this->_post('name'),
-            'content'=>$this->_post('content')
+            'content'=>$this->_post_no_xsl('content')
         );
         $this->dao->save_info($data);
     }
