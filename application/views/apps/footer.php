@@ -26,7 +26,6 @@
 
     <ul>
         <li><a href="#"><span>关于菲尔特</span></a></li>
-        <li><a href="/welcome/catalog/51">发展历程</a></li>
         <li><a href="/welcome/catalog/52">发展历程</a></li>
         <li><a href="/welcome/catalog/53">企业文化</a></li>
         <li><a href="/welcome/catalog/54">企业荣誉</a></li>
@@ -42,6 +41,11 @@
         <li><a href="#">西部钛业有限责任公司</a></li>
         <li><a href="#">西安天力金属复合有限公司</a></li>
         <li><a href="#">西安诺博尔公司</a></li>
+        <li><a href="#"> 西安诺博尔稀贵金属材料有限公司</a></li>
+        <li><a href="#">西安优耐特容器制造有限公司</a></li>
+        <li><a href="#">西安瑞福莱钨钼有限公司</a></li>
+        <li><a href="#">西安庄信金属材料有限公司</a></li>
+
     </ul>
     <!--法律声明-->
     <ul>

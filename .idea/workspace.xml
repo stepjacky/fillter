@@ -9,9 +9,9 @@
     <file path="/header.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364287023456" ignored="false" />
     <file path="/globle_cn.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1363584218001" ignored="false" />
     <file path="/index.js" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364223882051" ignored="false" />
-    <file path="/index.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364288249281" ignored="false" />
+    <file path="/index.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364467672563" ignored="false" />
     <file path="/index.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364283993633" ignored="false" />
-    <file path="/footer.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364276677996" ignored="false" />
+    <file path="/footer.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364466011387" ignored="false" />
     <file path="/admin.js" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364104509065" ignored="false" />
     <file path="/editNew.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364101383568" ignored="false" />
     <file path="/artitle_model.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364264908855" ignored="false" />
@@ -59,10 +59,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="secondary.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="secondary.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/styles/secondary.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="215" column="18" selection-start="3897" selection-end="3961" vertical-scroll-proportion="0.7540603">
+            <state line="215" column="18" selection-start="3897" selection-end="3961" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/apps/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="45" selection-start="1787" selection-end="1787" vertical-scroll-proportion="-33.82353">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/apps/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="112" selection-start="1659" selection-end="1659" vertical-scroll-proportion="-10.382353">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/styles/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="213" column="17" selection-start="3694" selection-end="3694" vertical-scroll-proportion="1.4791183">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="globle_cn.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/globle_cn.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="207" column="21" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/styles/index/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="106" column="19" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,11 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
-        <option value="$PROJECT_DIR$/application/views/index/search.php" />
-        <option value="$PROJECT_DIR$/resources/globle_cn.css" />
-        <option value="$PROJECT_DIR$/application/views/apps/header.php" />
-        <option value="$PROJECT_DIR$/resources/styles/index.css" />
         <option value="$PROJECT_DIR$/application/models/myuser_model.php" />
         <option value="$PROJECT_DIR$/resources/scripts/index/catalog.js" />
         <option value="$PROJECT_DIR$/application/controllers/welcome.php" />
@@ -94,6 +150,11 @@
         <option value="$PROJECT_DIR$/application/views/index/catalog_6.php" />
         <option value="$PROJECT_DIR$/application/models/artitle_model.php" />
         <option value="$PROJECT_DIR$/resources/styles/secondary.css" />
+        <option value="$PROJECT_DIR$/application/views/apps/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/apps/header.php" />
+        <option value="$PROJECT_DIR$/resources/styles/index/index.css" />
+        <option value="$PROJECT_DIR$/resources/globle_cn.css" />
+        <option value="$PROJECT_DIR$/resources/styles/index.css" />
       </list>
     </option>
   </component>
@@ -177,6 +238,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fillter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fillter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,9 +510,9 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="F:/maven/repo/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.jar" />
     <property name="FullScreen" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -493,7 +576,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23768736" sideWeight="0.6707727" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24089935" sideWeight="0.6707727" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -569,31 +652,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="5" selection-start="5255" selection-end="5255" vertical-scroll-proportion="16.82353" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/globle_cn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="389" column="26" selection-start="6131" selection-end="6131" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/styles/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="18" selection-start="3847" selection-end="3847" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/index/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="635" selection-end="639" vertical-scroll-proportion="-8.088235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/index/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="0" selection-start="5684" selection-end="5684" vertical-scroll-proportion="-15.117647" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/myuser_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="39" selection-start="2718" selection-end="2718" vertical-scroll-proportion="-18.441177" />
@@ -606,63 +664,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="38" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="38" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="29" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.030193238">
-          <folding />
-        </state>
+        <state line="48" column="29" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.030193238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="723" selection-end="723" vertical-scroll-proportion="0.030193238">
-          <folding />
-        </state>
+        <state line="29" column="29" selection-start="723" selection-end="723" vertical-scroll-proportion="0.030193238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="29" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.030193238">
-          <folding />
-        </state>
+        <state line="41" column="29" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.030193238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="0.030193238">
-          <folding />
-        </state>
+        <state line="23" column="15" selection-start="559" selection-end="559" vertical-scroll-proportion="0.030193238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/artitle_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="67" selection-start="3651" selection-end="3651" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="103" column="67" selection-start="3651" selection-end="3651" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="31" selection-start="3000" selection-end="3021" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="109" column="31" selection-start="3000" selection-end="3021" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index/catalog_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="13" selection-start="2680" selection-end="2680" vertical-scroll-proportion="0.030193238">
-          <folding />
-        </state>
+        <state line="80" column="13" selection-start="2680" selection-end="2680" vertical-scroll-proportion="0.030193238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/styles/secondary.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="18" selection-start="3897" selection-end="3961" vertical-scroll-proportion="0.7540603">
+        <state line="215" column="18" selection-start="3897" selection-end="3961" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/apps/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="45" selection-start="1787" selection-end="1787" vertical-scroll-proportion="-33.82353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/apps/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="112" selection-start="1659" selection-end="1659" vertical-scroll-proportion="-10.382353">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/globle_cn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="21" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="19" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="213" column="17" selection-start="3694" selection-end="3694" vertical-scroll-proportion="1.4791183">
           <folding />
         </state>
       </provider>

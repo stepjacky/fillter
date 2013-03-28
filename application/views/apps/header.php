@@ -82,9 +82,6 @@
 
 
                     <h2><a href="/welcome/catalog/111">纺织</a></h2>
-                    <li><a href="/welcome/catalog/111">纯金属纤维线</a></li>
-                    <li><a href="/welcome/catalog/112">金属纤维混纺纱</a></li>
-                    <li><a href="javascript:;">-</a></li>
                     <h2><a href="/welcome/catalog/15">化纤</a></h2>
                     <h2><a href="/welcome/catalog/16">粘胶</a></h2>
 
@@ -92,30 +89,17 @@
 
                 <ul class="list">
                     <h2><a href="/welcome/catalog/121">汽车</a></h2>
-                    <li><a href="/welcome/catalog/121">柴油机尾气过滤</a></li>
-                    <li><a href="/welcome/catalog/122">汽车座椅加热</a></li>
-                    <li><a href="/welcome/catalog/113">汽车安全气囊</a></li>
                     <h2><a href="/welcome/catalog/18">太阳能</a></h2>
                     <h2><a href="/welcome/catalog/19">电子</a></h2>
-
-
-
-
                 </ul>
                 <ul class="list">
                     <h2><a href="/welcome/catalog/131">设备</a></h2>
-                    <li><a href="/welcome/catalog/131">燃烧器</a></li>
-                    <li><a href="/welcome/catalog/132">喷墨打印机</a></li>
-                    <li><a href="javascript:;">-</a></li>
                     <h2><a href="/welcome/catalog/1111">玻璃</a></h2>
                     <h2><a href="/welcome/catalog/17">导电塑料</a></h2>
                 </ul>
 
                 <ul class="list last">
                     <h2><a href="/welcome/catalog/14">化工</a></h2>
-                    <li><a href="/welcome/catalog/141">煤化工</a></li>
-                    <li><a href="/welcome/catalog/142">稠化器</a></li>
-                    <li><a href="javascript:;">-</a></li>
                     <h2><a href="/welcome/catalog/1111">医药</a></h2>
                     <h2><a href="/welcome/catalog/1112">冶金</a></h2>
                 </ul>
@@ -316,8 +300,7 @@
                 <ul class="list">
                     <h2><a href="/welcome/catalog/55">领导关怀</a></h2>
                     <h2><a href="/welcome/catalog/56">社会责任</a></h2>
-                    <li><a target="_blank" href="/welcome/catalog/561">节能与环保</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/562">健康与安全</a></li>
+
 
                 </ul>
                 <ul class="list last">
@@ -335,35 +318,6 @@
             <div class="shadow_b_layout"><div></div></div>
         </div>
     </div>
-</li>
-<li is="menuindex">
-    <a class="join_huawei" href="javascript:void(0);" iblk="联系方式"><span>联系方式</span></a>
-    <div class="menuitempanel" style="display: none;">
-        <div class="menucontentdiv">
-            <div class="menufillet_e"></div>
-            <div class="trad clearfix">
-
-                <ul class="list">
-                    <h2><a target="_blank"  href="/welcome/catalog/61">联系方式</h2></li>
-                </ul>
-                <ul class="list">
-                    <h2><a target="_blank"  href="/welcome/catalog/62">常见问题</h2></li>
-                </ul>
-                <ul class="list">
-                    <h2><a target="_blank"  href="/welcome/catalog/63">联系我们</h2></li>
-                </ul>
-                <ul class="list">
-                    <h2><a target="_blank"  href="/welcome/catalog/64">简易联系</h2></li>
-                </ul>
-                <div class="verticalLine" style="height: 243px;"></div>
-                <ul class="m_box">
-                    <li><a href=""><img width="142" height="189" src="/resources/images/menu/6.jpg"></a></li>
-
-                </ul>
-            </div>
-            <div class="shadow_b_layout"><div></div></div>
-        </div>
-      </div>
 </li>
 </ul>
 </div>

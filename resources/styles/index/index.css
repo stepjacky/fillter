@@ -13,7 +13,7 @@
 /** 研发实力*/
 .yf {
     width: 348px;
-    height: 267px;
+    height: 270px;
     overflow: hidden;
     margin-top: 8px;
     float: left;
@@ -63,7 +63,7 @@
 /**公司简介*/
 .gs {
     width: 370px;
-    height: 267px;
+    height: 270px;
     overflow: hidden;
     margin-top: 8px;
     float: left;
@@ -104,7 +104,7 @@
     font-family: "font-family:'Microsoft Yahei',Tahoma, Geneva, sans-serif";
     font-size: 12px;
     color: #666666;
-    line-height: 20px;
+    line-height: 19px;
     margin-left: 50px;
     *margin-left: 25px;
     list-style: square;
@@ -113,7 +113,7 @@
 /**联系方式*/
 .call {
     width: 220px;
-    height: 267px;
+    height: 270px;
     overflow: hidden;
     margin-top: 8px;
     float: left;
