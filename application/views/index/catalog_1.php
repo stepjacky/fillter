@@ -41,60 +41,35 @@
                 </ol>
             </div>
             <div class="item">
-                <h2>化纤</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/15">化纤</a></li>
+                <h2><a href="/welcome/catalog/15">化纤</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>粘胶</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/16">粘胶</a></li>
+                <h2><a href="/welcome/catalog/16">粘胶</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>导电塑料</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/17">导电塑料</a></li>
+                <h2><a href="/welcome/catalog/17">导电塑料</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>太阳能</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/18">太阳能</a></li>
+                <h2><a href="/welcome/catalog/18">太阳能</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>电子</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/19">电子</a></li>
+                <h2><a href="/welcome/catalog/19">电子</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>玻璃</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/1110">玻璃</a></li>
-
-                </ol>
+                <h2><a href="/welcome/catalog/1110">玻璃</a></h2>
             </div>
             <div class="item">
-                <h2>医药</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/1111">医药</a></li>
+                <h2><a href="/welcome/catalog/1111">医药</a></h2>
 
-                </ol>
             </div>
             <div class="item">
-                <h2>冶金</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/1112">冶金</a></li>
+                <h2><a href="/welcome/catalog/1112">冶金</a></h2>
 
-                </ol>
             </div>
 
 

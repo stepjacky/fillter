@@ -16,20 +16,18 @@
                     <li><a href="/welcome/catalog/53">企业文化</a></li>
                     <li><a href="/welcome/catalog/54">企业荣誉</a></li>
                     <li><a href="/welcome/catalog/55">领导关怀</a></li>
+                    <h2>社会责任</h2>
+                    <ol>
+                        <li><a href="/welcome/catalog/561">节能与环保</a></li>
+                        <li><a href="/welcome/catalog/562">健康与安全</a></li>
 
+                    </ol>
                     <li><a href="/welcome/catalog/57">企业宣传册</a></li>
 
                 </ol>
             </div>
 
-            <div class="item">
-                <h2>社会责任</h2>
-                <ol>
-                    <li><a href="/welcome/catalog/561">节能与环保</a></li>
-                    <li><a href="/welcome/catalog/562">健康与安全</a></li>
 
-                </ol>
-            </div>
 
         </div>
 
