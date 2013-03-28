@@ -1,7 +1,7 @@
 <link href="/resources/styles/secondary.css" rel="stylesheet" type="text/css" />
 <div class="main">
 <div class="cont">
-    <h1>产品信息→<?=$tree['pName']?></h1>
+    <h1><?=lang('s2')?>→<?=$tree['pName']?></h1>
     <div class="cont_dx"></div>
 
     <!--产品列表-->
@@ -9,47 +9,47 @@
         <div class="menu">
 
             <div class="item">
-                <h2>金属纤维</h2>
+                <h2><?=lang('s21')?></h2>
                 <ol>
-                    <li><a href="/welcome/catalog/211">不锈钢纤维</a></li>
-                    <li><a href="/welcome/catalog/212">铁烙铝纤维</a></li>
-                    <li><a href="/welcome/catalog/213">镍纤维</a></li>
-                    <li><a href="/welcome/catalog/214">哈氏合金纤维</a></li>
-                    <li><a href="/welcome/catalog/215">锆纤维</a></li>
-                    <li><a href="/welcome/catalog/216">压花纤维</a></li>
+                    <li><a href="/welcome/catalog/211"><?=lang('s211')?></a></li>
+                    <li><a href="/welcome/catalog/212"><?=lang('s212')?></a></li>
+                    <li><a href="/welcome/catalog/213"><?=lang('s213')?></a></li>
+                    <li><a href="/welcome/catalog/214"><?=lang('s214')?></a></li>
+                    <li><a href="/welcome/catalog/215"><?=lang('s215')?></a></li>
+                    <li><a href="/welcome/catalog/216"><?=lang('s216')?></a></li>
 
                 </ol>
             </div>
 
             <div class="item">
-                <h2>纤维毡</h2>
+                <h2><?=lang('s22')?></h2>
                 <ol>
-                    <li><a href="/welcome/catalog/221">不锈钢纤维烧结毡</a></li>
-                    <li><a href="/welcome/catalog/222">铁铬铝纤维烧结毡</a></li>
-                    <li><a href="/welcome/catalog/223">非烧结毡</a></li>
-                    <li><a href="/welcome/catalog/224">针刺毡</a></li>
-                    <li><a href="/welcome/catalog/225">水刺毡</a></li>
+                    <li><a href="/welcome/catalog/221"><?=lang('s221')?></a></li>
+                    <li><a href="/welcome/catalog/222"><?=lang('s222')?></a></li>
+                    <li><a href="/welcome/catalog/223"><?=lang('s223')?></a></li>
+                    <li><a href="/welcome/catalog/224"><?=lang('s224')?></a></li>
+                    <li><a href="/welcome/catalog/225"><?=lang('s225')?></a></li>
 
                 </ol>
             </div>
 
             <div class="item">
-                <h2>多层金属烧结网</h2>
+                <h2><?=lang('s23')?></h2>
                 <ol>
-                    <li><a href="/welcome/catalog/231">五层金属烧结网</a></li>
+                    <li><a href="/welcome/catalog/231"><?=lang('s231')?></a></li>
 
                 </ol>
             </div>
             <div class="item">
-                <h2>金属纤维制品</h2>
+                <h2><?=lang('s24')?></h2>
                 <ol>
-                    <li><a href="/welcome/catalog/241">金属纤维毡制作的滤芯</a></li>
-                    <li><a href="/welcome/catalog/242">多层金属烧结网制作的滤芯</a></li>
-                    <li><a href="/welcome/catalog/243">过滤碟片</a></li>
-                    <li><a href="/welcome/catalog/244">高温气体除尘滤袋</a></li>
-                    <li><a href="/welcome/catalog/245">太阳能回热器网芯</a></li>
-                    <li><a href="/welcome/catalog/246">多层网片式过滤器</a></li>
-                    <li><a href="/welcome/catalog/247">燃烧用编织网</a></li>
+                    <li><a href="/welcome/catalog/241"><?=lang('s241')?></a></li>
+                    <li><a href="/welcome/catalog/242"><?=lang('s242')?></a></li>
+                    <li><a href="/welcome/catalog/243"><?=lang('s243')?></a></li>
+                    <li><a href="/welcome/catalog/244"><?=lang('s244')?></a></li>
+                    <li><a href="/welcome/catalog/245"><?=lang('s245')?></a></li>
+                    <li><a href="/welcome/catalog/246"><?=lang('s246')?></a></li>
+                    <li><a href="/welcome/catalog/247"><?=lang('s247')?></a></li>
                 </ol>
             </div>
         </div>
@@ -67,33 +67,34 @@
 
     <!--联系方式-->
     <div class="contact">
-        <h1>联系方式</h1>
-        <ul>
-            <li>地址:中国西安经济技术开发区泾渭工业园西金路15号</li>
-            <li>邮编：710201</li>
-            <li>电话：029-86968425  029-86968420</li>
-            <li>传真：029-86968425  029-86968420</li>
-            <li>E-MAIL:xianfilter@gmail.com（销售）</li>
-            <li>xianfilter@gmail.com（技术支持）</li>
-            <li>Website: www.c-frt.com</li>
+        <h1> <?=lang('s6')?></h1>
+        <?=lang('contact-details')?>
 
-
-        </ul>
-        <h1>简易联系框</h1>
+        <h1><?=lang('contact-title')?></h1>
         <form id="cform">
             <ul class="contact-box">
                 <li>
-                    邮件:<input  name="email"  type="text"  />
+                    <?=lang('contact-user')?>:<br/>
+                    <input  name="name"  type="text"  />
                 </li>
                 <li>
-                    电话:<input    name="phone"  type="text"  />
+                    <?=lang('contact-unit')?>:<br/>
+                    <input name="address"  type="text"  />
+                </li>
+
+                <li>
+                    <?=lang('contact-phone')?>:<br/>
+                    <input    name="phone"  type="text"  />
                 </li>
                 <li>
-                    公司:<input  name="company"  type="text"  />
+                    <?=lang('contact-email')?>:<br/>
+                    <input  name="email"  type="text"  />
                 </li>
                 <li>
-                    地址:<input  name="address"  type="text"  />
+                    <?=lang('contact-message')?>:<br/>
+                    <textarea  name="company" ></textarea>
                 </li>
+
                 <li>
                     <a href="#" onclick="contactMe('cform')">
                         <img  src="/resources/images/common/contact.png"   />

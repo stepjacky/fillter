@@ -1,7 +1,7 @@
 <link href="/resources/styles/secondary.css" rel="stylesheet" type="text/css" />
 <div class="main">
 <div class="cont">
-    <h1>公司概况</h1>
+    <h1><?=lang('s5')?></h1>
     <div class="cont_dx"></div>
 
     <!--产品列表-->
@@ -9,20 +9,20 @@
         <div class="menu">
 
             <div class="item">
-                <h2>公司概况</h2>
+                <h2><?=lang('s5')?></h2>
                 <ol>
-                    <li><a href="/welcome/catalog/51">公司简介</a></li>
-                    <li><a href="/welcome/catalog/52">发展历程</a></li>
-                    <li><a href="/welcome/catalog/53">企业文化</a></li>
-                    <li><a href="/welcome/catalog/54">企业荣誉</a></li>
-                    <li><a href="/welcome/catalog/55">领导关怀</a></li>
-                    <h2>社会责任</h2>
+                    <li><a href="/welcome/catalog/51"><?=lang('s51')?></a></li>
+                    <li><a href="/welcome/catalog/52"><?=lang('s52')?></a></li>
+                    <li><a href="/welcome/catalog/53"><?=lang('s53')?></a></li>
+                    <li><a href="/welcome/catalog/54"><?=lang('s54')?></a></li>
+                    <li><a href="/welcome/catalog/55"><?=lang('s55')?></a></li>
+                    <h2><?=lang('s56')?></h2>
                     <ol>
-                        <li><a href="/welcome/catalog/561">节能与环保</a></li>
-                        <li><a href="/welcome/catalog/562">健康与安全</a></li>
+                        <li><a href="/welcome/catalog/561"><?=lang('s561')?></a></li>
+                        <li><a href="/welcome/catalog/562"><?=lang('s562')?></a></li>
 
                     </ol>
-                    <li><a href="/welcome/catalog/57">企业宣传册</a></li>
+                    <li><a href="/welcome/catalog/57"><?=lang('s57')?></a></li>
 
                 </ol>
             </div>
@@ -45,33 +45,34 @@
 
     <!--联系方式-->
     <div class="contact">
-        <h1>联系方式</h1>
-        <ul>
-            <li>地址:中国西安经济技术开发区泾渭工业园西金路15号</li>
-            <li>邮编：710201</li>
-            <li>电话：029-86968425  029-86968420</li>
-            <li>传真：029-86968425  029-86968420</li>
-            <li>E-MAIL:xianfilter@gmail.com（销售）</li>
-            <li>xianfilter@gmail.com（技术支持）</li>
-            <li>Website: www.c-frt.com</li>
+        <h1> <?=lang('s6')?></h1>
+        <?=lang('contact-details')?>
 
-
-        </ul>
-        <h1>简易联系框</h1>
+        <h1><?=lang('contact-title')?></h1>
         <form id="cform">
             <ul class="contact-box">
                 <li>
-                    邮件:<input  name="email"  type="text"  />
+                    <?=lang('contact-user')?>:<br/>
+                    <input  name="name"  type="text"  />
                 </li>
                 <li>
-                    电话:<input    name="phone"  type="text"  />
+                    <?=lang('contact-unit')?>:<br/>
+                    <input name="address"  type="text"  />
+                </li>
+
+                <li>
+                    <?=lang('contact-phone')?>:<br/>
+                    <input    name="phone"  type="text"  />
                 </li>
                 <li>
-                    公司:<input  name="company"  type="text"  />
+                    <?=lang('contact-email')?>:<br/>
+                    <input  name="email"  type="text"  />
                 </li>
                 <li>
-                    地址:<input  name="address"  type="text"  />
+                    <?=lang('contact-message')?>:<br/>
+                    <textarea  name="company" ></textarea>
                 </li>
+
                 <li>
                     <a href="#" onclick="contactMe('cform')">
                         <img  src="/resources/images/common/contact.png"   />

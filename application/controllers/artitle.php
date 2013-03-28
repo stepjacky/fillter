@@ -99,6 +99,7 @@ class Artitle extends Media_Controller {
             'content'=>$this->_post_no_xsl('content')
         );
         $this->dao->save_info($data);
+        $this->load->view('common/result-close');
     }
 
     public  function selector($page=1){

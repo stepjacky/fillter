@@ -102,14 +102,9 @@ var zNodes =[
     { id:562, pId:56, name:"健康与安全"},
     { id:57, pId:5, name:"企业宣传册"},
     { id:6, pId:0, name:"联系方式"},
-    { id:61, pId:6, name:"地址电话"},
-    { id:62, pId:6, name:"常见问题"},
-    { id:63, pId:6, name:"地图显示"},
-    { id:64, pId:6, name:"简易联系"}
-
-
-
-
+    { id:61, pId:6, name:"关于我们"},
+    { id:62, pId:6, name:"网站地图"},
+    { id:63, pId:6, name:"常见问题"}
 ];
 
 function addDiyDom(treeId, treeNode) {

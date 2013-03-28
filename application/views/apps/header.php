@@ -72,7 +72,7 @@
 <ul>
 <li is="menuindex">
 
-    <a class="trad" href="javascript:void(0);" iblk="应用领域"><span>应用领域</span></a>
+    <a class="trad" href="javascript:void(0);" iblk="<?=lang('s1')?>"><span><?=lang('s1')?></span></a>
     <div class="menuitempanel" style="display: none;">
         <div class="menucontentdiv">
             <div class="menufillet_e"></div>
@@ -81,27 +81,27 @@
 
 
 
-                    <h2><a href="/welcome/catalog/111">纺织</a></h2>
-                    <h2><a href="/welcome/catalog/15">化纤</a></h2>
-                    <h2><a href="/welcome/catalog/16">粘胶</a></h2>
+                    <h2><a href="/welcome/catalog/11"><?=lang('s11')?></a></h2>
+                    <h2><a href="/welcome/catalog/15"><?=lang('s15')?></a></h2>
+                    <h2><a href="/welcome/catalog/16"><?=lang('s16')?></a></h2>
 
                 </ul>
 
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/121">汽车</a></h2>
-                    <h2><a href="/welcome/catalog/18">太阳能</a></h2>
-                    <h2><a href="/welcome/catalog/19">电子</a></h2>
+                    <h2><a href="/welcome/catalog/12"><?=lang('s12')?></a></h2>
+                    <h2><a href="/welcome/catalog/18"><?=lang('s18')?></a></h2>
+                    <h2><a href="/welcome/catalog/19"><?=lang('s19')?></a></h2>
                 </ul>
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/131">设备</a></h2>
-                    <h2><a href="/welcome/catalog/1111">玻璃</a></h2>
-                    <h2><a href="/welcome/catalog/17">导电塑料</a></h2>
+                    <h2><a href="/welcome/catalog/13"><?=lang('s13')?></a></h2>
+                    <h2><a href="/welcome/catalog/1110"><?=lang('s1110')?></a></h2>
+                    <h2><a href="/welcome/catalog/17"><?=lang('s17')?></a></h2>
                 </ul>
 
                 <ul class="list last">
-                    <h2><a href="/welcome/catalog/14">化工</a></h2>
-                    <h2><a href="/welcome/catalog/1111">医药</a></h2>
-                    <h2><a href="/welcome/catalog/1112">冶金</a></h2>
+                    <h2><a href="/welcome/catalog/14"><?=lang('s14')?></a></h2>
+                    <h2><a href="/welcome/catalog/1111"><?=lang('s1111')?></a></h2>
+                    <h2><a href="/welcome/catalog/1112"><?=lang('s1112')?></a></h2>
                 </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
@@ -119,7 +119,7 @@
 </li>
 
 <li is="menuindex">
-    <a class="trad" href="javascript:void(0);" iblk="产品信息"><span>产品信息</span></a>
+    <a class="trad" href="javascript:void(0);" iblk="<?=lang('s2')?>"><span><?=lang('s2')?></span></a>
     <div class="menuitempanel" style="display: none;">
         <div class="menucontentdiv">
             <div class="menufillet_e"></div>
@@ -128,23 +128,23 @@
 
                 <ul class="list ">
 
-                            <h2><a target="_blank" href="/welcome/catalog/21">金属纤维</a></h2>
-                            <li><a target="_blank" href="/welcome/catalog/211">不锈钢纤维</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/212">铁烙铝纤维</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/213">镍纤维</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/214">哈氏合金纤维</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/215">锆纤维</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/216">压花纤维</a></li>
+                            <h2><a target="_blank" href="/welcome/catalog/21"><?=lang('s21')?></a></h2>
+                            <li><a target="_blank" href="/welcome/catalog/211"><?=lang('s211')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/212"><?=lang('s212')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/213"><?=lang('s213')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/214"><?=lang('s214')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/215"><?=lang('s215')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/216"><?=lang('s216')?></a></li>
 
                 </ul>
 
                         <ul class="list">
-                            <h2><a target="_blank" href="/welcome/catalog/22">纤维毡</a></h2>
-                            <li><a target="_blank" href="/welcome/catalog/221">不锈钢纤维烧结毡</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/222">铁铬铝纤维烧结毡</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+                            <h2><a target="_blank" href="/welcome/catalog/22"><?=lang('s22')?></a></h2>
+                            <li><a target="_blank" href="/welcome/catalog/221"><?=lang('s221')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/222"><?=lang('s222')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/223"><?=lang('s223')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/224"><?=lang('s224')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/225"><?=lang('s225')?></a></li>
 
 
 
@@ -153,22 +153,22 @@
 
 
                         <ul class="list">
-                            <h2><a target="_blank" href="/welcome/catalog/23">烧结网</a></h2>
-                            <li><a target="_blank" href="/welcome/catalog/231">多层金属烧结网</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/232">五层金属烧结网</a></li>
+                            <h2><a target="_blank" href="/welcome/catalog/23"><?=lang('s23')?></a></h2>
+                            <li><a target="_blank" href="/welcome/catalog/231"><?=lang('s231')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/232"><?=lang('s232')?></a></li>
 
                         </ul>
 
 
                         <ul class="list">
-                            <h2><a target="_blank" href="/welcome/catalog/24">金属纤维制品</a></h2>
-                            <li><a target="_blank" href="/welcome/catalog/241">金属纤维毡制作的滤芯</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/242">多层金属烧结网制作的滤芯</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/243">过滤碟片</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/244">高温气体除尘滤袋</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/245">太阳能回热器网芯</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/246">多层网片式过滤器</a></li>
-                            <li><a target="_blank" href="/welcome/catalog/247">燃烧用编织网</a></li>
+                            <h2><a target="_blank" href="/welcome/catalog/24"><?=lang('s24')?></a></h2>
+                            <li><a target="_blank" href="/welcome/catalog/241"><?=lang('s241')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/242"><?=lang('s242')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/243"><?=lang('s243')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/244"><?=lang('s244')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/245"><?=lang('s245')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/246"><?=lang('s246')?></a></li>
+                            <li><a target="_blank" href="/welcome/catalog/247"><?=lang('s247')?></a></li>
                         </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
@@ -187,7 +187,7 @@
 
 <li is="menuindex">
 
-    <a class="trad" href="javascript:void(0);" iblk="技术研发"><span>技术研发</span></a>
+    <a class="trad" href="javascript:void(0);" iblk="<?=lang('s3')?>"><span><?=lang('s3')?></span></a>
     <div class="menuitempanel" style="display: none;">
         <div class="menucontentdiv">
             <div class="menufillet_e"></div>
@@ -195,20 +195,20 @@
 
                 <ul class="list ">
 
-                    <h2><a target="_blank" href="/welcome/catalog/31">研发平台</a></h2>
-                    <li><a target="_blank" href="/welcome/catalog/311">多孔材料国家实验室</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/312">国家实验室认可的理化检测中心</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/313">公司市级技术中心</a></li>
+                    <h2><a target="_blank" href="/welcome/catalog/31"><?=lang('s31')?></a></h2>
+                    <li><a target="_blank" href="/welcome/catalog/311"><?=lang('s311')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/312"><?=lang('s312')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/313"><?=lang('s313')?></a></li>
 
 
                 </ul>
 
                 <ul class="list">
-                    <h2><a target="_blank" href="/welcome/catalog/32">拥有技术</a></h2>
-                    <li><a target="_blank" href="/welcome/catalog/321">金属纤维技术</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/322">金属纤维毡技术</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/323">金属烧结网技术</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/324">各种滤器的设计及加工技术</a></li>
+                    <h2><a target="_blank" href="/welcome/catalog/32"><?=lang('s32')?></a></h2>
+                    <li><a target="_blank" href="/welcome/catalog/321"><?=lang('s321')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/322"><?=lang('s322')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/323"><?=lang('s323')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/324"><?=lang('s324')?></a></li>
 
 
                 </ul>
@@ -216,10 +216,10 @@
 
 
                 <ul class="list">
-                    <h2><a target="_blank" href="/welcome/catalog/33">研发项目和课题</a></h2>
-                    <li><a target="_blank" href="/welcome/catalog/331">金属纤维研发</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/332">金属纤维毡研发</a></li>
-                    <li><a target="_blank" href="/welcome/catalog/333">金属烧结网研发</a></li>
+                    <h2><a target="_blank" href="/welcome/catalog/33"><?=lang('s33')?></a></h2>
+                    <li><a target="_blank" href="/welcome/catalog/331"><?=lang('s331')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/332"><?=lang('s332')?></a></li>
+                    <li><a target="_blank" href="/welcome/catalog/333"><?=lang('s333')?></a></li>
 
                 </ul>
 
@@ -238,29 +238,29 @@
 
 
 <li is="menuindex">
-    <a class="about_huawei" href="javascript:void(0);" iblk="质量控制"><span>质量控制</span></a>
+    <a class="about_huawei" href="javascript:void(0);" iblk="<?=lang('s4')?>"><span><?=lang('s4')?></span></a>
     <div class="menuitempanel" style="display: none;">
         <div class="menucontentdiv">
             <div class="menufillet_e"></div>
             <div class="trad clearfix">
 
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/41">质量方针</a></h2>
+                    <h2><a href="/welcome/catalog/41"><?=lang('s41')?></a></h2>
 
 
                 </ul>
 
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/42">ISO 9000质量管理体系</a></h2>
+                    <h2><a href="/welcome/catalog/42"><?=lang('s42')?></a></h2>
 
 
                 </ul>
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/43">严格分析检测体系</a></h2>
+                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
 
                 </ul>
                 <ul class="list last">
-                    <h2><a href="/welcome/catalog/44">严格过程控制</a></h2>
+                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
                 </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
@@ -279,32 +279,32 @@
 
 
 <li is="menuindex">
-    <a class="about_huawei" href="javascript:void(0);" iblk="公司概况"><span>公司概况</span></a>
+    <a class="about_huawei" href="javascript:void(0);" iblk="<?=lang('s5')?>"><span><?=lang('s5')?></span></a>
     <div class="menuitempanel" style="display: none;">
         <div class="menucontentdiv">
             <div class="menufillet_e"></div>
             <div class="trad clearfix">
 
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/51">公司简介</a></h2>
-                    <h2><a href="/welcome/catalog/52">发展历程</a></h2>
+                    <h2><a href="/welcome/catalog/51"><?=lang('s51')?></a></h2>
+                    <h2><a href="/welcome/catalog/52"><?=lang('s52')?></a></h2>
 
                 </ul>
 
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/53">企业文化</a></h2>
-                    <h2><a href="/welcome/catalog/54">企业荣誉</a></h2>
+                    <h2><a href="/welcome/catalog/53"><?=lang('s53')?></a></h2>
+                    <h2><a href="/welcome/catalog/54"><?=lang('s54')?></a></h2>
 
 
                 </ul>
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/55">领导关怀</a></h2>
-                    <h2><a href="/welcome/catalog/56">社会责任</a></h2>
+                    <h2><a href="/welcome/catalog/55"><?=lang('s55')?></a></h2>
+                    <h2><a href="/welcome/catalog/56"><?=lang('s56')?></a></h2>
 
 
                 </ul>
                 <ul class="list last">
-                    <h2><a href="/welcome/catalog/57">企业宣传册</a></h2>
+                    <h2><a href="/welcome/catalog/57"><?=lang('s57')?></a></h2>
                 </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
@@ -320,7 +320,7 @@
     </div>
 </li>
 <li is="menuindex">
-    <a class="about_huawei" href="/welcome/catalog/6" iblk="联系方式"><span>联系方式</span></a>
+    <a class="about_huawei" href="/welcome/catalog/6" iblk="<?=lang('s6')?>"><span><?=lang('s6')?></span></a>
 
 </li>
 </ul>

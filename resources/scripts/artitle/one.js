@@ -32,5 +32,5 @@ function langClick(evt){
 }
 
 function editOne(id,lang){
-    window.showModalDialog('artitle/edit_one_info/'+id+'/'+lang,window,'dialogWidth=500px;dialogHeight=400px;resizable=yes');
+    window.showModalDialog('artitle/edit_one_info/'+id+'/'+lang,window,'dialogWidth=500px;dialogHeight=400px;resizable=yes;maximize=yes');
 }

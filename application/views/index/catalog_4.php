@@ -2,7 +2,7 @@
 <div class="main">
 
 <div class="cont">
-    <h1>质量控制→<?=$tree['pName']?></h1>
+    <h1><?=lang('s4')?>→<?=$tree['pName']?></h1>
     <div class="cont_dx"></div>
 
     <!--产品列表-->
@@ -10,12 +10,12 @@
         <div class="menu">
 
             <div class="item">
-                <h2>质量控制</h2>
+                <h2><?=lang('s4')?></h2>
                 <ol>
-                    <li><a href="#">质量方针</a></li>
-                    <li><a href="#">ISO 9000质量管理体系</a></li>
-                    <li><a href="#">严格分析检测体系</a></li>
-                    <li><a href="#">严格过程控制</a></li>
+                    <li><a href="/welcome/cataloeg/41"><?=lang('s41')?></a></li>
+                    <li><a href="/welcome/cataloeg/42"><?=lang('s42')?></a></li>
+                    <li><a href="/welcome/cataloeg/43#"><?=lang('s43')?></a></li>
+                    <li><a href="/welcome/cataloeg/44"><?=lang('s44')?></a></li>
                 </ol>
             </div>
 
@@ -35,33 +35,34 @@
 
     <!--联系方式-->
     <div class="contact">
-        <h1>联系方式</h1>
-        <ul>
-            <li>地址:中国西安经济技术开发区泾渭工业园西金路15号</li>
-            <li>邮编：710201</li>
-            <li>电话：029-86968425  029-86968420</li>
-            <li>传真：029-86968425  029-86968420</li>
-            <li>E-MAIL:xianfilter@gmail.com（销售）</li>
-            <li>xianfilter@gmail.com（技术支持）</li>
-            <li>Website: www.c-frt.com</li>
+        <h1> <?=lang('s6')?></h1>
+        <?=lang('contact-details')?>
 
-
-        </ul>
-        <h1>简易联系框</h1>
+        <h1><?=lang('contact-title')?></h1>
         <form id="cform">
             <ul class="contact-box">
                 <li>
-                    邮件:<input  name="email"  type="text"  />
+                    <?=lang('contact-user')?>:<br/>
+                    <input  name="name"  type="text"  />
                 </li>
                 <li>
-                    电话:<input    name="phone"  type="text"  />
+                    <?=lang('contact-unit')?>:<br/>
+                    <input name="address"  type="text"  />
+                </li>
+
+                <li>
+                    <?=lang('contact-phone')?>:<br/>
+                    <input    name="phone"  type="text"  />
                 </li>
                 <li>
-                    公司:<input  name="company"  type="text"  />
+                    <?=lang('contact-email')?>:<br/>
+                    <input  name="email"  type="text"  />
                 </li>
                 <li>
-                    地址:<input  name="address"  type="text"  />
+                    <?=lang('contact-message')?>:<br/>
+                    <textarea  name="company" ></textarea>
                 </li>
+
                 <li>
                     <a href="#" onclick="contactMe('cform')">
                         <img  src="/resources/images/common/contact.png"   />

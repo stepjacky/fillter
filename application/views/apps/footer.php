@@ -3,36 +3,35 @@
 <div class="footer-inner">
     <ul>
 
-        <li><a href="#"><span>主要产品</span></a></li>
-        <li><a href="/welcome/catalog/21">金属纤维</a></li>
-        <li><a href="/welcome/catalog/22">纤维毡</a></li>
-        <li><a href="/welcome/catalog/23">多层金属烧结网</a></li>
-        <li><a href="/welcome/catalog/24">金属纤维制品</a></li>
+        <li><a href="#"><span><?=lang('main-product')?></span></a></li>
+        <li><a href="/welcome/catalog/21"><?=lang('s21')?></a></li>
+        <li><a href="/welcome/catalog/22"><?=lang('s22')?></a></li>
+        <li><a href="/welcome/catalog/23"><?=lang('s23')?></a></li>
+        <li><a href="/welcome/catalog/24"><?=lang('s24')?></a></li>
+    </ul>
+    <ul>
+        <li><a href="#"><span><?=lang('s1')?></span></a></li>
+        <li><a href="/welcome/catalog/11"><?=lang('s11')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/17"><?=lang('s17')?></a></li>
+        <li><a href="/welcome/catalog/12"><?=lang('s12')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/18"><?=lang('s18')?></a></li>
+        <li><a href="/welcome/catalog/13"><?=lang('s13')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/19"><?=lang('s19')?></a></li>
+        <li><a href="/welcome/catalog/14"><?=lang('s14')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1110"><?=lang('s1110')?></a></li>
+        <li><a href="/welcome/catalog/15"><?=lang('s15')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1111"><?=lang('s1111')?></a></li>
+        <li><a href="/welcome/catalog/16"><?=lang('s16')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1112"><?=lang('s1112')?></a></li>
+
+    </ul>
+
+    <ul>
+        <li><a href="#"><span><?=lang('aboutus')?></span></a></li>
+        <li><a href="/welcome/catalog/52"><?=lang('s52')?></a></li>
+        <li><a href="/welcome/catalog/53"><?=lang('s53')?></a></li>
+        <li><a href="/welcome/catalog/54"><?=lang('s56')?></a></li>
+        <li><a href="/welcome/catalog/55"><?=lang('s55')?></a></li>
+        <li><a href="/welcome/catalog/56"><?=lang('s56')?></a></li>
+        <li><a href="/welcome/catalog/57"><?=lang('s57')?></a></li>
     </ul>
     <ul>
 
-        <li><a href="#"><span>应用领域</span></a></li>
-        <li><a href="/welcome/catalog/11">纺织</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/17">导电塑料</a></li>
-        <li><a href="/welcome/catalog/12">汽车</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/18">太阳能</a></li>
-        <li><a href="/welcome/catalog/13">设备</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/19">电子</a></li>
-        <li><a href="/welcome/catalog/14">化工</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1111">玻璃</a></li>
-        <li><a href="/welcome/catalog/15">化纤</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1111">医药</a></li>
-        <li><a href="/welcome/catalog/16">粘胶</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1112">冶金</a></li>
-
-    </ul>
-
-    <ul>
-        <li><a href="#"><span>关于菲尔特</span></a></li>
-        <li><a href="/welcome/catalog/52">发展历程</a></li>
-        <li><a href="/welcome/catalog/53">企业文化</a></li>
-        <li><a href="/welcome/catalog/54">企业荣誉</a></li>
-        <li><a href="/welcome/catalog/55">领导关怀</a></li>
-        <li><a href="/welcome/catalog/56">社会责任</a></li>
-        <li><a href="/welcome/catalog/57">企业宣传册</a></li>
-    </ul>
-    <ul>
-
-        <li><a href="#"><span>相关网站</span></a></li>
+        <li><a href="#"><span><?=lang('site-links')?></span></a></li>
         <li><a href="http://www.c-wmm.com"> 西部金属材料股份有限公司</a></li>
         <li><a href="http://www.c-nin.com">西北有色金色研究院</a></li>
         <li><a href="http://www.c-wtt.com">西部钛业有限责任公司</a></li>
@@ -44,15 +43,15 @@
     </ul>
     <!--法律声明-->
     <ul>
-    <li><a href="#"><span>网站事务</span></a></li>
-        <li><a href="/welcome/catalog/61">联系我们</a></li>
-        <li><a href="/welcome/catalog/62">网站地图</a></li>
-    <li><a href="/welcome/catalog/63">常见问题</a></li>
+    <li><a href="#"><span><?=lang('site-biz')?></span></a></li>
+        <li><a href="/welcome/catalog/61"><?=lang('s61')?></a></li>
+        <li><a href="/welcome/catalog/62"><?=lang('s62')?></a></li>
+    <li><a href="/welcome/catalog/63"><?=lang('s63')?></a></li>
 
     </ul>
     </div>
 
-    <div class="footer_info">版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号</div>
+    <div class="footer_info"><?=lang('copyright')?></div>
 
 </div>
 
