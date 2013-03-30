@@ -12,10 +12,10 @@
             <div class="item">
                 <h2><?=lang('s4')?></h2>
                 <ol>
-                    <li><a href="/welcome/cataloeg/41"><?=lang('s41')?></a></li>
-                    <li><a href="/welcome/cataloeg/42"><?=lang('s42')?></a></li>
-                    <li><a href="/welcome/cataloeg/43#"><?=lang('s43')?></a></li>
-                    <li><a href="/welcome/cataloeg/44"><?=lang('s44')?></a></li>
+                    <li><a href="/welcome/catalog/41"><?=lang('s41')?></a></li>
+                    <li><a href="/welcome/catalog/42"><?=lang('s42')?></a></li>
+                    <li><a href="/welcome/catalog/43#"><?=lang('s43')?></a></li>
+                    <li><a href="/welcome/catalog/44"><?=lang('s44')?></a></li>
                 </ol>
             </div>
 
