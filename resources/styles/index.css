@@ -147,9 +147,11 @@ body {
     margin-left: 100px;
     *margin-left: 115px;
     */
-    width: 186px;
+    min-width: 50px;
+    width: auto;
     margin-left: 10px;
     margin-top: 30px;
+    vertical-align:middle
 }
 
 .footer ul li {
@@ -160,6 +162,7 @@ body {
     width: 100%;
     text-align: left;
     line-height: 30px;
+    margin-left:65px;
 }
 
 .footer a:link, .footer a:visited {
@@ -179,8 +182,10 @@ body {
 
 
 .footer-inner{
-    width: 980px;
+    min-width: 600px;
+    width: auto;
     margin: 0 auto;
+    margin-left: 20px;
 }
 .xg {
     width: 980px;
@@ -211,10 +216,13 @@ body {
     color: #fff;
     text-align: center;
     float: left;
-    width: 980px;
+    min-width: 350px;
+    width: auto;
     height: 25px;
-    margin: 0 auto;
+
+    margin-left: 272px;
     margin-top: 30px;
+
 }
 
 .contact-box{
