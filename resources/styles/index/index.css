@@ -1,3 +1,8 @@
+div {
+    word-break:break-all;
+    text-align:justify;
+    text-justify:inter-ideograph;
+}
 /** cp */
 .title {
     color: #990000;
@@ -150,7 +155,8 @@
 /**特色产品*/
 .cp {
     width: 348px;
-    height: 365px;
+    min-height: 365px;
+    height: auto;
     overflow: hidden;
     margin-top: 8px;
     float: left;
@@ -205,7 +211,8 @@
 /**特色应用*/
 .yy {
     width: 370px;
-    height: 365px;
+    min-height: 365px;
+    height: auto;
     overflow: hidden;
     margin-top: 8px;
     float: left;
@@ -259,7 +266,8 @@
 /**质量控制*/
 .zl {
     width: 220px;
-    height: 160px;
+    min-height: 160px;
+    height: auto;
     overflow: hidden;
     margin-top: 8px;
     float: left;
