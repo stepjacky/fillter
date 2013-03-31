@@ -103,15 +103,26 @@ $lang['home-a-html']='<div class="yf_dx"></div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg01.jpg" alt="R & D Strength" /></div>
             <h1><a href="/welcome/catalog/311">多孔材料国家实验室</a></h1>
-            <h2>The laboratory mainly focuses on the research of metal fiber technology, metal fiber porous materials technology as well as theoretical research on material property and application, providing a solid foundation to enhance the company\'s R & D capabilities.</h2>
+            <h2>The laboratory mainly focuses on the research of metal fiber technology,
+            metal fiber porous materials technology as well as theoretical  research on
+            material property and application ...... </h2>
         </div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg02.jpg" alt="R & D Strength" /></div>
             <h1><a href="/welcome/catalog/312">Municipal Enterprise Technology Center</a></h1>
-            <h2>The technology center accomplishes unique core proprietary technologies in product development, management innovation, technological innovation, industrial automation, energy-saving and emission reduction, which has played an active role in the rapid development of enterprise itself as well as the industry.</h2>
+            <h2>The technology center accomplishes unique core proprietary technologies in product development,
+             management innovation, technological innovation industrial automation ......</h2>
         </div>';
-
-
+ /**
+  , providing
+  * a solid foundation to enhance the company\'s
+  * R & D capabilities.
+ ,
+  *
+  * energy-saving and emission reduction, which has played
+  * an active role in the rapid development
+  * of enterprise itself as well as the industry.
+  */
 
 $lang['home-b-name']='Brief Introduction';
 $lang['home-b-html']=' <div class="gs_dx"></div>
@@ -174,23 +185,57 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <h1>Automobile exhaust purification carrier</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Featured Application" /></div>
-                <h2>Fecralloy fiber felt is an excellent material for the production of automobile exhaust purification with particulate trap (DPF), it has a series of advantages such as high geometric surface area to improve the amount of catalyst adsorption, high porosity and through-hole rate to improve the full amount of combustion gases, high thermal conductivity to improve carrier rapid heating performance, high temperature and oxidation resistance, high strength of the substrate, good heat vibration performance etc.</h2>
+                <h2>Fecralloy fiber felt is an excellent material
+                for the production of automobile exhaust purification
+                with particulate trap (DPF), it has a series of advantages
+                 such as ......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1>Burner</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Featured Application" /></div>
-                <h2>Burner head is placed a layer of metal fiber braid mesh, the gas burned in the combustion chamber through the metal fiber braid mesh. Metal fibers can lead to uniform airflow, the gas - air mixture stream flowing from the small gap of tiny metal fibers, as well as good heat transfer characteristics, so that the combustion heat can rapidly disseminate through radiation and convection heat transfer, so as to effectively control the temperature distribution of the combustion chamber, avoiding partial high temperatures in the combustion chamber.</h2>
+                <h2>Burner head is placed a layer of metal fiber braid mesh,
+                 the gas burned in the combustion chamber through
+                 the metal fiber braid mesh. Metal fibers can lead to ......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1>Dust filtration in high temperature gas</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Featured Application" /></div>
-                <h2>Fecralloy fiber felt has high filtration efficiency, high porosity, low resistance, sufficient strength and toughness, good for molding process, high temperature resistance (working temperatures up to 1000 ° C), outstanding anticorrosive performance; better soot filtering effectiveness and efficiency, better regeneration capacity, long life, significant energy-saving effect.</h2>
+                <h2>Fecralloy fiber felt has high filtration efficiency, high porosity,
+                low resistance, sufficient strength and toughness, good for molding process,
+                 high temperature resistance ......</h2>
             </div>
         </div>';
+
+
+
+
+/**
+high geometric surface area to improve the amount
+of catalyst adsorption, high porosity and through-hole rate
+to improve the full amount of combustion gases, high thermal
+conductivity to improve carrier rapid heating performance, high
+temperature and oxidation resistance, high strength of the substrate,
+good heat vibration performance etc.
+
+ *
+ *
+ * uniform
+airflow, the gas - air mixture stream flowing
+from the small gap of tiny metal fibers, as well as good heat
+transfer characteristics, so that the combustion heat can
+rapidly disseminate through radiation and convection heat transfer,
+so as to effectively control the temperature distribution of the combustion
+chamber, avoiding partial high temperatures in the combustion chamber.
+ *
+ *
+ *  (working temperatures up to 1000 ° C),
+outstanding anticorrosive performance; better soot filtering effectiveness
+and efficiency, better regeneration capacity, long life, significant energy-saving effect.
+ */
 
 
 

@@ -35,7 +35,8 @@ div {
 
 .yf_01 {
     width: 348px;
-    height: 100px;
+    min-height: 100px;
+    height: auto;
     overflow: hidden;
     float: left;
     margin-top: 5px;
