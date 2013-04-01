@@ -6,8 +6,8 @@
  * Time: 上午11:01
  * To change this template use File | Settings | File Templates.
  */
-$lang['site_name'] ="西安菲尔特";
-$lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
+$lang['site_name'] ="XI'AN FILTER";
+$lang['copyright'] = 'Copyright XI\'AN FILTER 1993-2013。 All rights resvered。陕ICP备06013362号';
 $lang['contact-title']='简易联系框';
 $lang['contact-user']='Name';
 $lang['contact-unit']='Company';
@@ -18,62 +18,63 @@ $lang['main-product']='主要产品';
 $lang['aboutus']='关于菲尔特';
 $lang['site-links']='相关网站';
 $lang['site-biz']='网站事务';
-$lang['s1'] ='应用领域';
-$lang['s11'] ='纺织';
-$lang['s111'] ='纯金属纤维线';
-$lang['s112'] ='金属纤维混纺纱';
-$lang['s12'] ='汽车';
-$lang['s121'] ='柴油机尾气过滤';
-$lang['s122'] ='汽车座椅加热';
-$lang['s123'] ='汽车安全气囊';
-$lang['s13'] ='设备';
-$lang['s131'] ='燃烧器';
-$lang['s132'] ='喷墨打印机';
-$lang['s14'] ='化工';
-$lang['s141'] ='煤化工';
-$lang['s142'] ='稠化器';
-$lang['s15'] ='化纤';
-$lang['s16'] ='粘胶';
-$lang['s17'] ='导电塑料';
-$lang['s18'] ='太阳能';
-$lang['s19'] ='电子';
-$lang['s1110'] ='玻璃';
-$lang['s1111'] ='医药';
-$lang['s1112'] ='冶金';
-$lang['s2'] ='产品信息';
-$lang['s21'] ='金属纤维';
+$lang['s1'] ='Application';
+$lang['s11'] ='Textile';
+$lang['s111'] ='Pure metal fiber wire';
+$lang['s112'] ='Metal fiber blended yarn';
+$lang['s12'] ='Automobile';
+$lang['s121'] ='Diesel exhaust filter';
+$lang['s122'] ='Automotive seat heating';
+$lang['s123'] ='Automotive airbag';
+$lang['s13'] ='Equipment';
+$lang['s131'] ='Burner';
+$lang['s132'] ='Imprimante jet d\'encre';
+$lang['s132'] ='Inkjet printer';
+$lang['s14'] ='Chemical';
+$lang['s141'] ='Coal Chemical';
+$lang['s142'] ='Thickening';
+$lang['s15'] ='Chemical Fiber';
+$lang['s16'] ='Viscose';
+$lang['s17'] ='Plastic';
+$lang['s18'] ='Solar Power';
+$lang['s19'] ='Electronics';
+$lang['s1110'] ='Glass';
+$lang['s1111'] ='Pharmacy';
+$lang['s1112'] ='Metallurgy';
+$lang['s2'] ='Products';
+$lang['s21'] ='Metal Fiber';
 $lang['s211'] ='Stainless steel fiber';
 $lang['s212'] ='Fecralloy fiber';
-$lang['s213'] ='镍纤维';
-$lang['s214'] ='哈氏合金纤维';
-$lang['s215'] ='锆纤维';
-$lang['s216'] ='压花纤维';
-$lang['s22'] ='纤维毡';
+$lang['s213'] ='Nickel fiber';
+$lang['s214'] ='Hastelloy fiber';
+$lang['s215'] ='Zirconium fiber';
+//$lang['s216'] ='压花纤维';
+$lang['s22'] ='Fiber felt';
 $lang['s221'] ='Stainless steel fiber felt';
 $lang['s222'] ='Fecralloy fiber felt';
-$lang['s223'] ='非烧结毡';
-$lang['s224'] ='针刺毡';
-$lang['s225'] ='水刺毡';
-$lang['s23'] ='多层金属烧结网';
-$lang['s231'] ='五层金属烧结网';
-$lang['s24'] ='金属纤维制品';
-$lang['s241'] ='波纹状熔体滤芯';
-$lang['s242'] ='筒状滤芯';
-$lang['s243'] ='过滤碟片';
-$lang['s244'] ='高温气体除尘滤袋';
-$lang['s245'] ='太阳能回热器网芯';
-$lang['s246'] ='多层网片式过滤器';
-$lang['s247'] ='燃烧用编织网';
-$lang['s3'] ='技术研发';
-$lang['s31'] ='研发平台';
+$lang['s223'] ='Needle-punched fiber felt';
+$lang['s224'] ='Spunlaced fiber felt';
+//$lang['s225'] ='水刺毡';
+$lang['s23'] ='multi-layer sintered metal mesh';
+$lang['s231'] ='Five-layer sintered metal mesh';
+$lang['s232'] ='Six-layer sintered metal mesh';
+$lang['s24'] ='Metal fiber products';
+$lang['s241'] ='Filter cartridge made by metal fiber felt';
+$lang['s242'] ='Filter cartridge made by sintered wire mesh';
+$lang['s243'] ='Filter disc';
+$lang['s244'] ='Filter bag for high temperature gas purification';
+$lang['s245'] ='Multi-layer mesh cartridge for solar regenerator';
+$lang['s246'] ='Multi-layer mesh filter';
+$lang['s247'] ='Weaved mesh for burner';
+$lang['s3'] ='Technology';
+$lang['s31'] ='R & D platform';
 $lang['s311'] ='State Key Laboratory of Metal Porous Materials';
-$lang['s312'] ='国家实验室认可的理化检测中心';
-$lang['s313'] ='Municipal Enterprise Technology Center';
-$lang['s32'] ='拥有技术';
-$lang['s321'] ='金属纤维技术';
-$lang['s322'] ='金属纤维毡技术';
-$lang['s323'] ='金属烧结网技术';
-$lang['s324'] ='各种滤器的设计及加工技术';
+$lang['s312'] ='Municipal Enterprise Technology Center';
+$lang['s32'] ='Technology';
+$lang['s321'] ='Metal fiber technology';
+$lang['s322'] ='Technology of metal fiber felt';
+$lang['s323'] ='Technology of sintered metal mesh';
+$lang['s324'] ='Technology of design and processing of various filters';
 $lang['s33'] ='研发项目和课题';
 $lang['s331'] ='金属纤维研发';
 $lang['s332'] ='金属纤维毡研发';
@@ -83,26 +84,26 @@ $lang['s41'] ='Quality Policy';
 $lang['s42'] ='Quality Management System';
 $lang['s43'] ='Strict analysis of the test system';
 $lang['s44'] ='Strict process control';
-$lang['s5'] ='公司概况';
+$lang['s5'] =' Company Profile';
 $lang['s51'] ='Brief Introduction';
-$lang['s52'] ='发展历程';
-$lang['s53'] ='企业文化';
-$lang['s54'] ='企业荣誉';
-$lang['s55'] ='领导关怀';
-$lang['s56'] ='社会责任';
+$lang['s52'] ='Development Course';
+$lang['s53'] ='Corporate Culture';
+$lang['s54'] ='Corporate Honor';
+$lang['s55'] ='Care from Central Governmental Leaders';
+$lang['s56'] ='Social Responsibility';
 $lang['s561'] ='节能与环保';
 $lang['s562'] ='健康与安全';
-$lang['s57'] ='企业宣传册';
+$lang['s57'] ='Corporate Brochure';
 $lang['s6'] ='Contact';
-$lang['s61'] ='关于我们';
+$lang['s61'] ='地址电话';
 $lang['s62'] ='网站地图';
-$lang['s63'] ='常见问题';
+$lang['s63'] ='FAQ';
 
 $lang['home-a-name']='R & D Strength';
 $lang['home-a-html']='<div class="yf_dx"></div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg01.jpg" alt="R & D Strength" /></div>
-            <h1><a href="/welcome/catalog/311">多孔材料国家实验室</a></h1>
+            <h1><a href="/welcome/catalog/311">State Key Laboratory of Metal Porous Materials</a></h1>
             <h2>The laboratory mainly focuses on the research of metal fiber technology,
             metal fiber porous materials technology as well as theoretical  research on
             material property and application ...... </h2>
@@ -168,9 +169,9 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 
                 <li><a target="_blank" href="/welcome/catalog/221">Stainless steel fiber felt</a></li>
                 <li><a target="_blank" href="/welcome/catalog/222">Fecralloy fiber felt</a></li>
-                <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/223">Fecralloy fiber felt</a></li>
+                <li><a target="_blank" href="/welcome/catalog/224">Spunlaced fiber felt</a></li>
+                <!--<li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>-->
                 <li><a target="_blank" href="/welcome/catalog/211">Stainless steel fiber</a></li>
                 <li><a target="_blank" href="/welcome/catalog/212">Fecralloy fiber</a></li>
 
@@ -256,7 +257,7 @@ $lang['home-g-name']='Related Links';
 $lang['home-g-html']=' <div class="zl_dx"></div>
         <div class="zl_info">
             <ul>
-                <li><a href="http://www.c-wmm.com"> www.c-wmm.com</a></li>
+                <li><a href="http://www.c-wmm.com">www.c-wmm.com</a></li>
                 <li><a href="http://www.c-nin.com">www.c-nin.com</a></li>
                 <li><a href="http://www.c-wst.com">www.c-wst.com</a></li>
                 <li><a href="http://www.c-tlc.com">www.c-tlc.com</a></li>

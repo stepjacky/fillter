@@ -18,62 +18,63 @@ $lang['main-product']='主要产品';
 $lang['aboutus']='关于菲尔特';
 $lang['site-links']='相关网站';
 $lang['site-biz']='网站事务';
-$lang['s1'] ='应用领域';
-$lang['s11'] ='纺织';
-$lang['s111'] ='纯金属纤维线';
-$lang['s112'] ='金属纤维混纺纱';
-$lang['s12'] ='汽车';
-$lang['s121'] ='柴油机尾气过滤';
-$lang['s122'] ='汽车座椅加热';
-$lang['s123'] ='汽车安全气囊';
-$lang['s13'] ='设备';
-$lang['s131'] ='燃烧器';
-$lang['s132'] ='喷墨打印机';
-$lang['s14'] ='化工';
-$lang['s141'] ='煤化工';
-$lang['s142'] ='稠化器';
-$lang['s15'] ='化纤';
-$lang['s16'] ='粘胶';
-$lang['s17'] ='导电塑料';
-$lang['s18'] ='太阳能';
-$lang['s19'] ='电子';
-$lang['s1110'] ='玻璃';
-$lang['s1111'] ='医药';
+$lang['s1'] ='アプリケーション';
+$lang['s11'] ='織物';
+$lang['s111'] ='純金属繊維ライン';
+$lang['s112'] ='金属繊維混紡糸';
+$lang['s12'] ='車';
+$lang['s121'] ='ディーゼル排気フィルター';
+$lang['s122'] ='車のシートヒーター';
+$lang['s123'] ='自動車用エアバッグ';
+$lang['s13'] ='機器';
+$lang['s131'] ='バーナー';
+$lang['s132'] ='インクジェットプリンタ';
+$lang['s14'] ='化学';
+$lang['s141'] ='石炭化学';
+$lang['s142'] ='肥厚';
+$lang['s15'] ='化学繊維';
+$lang['s16'] ='ビスコース';
+$lang['s17'] ='プラスチック';
+$lang['s18'] ='太陽';
+$lang['s19'] ='電子';
+$lang['s1110'] ='ガラス';
+$lang['s1111'] ='医学';
 $lang['s1112'] ='冶金';
-$lang['s2'] ='产品信息';
-$lang['s21'] ='金属纤维';
+$lang['s2'] ='製品';
+$lang['s21'] ='ステンレス鋼繊維';
 $lang['s211'] ='ステンレス鋼繊維';
 $lang['s212'] ='アイアンブランドアルミニウム繊維';
-$lang['s213'] ='镍纤维';
-$lang['s214'] ='哈氏合金纤维';
-$lang['s215'] ='锆纤维';
-$lang['s216'] ='压花纤维';
-$lang['s22'] ='纤维毡';
+$lang['s213'] ='ニッケル繊維';
+$lang['s214'] ='ハステロイ繊維';
+$lang['s215'] ='ジルコニウム繊維';
+//$lang['s216'] ='压花纤维';
+$lang['s22'] ='繊維マット';
 $lang['s221'] ='ステンレス鋼繊維のフェルト';
 $lang['s222'] ='アイアンブランドアルミニウム繊維フェルト';
-$lang['s223'] ='非烧结毡';
-$lang['s224'] ='针刺毡';
-$lang['s225'] ='水刺毡';
-$lang['s23'] ='多层金属烧结网';
-$lang['s231'] ='五层金属烧结网';
-$lang['s24'] ='金属纤维制品';
-$lang['s241'] ='波纹状熔体滤芯';
-$lang['s242'] ='筒状滤芯';
-$lang['s243'] ='过滤碟片';
-$lang['s244'] ='高温气体除尘滤袋';
-$lang['s245'] ='太阳能回热器网芯';
-$lang['s246'] ='多层网片式过滤器';
-$lang['s247'] ='燃烧用编织网';
-$lang['s3'] ='技术研发';
-$lang['s31'] ='研发平台';
+$lang['s223'] ='ニードルフェルト';
+$lang['s224'] ='スパンレースフェルト';
+//$lang['s225'] ='水刺毡';
+$lang['s23'] ='多層金属焼結網';
+$lang['s231'] ='5階建ての金属焼結網';
+$lang['s232'] ='6階建ての金属焼結網';
+$lang['s24'] ='金属繊維製品';
+$lang['s241'] ='金属繊維は、フィルタが生成感じ';
+$lang['s242'] ='多層金属焼結金網の生産';
+$lang['s243'] ='フィルターディスク';
+$lang['s244'] ='高温ガスダストフィルターバッグ';
+$lang['s245'] ='太陽蓄熱ネットワークコア';
+$lang['s246'] ='多層メッシュフィルター';
+$lang['s247'] ='組紐と燃焼';
+$lang['s3'] ='技術の研究開発';
+$lang['s31'] ='R＆Dプラットフォーム';
 $lang['s311'] ='多孔質材料の国立研究所';
-$lang['s312'] ='国家实验室认可的理化检测中心';
-$lang['s313'] ='市営企業技術センター';
-$lang['s32'] ='拥有技术';
-$lang['s321'] ='金属纤维技术';
-$lang['s322'] ='金属纤维毡技术';
-$lang['s323'] ='金属烧结网技术';
-$lang['s324'] ='各种滤器的设计及加工技术';
+$lang['s312'] ='地方自治体の技術センター';
+//$lang['s313'] ='市営企業技術センター';
+$lang['s32'] ='技術を持っている';
+$lang['s321'] ='金属繊維技術';
+$lang['s322'] ='金属繊維マット技術';
+$lang['s323'] ='焼結金属メッシュテクノロジー';
+$lang['s324'] ='様々なフィルタの設計と加工技術';
 $lang['s33'] ='研发项目和课题';
 $lang['s331'] ='金属纤维研发';
 $lang['s332'] ='金属纤维毡研发';
@@ -85,18 +86,18 @@ $lang['s43'] ='検出システムの厳密な分析';
 $lang['s44'] ='厳密なプロセス制御';
 $lang['s5'] ='公司概况';
 $lang['s51'] ='会社の概要';
-$lang['s52'] ='发展历程';
-$lang['s53'] ='企业文化';
-$lang['s54'] ='企业荣誉';
-$lang['s55'] ='领导关怀';
-$lang['s56'] ='社会责任';
+$lang['s52'] ='開発コース';
+$lang['s53'] ='企業文化';
+$lang['s54'] ='名誉';
+$lang['s55'] ='リーディングケア';
+$lang['s56'] ='社会的責任（CSR）';
 $lang['s561'] ='节能与环保';
 $lang['s562'] ='健康与安全';
-$lang['s57'] ='企业宣传册';
-$lang['s6'] ='連絡';
+$lang['s57'] ='会社案内パンフレット';
+$lang['s6'] ='お問い合わせ';
 $lang['s61'] ='关于我们';
 $lang['s62'] ='网站地图';
-$lang['s63'] ='常见问题';
+$lang['s63'] ='よくある質問';
 
 $lang['home-a-name']='R＆D';
 $lang['home-a-html']='<div class="yf_dx"></div>
@@ -157,9 +158,9 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 
                 <li><a target="_blank" href="/welcome/catalog/221">ステンレス鋼繊維のフェルト</a></li>
                 <li><a target="_blank" href="/welcome/catalog/222">アイアンブランドアルミニウム繊維フェルト</a></li>
-                <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/223">ニードルフェルト</a></li>
+                <li><a target="_blank" href="/welcome/catalog/224">スパンレースフェルト</a></li>
+               <!-- <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>-->
                 <li><a target="_blank" href="/welcome/catalog/211">ステンレス鋼繊維</a></li>
                 <li><a target="_blank" href="/welcome/catalog/212">アイアンブランドアルミニウム繊維</a></li>
 
@@ -211,7 +212,7 @@ $lang['home-g-name']='関連リンク';
 $lang['home-g-html']=' <div class="zl_dx"></div>
         <div class="zl_info">
             <ul>
-                <li><a href="http://www.c-wmm.com"> www.c-wmm.com</a></li>
+                <li><a href="http://www.c-wmm.com">www.c-wmm.com</a></li>
                 <li><a href="http://www.c-nin.com">www.c-nin.com</a></li>
                 <li><a href="http://www.c-wst.com">www.c-wst.com</a></li>
                 <li><a href="http://www.c-tlc.com">www.c-tlc.com</a></li>
@@ -220,11 +221,11 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
         </div>';
 
 
-$lang['contact-details']='  <ul>
+$lang['contact-details']='<ul>
             <li>住所：中国西安経済技術開発区、兆銘工業団地ウエストゴールデンロード15</li>
             <li>郵便番号：710201</li>
             <li>電話029 -86968425   029-86968420</li>
-            <li>ファックス029 -86968425029-86968420</li>
+            <li>ファックス029-86968425 029-86968420</li>
             <li>E-MAIL：xianfilter@yahoo.com.cn（国内）</li>
             <li>xianfilter@gmail.com（国際）</li>
 			<li>ウェブサイト：www.c-frt.com</li>
