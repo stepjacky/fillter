@@ -8,7 +8,7 @@
  */
 $lang['site_name'] ="西安菲尔特";
 $lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
-$lang['contact-title']='简易联系框';
+$lang['contact-title']='简易信息联系框';
 $lang['contact-user']='姓名';
 $lang['contact-unit']='单位';
 $lang['contact-email']='邮件';
@@ -56,9 +56,10 @@ $lang['s224'] ='针刺毡';
 $lang['s225'] ='水刺毡';
 $lang['s23'] ='多层金属烧结网';
 $lang['s231'] ='五层金属烧结网';
+$lang['s232'] ='六层金属烧结网';
 $lang['s24'] ='金属纤维制品';
-$lang['s241'] ='波纹状熔体滤芯';
-$lang['s242'] ='筒状滤芯';
+$lang['s241'] ='金属纤维毡滤芯';
+$lang['s242'] ='多层金属烧结滤芯';
 $lang['s243'] ='过滤碟片';
 $lang['s244'] ='高温气体除尘滤袋';
 $lang['s245'] ='太阳能回热器网芯';
@@ -75,9 +76,9 @@ $lang['s322'] ='金属纤维毡技术';
 $lang['s323'] ='金属烧结网技术';
 $lang['s324'] ='各种滤器的设计及加工技术';
 $lang['s33'] ='研发项目和课题';
-$lang['s331'] ='金属纤维研发';
-$lang['s332'] ='金属纤维毡研发';
-$lang['s333'] ='金属烧结网研发';
+$lang['s331'] ='研发项目';
+$lang['s332'] ='研发课题';
+$lang['s333'] ='获得专利';
 $lang['s4'] ='质量控制';
 $lang['s41'] ='质量方针';
 $lang['s42'] ='ISO 9000质量管理体系';
@@ -94,7 +95,7 @@ $lang['s561'] ='节能与环保';
 $lang['s562'] ='健康与安全';
 $lang['s57'] ='企业宣传册';
 $lang['s6'] ='联系方式';
-$lang['s61'] ='关于我们';
+$lang['s61'] ='地址电话';
 $lang['s62'] ='网站地图';
 $lang['s63'] ='常见问题';
 
@@ -135,12 +136,12 @@ $lang['home-b-html']=' <div class="gs_dx"></div>
 $lang['home-c-name']='联系方式';
 $lang['home-c-html']='<div class="call_dx"></div>
         <div class="call_info">
-            <h1>地址:中国西安经济技术开发区泾渭工业园西金路15号</h1>
+            <h1>地址: 中国西安经济技术开发区泾渭工业园西金路15号</h1>
             <h1>邮编：710201</h1>
             <h1>电话：029-86968425  029-86968420</h1>
             <h1>传真：029-86968425  029-86968420</h1>
-            <h1>E-MAIL:xianfilter@gmail.com（销售）xianfilter@gmail.com（技术支持）</h1>
-            <h1>Website: www.c-frt.com</h1>
+            <h1>电邮: xianfilter@yahoo.com.cn(国内)<br/>xianfilter@gmail.com(国际)</h1>
+            <h1>网址: www.c-frt.com</h1>
         </div>';
 
 $lang['home-d-name']='特色产品';
@@ -155,13 +156,13 @@ $lang['home-d-html']='<div class="cp_dx"></div>
         <div class="cpinfo">
             <ul>
 
-                <li><a target="_blank" href="/welcome/catalog/221">不锈钢纤维烧结毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/222">铁铬铝纤维烧结毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
                 <li><a target="_blank" href="/welcome/catalog/211">不锈钢纤维</a></li>
                 <li><a target="_blank" href="/welcome/catalog/212">铁铬铝纤维</a></li>
+                <li><a target="_blank" href="/welcome/catalog/221">不锈钢纤维毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/222">铁铬铝纤维毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+               <!-- <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>-->
 
 
             </ul>
@@ -215,7 +216,7 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
                 <li><a href="http://www.c-nin.com">西北有色金色研究院</a></li>
                 <li><a href="http://www.c-wtt.com">西部钛业有限责任公司</a></li>
                 <li><a href="http://www.c-tlc.com">西安天力金属复合有限公司</a></li>
-                <li><a href="#">西安诺博尔公司</a></li>
+                <li><a href="#">西安瑞福莱钨钼有限公司</a></li>
                 <li><a href="#"> 西安诺博尔稀贵金属材料有限公司</a></li>
 
             </ul>

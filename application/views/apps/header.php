@@ -31,11 +31,11 @@
             </a>
             <div class="header_info">
                 <ul style="float: right">
-                    <li><a href="javascript:set_lang('zh-cn');"><img src='/resources/images/menu/cn.png' style="vertical-align: middle;"></a></li>
-                    <li><a href="javascript:set_lang('en-us');"><img src='/resources/images/menu/us.png' style="vertical-align: middle;"/></a></li>
-                    <li><a href="javascript:set_lang('de-de');"><img src='/resources/images/menu/de.png' style="vertical-align: middle;"/></a></li>
-                    <li><a href="javascript:set_lang('fr-fr');"><img src='/resources/images/menu/fr.png' style="vertical-align: middle;"/></a></li>
-                    <li><a href="javascript:set_lang('ja');"><img src='/resources/images/menu/ja.png' style="vertical-align: middle;"/></a></li>
+                    <li><a href="javascript:set_lang('zh-cn');"><img src='/resources/images/menu/cn.png' /></a></li>
+                    <li><a href="javascript:set_lang('en-us');"><img src='/resources/images/menu/us.png' /></a></li>
+                    <li><a href="javascript:set_lang('de-de');"><img src='/resources/images/menu/de.png' /></a></li>
+                    <li><a href="javascript:set_lang('fr-fr');"><img src='/resources/images/menu/fr.png' /></a></li>
+                    <li><a href="javascript:set_lang('ja');"><img src='/resources/images/menu/ja.png' /></a></li>
 
                     <li><input id="s" type="text" class="search" /></li>
                     <li><input name="butn" type="button" onclick="search('s')"  class="search_ico" /></li>
@@ -246,22 +246,23 @@
 
                 <ul class="list">
                     <h2><a href="/welcome/catalog/41"><?=lang('s41')?></a></h2>
-
-
-                </ul>
-
-                <ul class="list">
                     <h2><a href="/welcome/catalog/42"><?=lang('s42')?></a></h2>
+                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
+                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
+                </ul>
+
+               <!-- <ul class="list">
+                    <h2><a href="/welcome/catalog/42"><?/*=lang('s42')*/?></a></h2>
 
 
                 </ul>
                 <ul class="list">
-                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
+                    <h2><a href="/welcome/catalog/43"><?/*=lang('s43')*/?></a></h2>
 
                 </ul>
                 <ul class="list last">
-                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
-                </ul>
+                    <h2><a href="/welcome/catalog/44"><?/*=lang('s44')*/?></a></h2>
+                </ul>-->
 
                 <div class="verticalLine" style="height: 215px;"></div>
 

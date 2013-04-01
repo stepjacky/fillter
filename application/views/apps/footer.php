@@ -36,7 +36,7 @@
         <li><a href="http://www.c-nin.com">西北有色金色研究院</a></li>
         <li><a href="http://www.c-wtt.com">西部钛业有限责任公司</a></li>
         <li><a href="http://www.c-tlc.com">西安天力金属复合有限公司</a></li>
-        <li><a href="#">西安诺博尔公司</a></li>
+        <li><a href="#">西安瑞福莱钨钼有限公司</a></li>
         <li><a href="#"> 西安诺博尔稀贵金属材料有限公司</a></li>
 
 
