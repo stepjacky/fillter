@@ -22,7 +22,7 @@
                         <li><a href="/welcome/catalog/562"><?=lang('s562')?></a></li>
 
                     </ol>
-                    <li><a href="/welcome/catalog/57"><?=lang('s57')?></a></li>
+                    <!--<li><a href="/welcome/catalog/57"><?/*=lang('s57')*/?></a></li>-->
 
                 </ol>
             </div>

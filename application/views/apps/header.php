@@ -298,14 +298,11 @@
 
 
                 </ul>
-                <ul class="list">
+                <ul class="list last">
                     <h2><a href="/welcome/catalog/55"><?=lang('s55')?></a></h2>
                     <h2><a href="/welcome/catalog/56"><?=lang('s56')?></a></h2>
 
 
-                </ul>
-                <ul class="list last">
-                    <h2><a href="/welcome/catalog/57"><?=lang('s57')?></a></h2>
                 </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
@@ -320,10 +317,10 @@
         </div>
     </div>
 </li>
-<li is="menuindex">
-    <a class="about_huawei" href="/welcome/catalog/6" iblk="<?=lang('s6')?>"><span><?=lang('s6')?></span></a>
+<!--<li is="menuindex">
+    <a class="about_huawei" href="/welcome/catalog/6" iblk="<?/*=lang('s6')*/?>"><span><?/*=lang('s6')*/?></span></a>
 
-</li>
+</li>-->
 </ul>
 </div>
 </div>

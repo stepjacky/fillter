@@ -169,7 +169,7 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 
                 <li><a target="_blank" href="/welcome/catalog/221">Stainless steel fiber felt</a></li>
                 <li><a target="_blank" href="/welcome/catalog/222">Fecralloy fiber felt</a></li>
-                <li><a target="_blank" href="/welcome/catalog/223">Fecralloy fiber felt</a></li>
+                <li><a target="_blank" href="/welcome/catalog/223">Needle-punched fiber felt</a></li>
                 <li><a target="_blank" href="/welcome/catalog/224">Spunlaced fiber felt</a></li>
                 <!--<li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>-->
                 <li><a target="_blank" href="/welcome/catalog/211">Stainless steel fiber</a></li>

@@ -1,7 +1,11 @@
-div {
-    word-break:break-all;
+.rowline {
+    /*word-break:break-all;
+    word-wrap:break-word;
     text-align:justify;
-    text-justify:inter-ideograph;
+    text-justify:inter-ideograph;*/
+    text-align:justify;
+    min-height: 450px;
+    height: auto;
 }
 /** cp */
 .title {

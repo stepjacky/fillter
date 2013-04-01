@@ -29,6 +29,7 @@
 
 <div class="main">
 
+    <div class="rowline">
     <!--研发实力-->
     <div class="yf">
         <div class="title"><?=lang('home-a-name')?></div>
@@ -52,6 +53,10 @@
     </div>
     <!--联系方式-->
 
+    </div>
+
+
+    <div class="rowline">
     <!--特色产品-->
     <div class="cp">
         <div class="title"><?=lang('home-d-name')?></div>
@@ -87,7 +92,6 @@
 
     </div>
     <!--相关连接-->
-</div>    
-    
+    </div>
 
 </div>

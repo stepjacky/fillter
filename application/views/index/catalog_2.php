@@ -16,7 +16,7 @@
                     <li><a href="/welcome/catalog/213"><?=lang('s213')?></a></li>
                     <li><a href="/welcome/catalog/214"><?=lang('s214')?></a></li>
                     <li><a href="/welcome/catalog/215"><?=lang('s215')?></a></li>
-                    <li><a href="/welcome/catalog/216"><?=lang('s216')?></a></li>
+                    <!--<li><a href="/welcome/catalog/216"><?/*=lang('s216')*/?></a></li>-->
 
                 </ol>
             </div>
