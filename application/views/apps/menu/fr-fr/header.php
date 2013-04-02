@@ -166,8 +166,7 @@
                 <ul class="list">
                     <h2><a href="/welcome/catalog/41"><?=lang('s41')?></a></h2>
                     <h2><a href="/welcome/catalog/42"><?=lang('s42')?></a></h2>
-                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
-                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
+
                 </ul>
 
                 <!-- <ul class="list">
@@ -178,10 +177,11 @@
                 <ul class="list">
                     <h2><a href="/welcome/catalog/43"><?/*=lang('s43')*/?></a></h2>
 
-                </ul>
-                <ul class="list last">
-                    <h2><a href="/welcome/catalog/44"><?/*=lang('s44')*/?></a></h2>
                 </ul>-->
+                <ul class="list last">
+                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
+                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
+                </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
 
