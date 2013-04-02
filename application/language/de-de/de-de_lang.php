@@ -175,8 +175,8 @@ $lang['home-d-html']='<div class="cp_dx"></div>
                 <li><a target="_blank" href="/welcome/catalog/221">Edelstahl Faserfilz</a></li>
                 <li><a target="_blank" href="/welcome/catalog/222">Eisen gebrandmarkt Aluminium Faserfilz</a></li>
                 <!--<li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>-->
-                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/224">Nadelfilz </a></li>
+                <li><a target="_blank" href="/welcome/catalog/225">Spunlace fühlte</a></li>
                 <li><a target="_blank" href="/welcome/catalog/211">Edelstahlfasern</a></li>
                 <li><a target="_blank" href="/welcome/catalog/212">Eisen gebrandmarkt Aluminiumfaser</a></li>
 
@@ -247,7 +247,7 @@ $lang['home-f-name']='Quality Control';
 $lang['home-f-html']='<div class="zl_dx"></div>
         <div class="zl_info">
             <ul>
-                <li><a href="/welcome/catalog/41">Quality</a></li>
+                <li><a href="/welcome/catalog/41">Qualitätspolitik</a></li>
                 <li><a href="/welcome/catalog/42">Quality Management System</a></li>
                 <li><a href="/welcome/catalog/43">Rigorosen Analyse des Erfassungssystems</a></li>
                 <li><a href="/welcome/catalog/44">Strict Prozesskontrolle</a></li>

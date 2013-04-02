@@ -182,8 +182,8 @@ $lang['home-d-html']='<div class="cp_dx"></div>
                 <li><a target="_blank" href="/welcome/catalog/221">Acier inoxydable feutre de fibre</a></li>
                 <li><a target="_blank" href="/welcome/catalog/222">Fibre de fer aluminium de marque ressenti</a></li>
               <!--  <li><a target="_blank" href="/welcome/catalog/223">非烧结毡</a></li>-->
-                <li><a target="_blank" href="/welcome/catalog/224">针刺毡</a></li>
-                <li><a target="_blank" href="/welcome/catalog/225">水刺毡</a></li>
+                <li><a target="_blank" href="/welcome/catalog/224">feutre aiguilleté</a></li>
+                <li><a target="_blank" href="/welcome/catalog/225">spunlace senti </a></li>
                 <li><a target="_blank" href="/welcome/catalog/211">Fibres d\'acier inoxydable</a></li>
                 <li><a target="_blank" href="/welcome/catalog/212">Fibre de fer aluminium de marque</a></li>
 
@@ -254,7 +254,7 @@ $lang['home-f-name']='contrôle de qualité';
 $lang['home-f-html']='<div class="zl_dx"></div>
         <div class="zl_info">
             <ul>
-                <li><a href="/welcome/catalog/41">质量方针</a></li>
+                <li><a href="/welcome/catalog/41">Politique Qualité</a></li>
                 <li><a href="/welcome/catalog/42">Système de Management de la Qualité</a></li>
                 <li><a href="/welcome/catalog/43">Une analyse rigoureuse du système de détection</a></li>
                 <li><a href="/welcome/catalog/44">Contrôle de processus strict</a></li>
