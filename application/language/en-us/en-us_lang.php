@@ -8,16 +8,16 @@
  */
 $lang['site_name'] ="XI'AN FILTER";
 $lang['copyright'] = 'Copyright XI\'AN FILTER 1993-2013。 All rights resvered。陕ICP备06013362号';
-$lang['contact-title']='简易联系框';
+$lang['contact-title']='Quick info';
 $lang['contact-user']='Name';
 $lang['contact-unit']='Company';
 $lang['contact-email']='E-mail';
 $lang['contact-phone']='Telephone';
 $lang['contact-message']='Message';
-$lang['main-product']='主要产品';
-$lang['aboutus']='关于菲尔特';
-$lang['site-links']='相关网站';
-$lang['site-biz']='网站事务';
+$lang['main-product']='Primary Product';
+$lang['aboutus']='About us';
+$lang['site-links']='Related Sites';
+$lang['site-biz']='Web Service';
 $lang['s1'] ='Application';
 $lang['s11'] ='Textile';
 $lang['s111'] ='Pure metal fiber wire';
@@ -95,8 +95,8 @@ $lang['s561'] ='节能与环保';
 $lang['s562'] ='健康与安全';
 $lang['s57'] ='Corporate Brochure';
 $lang['s6'] ='Contact';
-$lang['s61'] ='地址电话';
-$lang['s62'] ='网站地图';
+$lang['s61'] ='Address';
+$lang['s62'] ='SiteMap';
 $lang['s63'] ='FAQ';
 
 $lang['home-a-name']='R & D Strength';
@@ -106,23 +106,23 @@ $lang['home-a-html']='<div class="yf_dx"></div>
             <h1><a href="/welcome/catalog/311">State Key Laboratory of Metal Porous Materials</a></h1>
             <h2>The laboratory mainly focuses on the research of metal fiber technology,
             metal fiber porous materials technology as well as theoretical  research on
-            material property and application ...... </h2>
+            material property ...... </h2>
         </div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg02.jpg" alt="R & D Strength" /></div>
             <h1><a href="/welcome/catalog/312">Municipal Enterprise Technology Center</a></h1>
             <h2>The technology center accomplishes unique core proprietary technologies in product development,
-             management innovation, technological innovation industrial automation ......</h2>
+             management innovation, technological innovation ......</h2>
         </div>';
  /**
   , providing
   * a solid foundation to enhance the company\'s
-  * R & D capabilities.
+  * R & D capabilities. and application
  ,
   *
   * energy-saving and emission reduction, which has played
   * an active role in the rapid development
-  * of enterprise itself as well as the industry.
+  * of enterprise itself as well as the industry.industrial automation
   */
 
 $lang['home-b-name']='Brief Introduction';
@@ -198,7 +198,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Featured Application" /></div>
                 <h2>Burner head is placed a layer of metal fiber braid mesh,
                  the gas burned in the combustion chamber through
-                 the metal fiber braid mesh. Metal fibers can lead to ......</h2>
+                 the metal fiber braid mesh. Metal fibers can  ......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -207,7 +207,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Featured Application" /></div>
                 <h2>Fecralloy fiber felt has high filtration efficiency, high porosity,
                 low resistance, sufficient strength and toughness, good for molding process,
-                 high temperature resistance ......</h2>
+                 high temperature ......</h2>
             </div>
         </div>';
 
@@ -230,12 +230,13 @@ from the small gap of tiny metal fibers, as well as good heat
 transfer characteristics, so that the combustion heat can
 rapidly disseminate through radiation and convection heat transfer,
 so as to effectively control the temperature distribution of the combustion
-chamber, avoiding partial high temperatures in the combustion chamber.
+chamber, avoiding partial high temperatures in the combustion chamber.lead to
  *
  *
  *  (working temperatures up to 1000 ° C),
 outstanding anticorrosive performance; better soot filtering effectiveness
-and efficiency, better regeneration capacity, long life, significant energy-saving effect.
+
+ *  resistance
  */
 
 
@@ -277,6 +278,30 @@ $lang['contact-details']='  <ul>
 
 
         </ul>';
+
+
+$lang['style-local']='en';
+
+
+
+$lang['c-wmm']='Western Metal Materials Co., LTD.';
+$lang['c-wmm-url']='http://www.c-wmm.com';
+$lang['c-nin']='Northwest Institute for Nonferrous Metal Research';
+$lang['c-nin-url']='http://www.c-nin.com';
+$lang['c-wtt']='Western Titanium Technologies Co., LTD.';
+$lang['c-wtt-url']='http://www.c-wtt.com';
+$lang['c-tlc']='Xi’an Tianli Clad Metal Materials Co., LTD.';
+$lang['c-tlc-url']='http://www.c-tlc.com';
+$lang['c-rmm']='Xi’an Noble Rare Metal Materials Co., LTD.';
+$lang['c-rmm-url']='http://www.c-rmm.com';
+$lang['c-nnn']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
+$lang['c-nnn-url']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
+
+
+
+
+
+
 
 
 

@@ -8,7 +8,7 @@
  */
 $lang['site_name'] ="西安菲尔特";
 $lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
-$lang['contact-title']='简易联系框';
+$lang['contact-title']='简易信息框';
 $lang['contact-user']='名称';
 $lang['contact-unit']='単位';
 $lang['contact-email']='Eメール';
@@ -16,8 +16,8 @@ $lang['contact-phone']='電話番号';
 $lang['contact-message']='情報';
 $lang['main-product']='主要产品';
 $lang['aboutus']='关于菲尔特';
-$lang['site-links']='相关网站';
-$lang['site-biz']='网站事务';
+$lang['site-links']='関連サイト';
+$lang['site-biz']='ウェブサービス';
 $lang['s1'] ='アプリケーション';
 $lang['s11'] ='織物';
 $lang['s111'] ='純金属繊維ライン';
@@ -95,8 +95,8 @@ $lang['s561'] ='节能与环保';
 $lang['s562'] ='健康与安全';
 $lang['s57'] ='会社案内パンフレット';
 $lang['s6'] ='お問い合わせ';
-$lang['s61'] ='关于我们';
-$lang['s62'] ='网站地图';
+$lang['s61'] ='私たちについて';
+$lang['s62'] ='サイトマップ';
 $lang['s63'] ='よくある質問';
 
 $lang['home-a-name']='R＆D';
@@ -258,4 +258,16 @@ $lang['contact-details']='<ul>
         </ul>';
 
 
-
+$lang['style-local']='ja';
+$lang['c-wmm']='Western Metal Materials Co., LTD.';
+$lang['c-wmm-url']='http://www.c-wmm.com';
+$lang['c-nin']='Northwest Institute for Nonferrous Metal Research';
+$lang['c-nin-url']='http://www.c-nin.com';
+$lang['c-wtt']='Western Titanium Technologies Co., LTD.';
+$lang['c-wtt-url']='http://www.c-wtt.com';
+$lang['c-tlc']='Xi’an Tianli Clad Metal Materials Co., LTD.';
+$lang['c-tlc-url']='http://www.c-tlc.com';
+$lang['c-rmm']='Xi’an Noble Rare Metal Materials Co., LTD.';
+$lang['c-rmm-url']='http://www.c-rmm.com';
+$lang['c-nnn']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
+$lang['c-nnn-url']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';

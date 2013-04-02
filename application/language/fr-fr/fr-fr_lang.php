@@ -8,16 +8,16 @@
  */
 $lang['site_name'] ="西安菲尔特";
 $lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
-$lang['contact-title']='简易联系框';
+$lang['contact-title']='Quick info';
 $lang['contact-user']='nom';
 $lang['contact-unit']='unité';
 $lang['contact-email']='E-mail';
 $lang['contact-phone']='téléphone';
 $lang['contact-message']='information';
 $lang['main-product']='主要产品';
-$lang['aboutus']='关于菲尔特';
-$lang['site-links']='相关网站';
-$lang['site-biz']='网站事务';
+$lang['aboutus']='À propos de nous';
+$lang['site-links']='Sites connexes';
+$lang['site-biz']='Sites connexes';
 $lang['s1'] ='Application';
 $lang['s11'] ='Textile';
 $lang['s111'] =' Ligne pure fibre métallique';
@@ -94,10 +94,24 @@ $lang['s56'] ='Responsabilité Sociale';
 //$lang['s561'] ='节能与环保';
 //$lang['s562'] ='健康与安全';
 $lang['s57'] ='Brochure corporative';
-//$lang['s6'] ='contacter';
-//$lang['s61'] ='关于我们';
-//$lang['s62'] ='网站地图';
-//$lang['s63'] ='常见问题';
+$lang['s6'] ='contacter';
+$lang['s61'] ='Über uns';
+$lang['s62'] ='Site Map';
+$lang['s63'] ='Häufig gestellte Fragen';
+
+/**
+
+ théoriques
+et l\'application de la recherche théorique, jeté une base solide
+pour renforcer la R & D de la société capacités.
+
+ * et de,
+l\'automatisation industrielle, économie
+
+ * d\'énergie et de réduction des émissions, la formation d\'une technologie de base brevetée unique, a joué un rôle actif dans
+l\'entreprise elle-même, ainsi que le développement rapide de l\'industrie.
+ */
+
 
 $lang['home-a-name']='R & D force';
 $lang['home-a-html']='<div class="yf_dx"></div>
@@ -105,16 +119,14 @@ $lang['home-a-html']='<div class="yf_dx"></div>
             <div class="yf_img"><img src="/resources/images/common/yfimg01.jpg" alt="R & D force" /></div>
             <h1><a href="/welcome/catalog/311">Laboratoire National de matériaux poreux</a></h1>
             <h2>Laboratoire de la technologie pour mener à bien la préparation de fibres métalliques,
-            de fibres métalliques poreuses propriétés des matériaux de préparation des matières théoriques
-             et l\'application de la recherche théorique, jeté une base solide pour renforcer la R & D de la société capacités.</h2>
+            de fibres métalliques poreuses propriétés des matériaux de préparation des matières  théoriques
+            et l\'application......</h2>
         </div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg02.jpg" alt="R & D force" /></div>
             <h1><a href="/welcome/catalog/312">Municipal entreprise de technologie centre</a></h1>
             <h2>Centre de technologie dans le développement de produits, gestion de l\'innovation,
-            l\'innovation technologique, l\'automatisation industrielle, économie
-            d\'énergie et de réduction des émissions, la formation d\'une technologie de base brevetée unique, a joué un rôle actif dans
-            l\'entreprise elle-même, ainsi que le développement rapide de l\'industrie.</h2>
+            l\'innovation technologique l\'automatisation industrielle, économie d\'énergie ......</h2>
         </div>';
 
 
@@ -179,6 +191,34 @@ $lang['home-d-html']='<div class="cp_dx"></div>
             </ul>
         </div>';
 
+/**
+
+, une porosité élevée et le taux de trou traversant la totalité
+des gaz de combustion, une porteuse haute conductivité thermique
+de chauffage rapide de la performance, une grande résistance
+à l\'oxydation à chaud, à haute résistance du substrat, le rendement
+vibratoire de chaleur de bonnes prestations, excellent matériau pour
+la fabrication de purification d\'échappement automobile avec filtre
+à particules (DPF).
+
+ *
+. Fibres métalliques peut être écoulement
+d\'air uniforme, le gaz - courant de mélange d\'air
+s\'écoulant depuis l\'espace restreint de fibres métalliques
+minuscules, ainsi que de bonnes caractéristiques de transfert
+de chaleur, de sorte que la chaleur
+de combustion par le rayonnement et la diffusion de transfert
+de chaleur par convection rapide, afin de contrôler efficacement
+la distribution de la température de la chambre de combustion ,
+en évitant les températures locales élevées dans la chambre de combustion.
+
+ * , pour faciliter le
+processus de moulage; présente une bonne température élevée (utiliser des températures allant
+jusqu\'à 1000 ° C), la performance anticorrosion; suie ont un meilleur l\'efficacité du filtrage
+et de l\'efficacité, une meilleure capacité de régénération, de longue vie et d\'économie d\'énergie
+effet est significatif.
+
+ */
 
 $lang['home-e-name']='Applications en vedette';
 $lang['home-e-html']=' <div class="yy_dx"></div>
@@ -187,17 +227,16 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque de fer du mat de fibres d\'aluminium ayant une surface spécifique élevée géométrique afin
-                d\'améliorer la quantité de catalyseur d\'adsorption, une porosité élevée et le taux de trou traversant la totalité des gaz de combustion, une porteuse haute conductivité thermique de chauffage rapide de la performance, une grande résistance
-                à l\'oxydation à chaud, à haute résistance du substrat, le rendement vibratoire de chaleur de bonnes prestations, excellent matériau pour la fabrication de purification d\'échappement automobile avec filtre à particules (DPF).</h2>
+                d\'améliorer la quantité de catalyseur d\'adsorption......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1>brûleur</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Applications en vedette" /></div>
-                <h2>Tête de brûleur est placée une couche de fibres métalliques tresse, le gaz brûlé dans la chambre de combustion à travers la tresse de fibres métalliques. Fibres métalliques peut être écoulement
-                d\'air uniforme, le gaz - courant de mélange d\'air s\'écoulant depuis l\'espace restreint de fibres métalliques minuscules, ainsi que de bonnes caractéristiques de transfert de chaleur, de sorte que la chaleur
-                 de combustion par le rayonnement et la diffusion de transfert de chaleur par convection rapide, afin de contrôler efficacement la distribution de la température de la chambre de combustion , en évitant les températures locales élevées dans la chambre de combustion.</h2>
+                <h2>Tête de brûleur est placée une couche de fibres métalliques tresse,
+                 le gaz brûlé dans la chambre de combustion à travers la tresse de fibres métalliques
+                 ......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -205,11 +244,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque fer filtration d\'aluminium d\'efficacité du tapis de fibres; porosité élevée,
-                de faible résistance; avoir une résistance suffisante et une ténacité, pour faciliter le
-                processus de moulage; présente une bonne température élevée (utiliser des températures allant
-                 jusqu\'à 1000 ° C), la performance anticorrosion; suie ont un meilleur l\'efficacité du filtrage
-                 et de l\'efficacité, une meilleure capacité de régénération, de longue vie et d\'économie d\'énergie
-                 effet est significatif.</h2>
+                de faible résistance; avoir une résistance suffisante et une ténacité......</h2>
             </div>
         </div>';
 
@@ -255,4 +290,17 @@ $lang['contact-details']='  <ul>
         </ul>';
 
 
+$lang['style-local']='fr';
+$lang['c-wmm']='Western Metal Materials Co., LTD.';
+$lang['c-wmm-url']='http://www.c-wmm.com';
+$lang['c-nin']='Northwest Institute for Nonferrous Metal Research';
+$lang['c-nin-url']='http://www.c-nin.com';
+$lang['c-wtt']='Western Titanium Technologies Co., LTD.';
+$lang['c-wtt-url']='http://www.c-wtt.com';
+$lang['c-tlc']='Xi’an Tianli Clad Metal Materials Co., LTD.';
+$lang['c-tlc-url']='http://www.c-tlc.com';
+$lang['c-rmm']='Xi’an Noble Rare Metal Materials Co., LTD.';
+$lang['c-rmm-url']='http://www.c-rmm.com';
+$lang['c-nnn']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
+$lang['c-nnn-url']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
 

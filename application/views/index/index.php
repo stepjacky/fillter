@@ -1,6 +1,8 @@
 <script type="text/javascript" src="/resources/coin-slider/coin-slider.min.js"></script>
 <script type="text/javascript" src="/resources/scripts/index/index.js"></script>
 <link rel="stylesheet" href="/resources/coin-slider/coin-slider-styles.css" type="text/css" />
+<link rel="stylesheet" href="/resources/styles/index/index.css" media="screen,print"/>
+<link rel="stylesheet" href="/resources/styles/index/index-<?=lang('style-local')?>.css" media="screen,print"/>
 <div id='coin-slider' class="header_img">
     <a href="javascript:;"  target="_blank">
         <img src='/resources/images/common/img1.jpg' >
@@ -24,7 +26,7 @@
 
 
 
-<link rel="stylesheet" href="/resources/styles/index/index.css" media="screen,print"/>
+
 
 
 <div class="main">

@@ -157,7 +157,11 @@ class MY_Controller extends CI_Controller
     }
 
     public   function __user_header(&$data){
+        $my_lang = $this->nsession->userdata('locale');
+        if(!$my_lang) $my_lang='zh-cn';
         $this->load->view("apps/header",$data);
+        $this->load->view("apps/menu/".$my_lang."/header",$data);
+
     }
 
 

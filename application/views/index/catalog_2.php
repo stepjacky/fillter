@@ -37,6 +37,7 @@
                 <h2><?=lang('s23')?></h2>
                 <ol>
                     <li><a href="/welcome/catalog/231"><?=lang('s231')?></a></li>
+                    <li><a href="/welcome/catalog/232"><?=lang('s232')?></a></li>
 
                 </ol>
             </div>

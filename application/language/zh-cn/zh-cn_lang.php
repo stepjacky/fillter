@@ -104,12 +104,14 @@ $lang['home-a-html']='<div class="yf_dx"></div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg01.jpg" alt="研发实力" /></div>
             <h1><a href="/welcome/catalog/311">多孔材料国家实验室</a></h1>
-            <h2>实验室主要开展金属纤维制备技术、金属纤维多孔材料制备理论材料性能和应用理论研究，为增强...</h2>
+            <h2>实验室主要开展金属纤维制备技术、金属纤维多孔材料制备理论材料性能和应用理论研究，
+            为增强公司研发实力奠定了坚实基础......</h2>
         </div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg02.jpg" alt="研发实力" /></div>
             <h1><a href="/welcome/catalog/312">市级企业技术中心</a></h1>
-            <h2>技术中心主要在产品研发、管理革新、技术改造、工业自动化、节能减排等方面，形成了独具特色...</h2>
+            <h2>技术中心主要在产品研发、管理革新、技术改造、工业自动化、节能减排等方面，形成了独具特色的核心专有技术,
+            为企业自身以及......</h2>
         </div>';
 
 
@@ -172,21 +174,21 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 $lang['home-e-name']='特色应用';
 $lang['home-e-html']=' <div class="yy_dx"></div>
         <div class="yy_info">
-            <h1>汽车尾气净化用铁铬铝纤维毡</h1>
+            <h1><a href="/welcome/catalog/121">汽车尾气净化用铁铬铝纤维毡</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="特色应用" /></div>
                 <h2>铁铬铝纤维毡具有高几何表面积提高催化剂吸附量,高孔隙率和通孔率提高气体完全燃烧量,高热传导系数提高载体快速...</h2>
             </div>
         </div>
         <div class="yy_info">
-            <h1>燃烧器用铁铬铝纤维编织网</h1>
+            <h1><a href="/welcome/catalog/131">燃烧器用铁铬铝纤维编织网</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="特色应用" /></div>
                 <h2>燃烧器头部放置一层金属纤维，燃气通过金属纤维后在燃烧室内燃烧。由于金属纤维能均匀气流，燃气-空气混合气...</h2>
             </div>
         </div>
         <div class="yy_info">
-            <h1>高温气体除尘用铁铬铝纤维毡</h1>
+            <h1><a href="/welcome/catalog/1112">高温气体除尘用铁铬铝纤维毡</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="特色应用" /></div>
                 <h2>铁铬铝纤维毡过滤效率高；孔隙率高，阻力低；有足够的强度和韧性，便于加工成型；具有良好的耐高温（使用温度可达1000...</h2>
@@ -216,7 +218,7 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
                 <li><a href="http://www.c-nin.com">西北有色金色研究院</a></li>
                 <li><a href="http://www.c-wtt.com">西部钛业有限责任公司</a></li>
                 <li><a href="http://www.c-tlc.com">西安天力金属复合有限公司</a></li>
-                <li><a href="#">西安瑞福莱钨钼有限公司</a></li>
+                <li><a href="http://www.c-rmm.com">西安瑞福莱钨钼有限公司</a></li>
                 <li><a href="#"> 西安诺博尔稀贵金属材料有限公司</a></li>
 
             </ul>
@@ -237,3 +239,18 @@ $lang['contact-details']='  <ul>
 
 
 
+$lang['style-local']='cn';
+
+
+$lang['c-wmm']='西部金属材料股份有限公司';
+$lang['c-wmm-url']='http://www.c-wmm.com';
+$lang['c-nin']='西北有色金色研究院';
+$lang['c-nin-url']='http://www.c-nin.com';
+$lang['c-wtt']='西部钛业有限责任公司';
+$lang['c-wtt-url']='http://www.c-wtt.com';
+$lang['c-tlc']='西安天力金属复合有限公司';
+$lang['c-tlc-url']='http://www.c-tlc.com';
+$lang['c-rmm']='西安瑞福莱钨钼有限公司';
+$lang['c-rmm-url']='http://www.c-rmm.com';
+$lang['c-nnn']='西安诺博尔稀贵金属材料有限公司';
+$lang['c-nnn-url']='西安诺博尔稀贵金属材料有限公司';

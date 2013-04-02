@@ -32,12 +32,12 @@
     <ul>
 
         <li><a href="#"><span><?=lang('site-links')?></span></a></li>
-        <li><a href="http://www.c-wmm.com"> 西部金属材料股份有限公司</a></li>
-        <li><a href="http://www.c-nin.com">西北有色金色研究院</a></li>
-        <li><a href="http://www.c-wtt.com">西部钛业有限责任公司</a></li>
-        <li><a href="http://www.c-tlc.com">西安天力金属复合有限公司</a></li>
-        <li><a href="http://www.c-rmm.com">西安瑞福莱钨钼有限公司</a></li>
-        <li><a href="#"> 西安诺博尔稀贵金属材料有限公司</a></li>
+        <li><a href="<?=lang('c-wmm-url')?>"><?=lang('c-wmm')?></a></li>
+        <li><a href="<?=lang('c-nin-url')?>"><?=lang('c-nin')?></a></li>
+        <li><a href="<?=lang('c-wtt-url')?>"><?=lang('c-wtt')?></a></li>
+        <li><a href="<?=lang('c-tlc-url')?>"><?=lang('c-tlc')?></a></li>
+        <li><a href="<?=lang('c-rmm-url')?>"><?=lang('c-rmm')?></a></li>
+        <li><a href="<?=lang('c-nnn-url')?>"> <?=lang('c-nnn')?></a></li>
 
 
     </ul>

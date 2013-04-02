@@ -8,16 +8,16 @@
  */
 $lang['site_name'] ="西安菲尔特";
 $lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
-$lang['contact-title']='简易联系框';
+$lang['contact-title']='Quick info';
 $lang['contact-user']='Name';
 $lang['contact-unit']='Einheit:';
 $lang['contact-email']='E-mail:';
 $lang['contact-phone']='Telefon';
 $lang['contact-message']='Information';
 $lang['main-product']='主要产品';
-$lang['aboutus']='关于菲尔特';
-$lang['site-links']='相关网站';
-$lang['site-biz']='网站事务';
+$lang['aboutus']=' Über uns';
+$lang['site-links']='Related Sites';
+$lang['site-biz']='Web services ';
 $lang['s1'] =' Anwendungen';
 $lang['s11'] ='Textile';
 $lang['s111'] ='Reine Metallfaser Linie';
@@ -94,22 +94,38 @@ $lang['s56'] ='Social Responsibility';
 //$lang['s561'] ='节能与环保';
 //$lang['s562'] ='健康与安全';
 $lang['s57'] ='Unternehmensbroschüre';
-//$lang['s6'] ='Kontakt';
-//$lang['s61'] ='关于我们';
-//$lang['s62'] ='网站地图';
-//$lang['s63'] ='常见问题';
+$lang['s6'] ='Kontakt';
+$lang['s61'] ='À propos de nous';
+$lang['s62'] ='Plan du site';
+$lang['s63'] ='Foire aux Questions';
+
+/**
+theoretischen
+Forschung, ein solides Fundament gelegt,
+um das Unternehmen R & D Fähigkeiten zu verbessern.
+ *
+ * , industrielle Automatisierung,
+Energieeinsparung und Emissionsminderung, die Bildung eines
+einzigartigen Kern proprietäre Technologie,
+hat eine aktive Rolle im Unternehmen selbst, wie auch die
+rasante Entwicklung der Branche gespielt.
+
+ */
 
 $lang['home-a-name']='R & D Stärke';
 $lang['home-a-html']='<div class="yf_dx"></div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg01.jpg" alt="R & D Stärke" /></div>
             <h1><a href="/welcome/catalog/311">National Laboratory von porösen Materialien</a></h1>
-            <h2>Labor durchzuführen Metallfaser Aufbereitungstechnik, Metallfaser poröses Material Vorbereitung Theorie Materialeigenschaften und Anwendung der theoretischen Forschung, ein solides Fundament gelegt, um das Unternehmen R & D Fähigkeiten zu verbessern.</h2>
+            <h2>Labor durchzuführen Metallfaser Aufbereitungstechnik,
+            Metallfaser poröses Material Vorbereitung Theorie Materialeigenschaften
+            und Anwendung der ...... </h2>
         </div>
         <div class="yf_01">
             <div class="yf_img"><img src="/resources/images/common/yfimg02.jpg" alt="R & D Stärke" /></div>
             <h1><a href="/welcome/catalog/312">Municipal Enterprise Technology Center</a></h1>
-            <h2>Technology Center in der Produktentwicklung, Management-Innovation, technologische Innovation, industrielle Automatisierung, Energieeinsparung und Emissionsminderung, die Bildung eines einzigartigen Kern proprietäre Technologie, hat eine aktive Rolle im Unternehmen selbst, wie auch die rasante Entwicklung der Branche gespielt.</h2>
+            <h2>Technology Center in der Produktentwicklung, Management-Innovation,
+             technologische Innovation......</h2>
         </div>';
 
 
@@ -167,7 +183,32 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 
             </ul>
         </div>';
+/**
+Durchgangsbohrung sich in voller Höhe von Verbrennungsgasen,
+eine hohe Wärmeleitfähigkeit Träger schnelle Heizverhalten,
+Hochtemperaturoxidationsbeständigkeit, hohe Festigkeit des
+Substrats, Hitze Schwingungsverhalten zu verbessern gute Leistungen,
+ausgezeichnetes Material für die Herstellung von Kfz-Abgasreinigung
+mit Partikelfilter (DPF).
 
+ *
+ * .
+Metallfasern können gleichmäßigen Luftstrom zu sein, das
+Gas - Luftgemisch strömenden vom kleinen Spalt von winzigen
+Metallfasern sowie guten Wärmeübertragungseigenschaften,
+so daß die Verbrennung Wärme durch Strahlung und Konvektion
+Wärmeübergang eine rasche Verbreitung, zur wirksamen Steuerung
+der Temperaturverteilung der Brennkammer , Vermeidung lokaler
+hohen Temperaturen in der Brennkammer.
+ *
+ *
+, um das Formen zu erleichtern; hat gute Hochtemperatur
+(verwenden Temperaturen bis zu 1000 ° C), die antikorrosive
+Leistung; Ruß haben bessere Filterung Effektivität und
+Effizienz, bessere Regenerationsfähigkeit, lange Lebensdauer;
+energiesparende Wirkung ist signifikant.
+
+ */
 
 $lang['home-e-name']='Besondere Anwendungen';
 $lang['home-e-html']=' <div class="yy_dx"></div>
@@ -175,21 +216,28 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <h1>Automobile Abgasreinigung Träger</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Besondere Anwendungen" /></div>
-                <h2>Eisen Marke das Aluminium Fasermatte mit einer hohen geometrischen Oberfläche, um die Menge an Katalysator Adsorption, hohe Porosität und die Durchgangsbohrung sich in voller Höhe von Verbrennungsgasen, eine hohe Wärmeleitfähigkeit Träger schnelle Heizverhalten, Hochtemperaturoxidationsbeständigkeit, hohe Festigkeit des Substrats, Hitze Schwingungsverhalten zu verbessern gute Leistungen, ausgezeichnetes Material für die Herstellung von Kfz-Abgasreinigung mit Partikelfilter (DPF).</h2>
+                <h2>Eisen Marke das Aluminium Fasermatte mit einer hohen
+                 geometrischen Oberfläche, um die Menge an Katalysator Adsorption,
+                  hohe Porosität und die ......
+                  </h2>
             </div>
         </div>
         <div class="yy_info">
             <h1>Brenner</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Besondere Anwendungen" /></div>
-                <h2>Brennerkopf ist eine Schicht aus Metall Fasergeflecht, das Gas in der Brennkammer durch das Metall Fasergeflechts verbrannt platziert. Metallfasern können gleichmäßigen Luftstrom zu sein, das Gas - Luftgemisch strömenden vom kleinen Spalt von winzigen Metallfasern sowie guten Wärmeübertragungseigenschaften, so daß die Verbrennung Wärme durch Strahlung und Konvektion Wärmeübergang eine rasche Verbreitung, zur wirksamen Steuerung der Temperaturverteilung der Brennkammer , Vermeidung lokaler hohen Temperaturen in der Brennkammer.</h2>
+                <h2>Brennerkopf ist eine Schicht aus Metall Fasergeflecht,
+                das Gas in der Brennkammer durch das Metall Fasergeflechts
+                verbrannt platziert......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1>Hochtemperaturgas Staub</h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Besondere Anwendungen" /></div>
-                <h2>Eisen Marke Aluminium Filtrationseffizienz der faserigen Matte; hoher Porosität, geringer Widerstand, haben eine ausreichende Festigkeit und Zähigkeit, um das Formen zu erleichtern; hat gute Hochtemperatur (verwenden Temperaturen bis zu 1000 ° C), die antikorrosive Leistung; Ruß haben bessere Filterung Effektivität und Effizienz, bessere Regenerationsfähigkeit, lange Lebensdauer; energiesparende Wirkung ist signifikant.</h2>
+                <h2>Eisen Marke Aluminium Filtrationseffizienz der
+                faserigen Matte; hoher Porosität, geringer Widerstand,
+                haben eine ausreichende Festigkeit und Zähigkeit......</h2>
             </div>
         </div>';
 
@@ -199,7 +247,7 @@ $lang['home-f-name']='Quality Control';
 $lang['home-f-html']='<div class="zl_dx"></div>
         <div class="zl_info">
             <ul>
-                <li><a href="/welcome/catalog/41">质量方针</a></li>
+                <li><a href="/welcome/catalog/41">Quality</a></li>
                 <li><a href="/welcome/catalog/42">Quality Management System</a></li>
                 <li><a href="/welcome/catalog/43">Rigorosen Analyse des Erfassungssystems</a></li>
                 <li><a href="/welcome/catalog/44">Strict Prozesskontrolle</a></li>
@@ -233,5 +281,16 @@ $lang['contact-details']='  <ul>
 
         </ul>';
 
-
-
+$lang['style-local']='de';
+$lang['c-wmm']='Western Metal Materials Co., LTD.';
+$lang['c-wmm-url']='http://www.c-wmm.com';
+$lang['c-nin']='Northwest Institute for Nonferrous Metal Research';
+$lang['c-nin-url']='http://www.c-nin.com';
+$lang['c-wtt']='Western Titanium Technologies Co., LTD.';
+$lang['c-wtt-url']='http://www.c-wtt.com';
+$lang['c-tlc']='Xi’an Tianli Clad Metal Materials Co., LTD.';
+$lang['c-tlc-url']='http://www.c-tlc.com';
+$lang['c-rmm']='Xi’an Noble Rare Metal Materials Co., LTD.';
+$lang['c-rmm-url']='http://www.c-rmm.com';
+$lang['c-nnn']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
+$lang['c-nnn-url']=' Xi’an Refra Tungsten & Molybdenum Co., LTD';
