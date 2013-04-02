@@ -217,8 +217,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Eisen Marke das Aluminium Fasermatte mit einer hohen
-                 geometrischen Oberfläche, um die Menge an Katalysator Adsorption,
-                  hohe Porosität und die ......
+                 geometrischen Oberfläche, um die Menge an......
                   </h2>
             </div>
         </div>
@@ -227,8 +226,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Brennerkopf ist eine Schicht aus Metall Fasergeflecht,
-                das Gas in der Brennkammer durch das Metall Fasergeflechts
-                verbrannt platziert......</h2>
+                das Gas in der Brennkammer durch......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -236,8 +234,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Eisen Marke Aluminium Filtrationseffizienz der
-                faserigen Matte; hoher Porosität, geringer Widerstand,
-                haben eine ausreichende Festigkeit und Zähigkeit......</h2>
+                faserigen Matte; hoher Porosität, geringer Widerstand......</h2>
             </div>
         </div>';
 

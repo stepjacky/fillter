@@ -227,7 +227,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque de fer du mat de fibres d\'aluminium ayant une surface spécifique élevée géométrique afin
-                d\'améliorer la quantité de catalyseur d\'adsorption......</h2>
+               ......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -235,8 +235,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Applications en vedette" /></div>
                 <h2>Tête de brûleur est placée une couche de fibres métalliques tresse,
-                 le gaz brûlé dans la chambre de combustion à travers la tresse de fibres métalliques
-                 ......</h2>
+                 le gaz brûlé dans la chambre de......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -244,7 +243,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque fer filtration d\'aluminium d\'efficacité du tapis de fibres; porosité élevée,
-                de faible résistance; avoir une résistance suffisante et une ténacité......</h2>
+                de......</h2>
             </div>
         </div>';
 

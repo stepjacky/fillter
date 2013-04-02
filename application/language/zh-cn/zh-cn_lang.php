@@ -177,21 +177,22 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <h1><a href="/welcome/catalog/121">汽车尾气净化用铁铬铝纤维毡</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="特色应用" /></div>
-                <h2>铁铬铝纤维毡具有高几何表面积提高催化剂吸附量,高孔隙率和通孔率提高气体完全燃烧量,高热传导系数提高载体快速...</h2>
+                <h2>铁铬铝纤维毡具有高几何表面积提高催化剂吸附量,高孔隙率和通孔率提高气体完全燃烧量,高热传导系数提高载体快速......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1><a href="/welcome/catalog/131">燃烧器用铁铬铝纤维编织网</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="特色应用" /></div>
-                <h2>燃烧器头部放置一层金属纤维，燃气通过金属纤维后在燃烧室内燃烧。由于金属纤维能均匀气流，燃气-空气混合气...</h2>
+                <h2>燃烧器头部放置一层金属纤维，燃气通过金属纤维后在燃烧室内燃烧。由于金属纤维能均匀气流，燃气-空气混合气......</h2>
             </div>
         </div>
         <div class="yy_info">
             <h1><a href="/welcome/catalog/1112">高温气体除尘用铁铬铝纤维毡</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="特色应用" /></div>
-                <h2>铁铬铝纤维毡过滤效率高；孔隙率高，阻力低；有足够的强度和韧性，便于加工成型；具有良好的耐高温（使用温度可达1000...</h2>
+                <h2>铁铬铝纤维毡过滤效率高；孔隙率高，阻力低；有足够的强度和韧性，便于加工成型；具有良好的耐高温
+                （使用温度可达1000......</h2>
             </div>
         </div>';
 

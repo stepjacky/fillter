@@ -188,8 +188,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Featured Application" /></div>
                 <h2>Fecralloy fiber felt is an excellent material
                 for the production of automobile exhaust purification
-                with particulate trap (DPF), it has a series of advantages
-                 such as ......</h2>
+                with particulate trap......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -197,8 +196,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Featured Application" /></div>
                 <h2>Burner head is placed a layer of metal fiber braid mesh,
-                 the gas burned in the combustion chamber through
-                 the metal fiber braid mesh. Metal fibers can  ......</h2>
+                 the gas burned in the combustion chamber through......</h2>
             </div>
         </div>
         <div class="yy_info">
@@ -206,8 +204,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Featured Application" /></div>
                 <h2>Fecralloy fiber felt has high filtration efficiency, high porosity,
-                low resistance, sufficient strength and toughness, good for molding process,
-                 high temperature ......</h2>
+                low resistance, sufficient strength and ......</h2>
             </div>
         </div>';
 

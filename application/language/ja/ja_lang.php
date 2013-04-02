@@ -195,7 +195,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="注目のアプリケーション" /></div>
                 <h2>アイアンブランド触媒吸着、高気孔率、およびスルーホールの度合燃焼ガスの全額、
-                熱伝導率の高いキャリア急速加熱性能、耐高温酸化性、基材の高強度、熱振動性能を向上させ</h2>
+                熱伝導率の高いキャリア急速加熱性能......</h2>
             </div>
         </div>
 
@@ -205,7 +205,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="注目のアプリケーション" /></div>
                 <h2>バーナーヘッドは、金属繊維編組、金属繊維編組を通って燃焼室で燃焼ガスの層が配置されている。
-                効果的に燃焼室の温度分布を制御するために、放射と対流熱伝達急速な普及に</h2>
+                効果的に燃焼室......</h2>
             </div>
         </div>
         <div class="yy_info">
