@@ -10,7 +10,7 @@
         <div class="menu">
 
             <div class="item">
-                <h2><?=lang('s31')?></h2>
+                <h2><a href="/welcome/catalog/311"><?=lang('s31')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/311"><?=lang('s311')?></a></li>
                     <li><a href="/welcome/catalog/312"><?=lang('s312')?></a></li>
@@ -20,7 +20,7 @@
             </div>
 
             <div class="item">
-                <h2><?=lang('s32')?></h2>
+                <h2><a href="/welcome/catalog/321"><?=lang('s32')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/321"><?=lang('s321')?></a></li>
                     <li><a href="/welcome/catalog/322"><?=lang('s322')?></a></li>
@@ -31,7 +31,7 @@
             </div>
 
             <div class="item">
-                <h2><?=lang('s33')?></h2>
+                <h2><a href="/welcome/catalog/331"><?=lang('s33')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/331"><?=lang('s331')?></a></li>
                     <li><a href="/welcome/catalog/332"><?=lang('s332')?></a></li>

@@ -9,7 +9,7 @@
         <div class="menu">
 
             <div class="item">
-                <h2><?=lang('s21')?></h2>
+                <h2><a href="/welcome/catalog/211"><?=lang('s21')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/211"><?=lang('s211')?></a></li>
                     <li><a href="/welcome/catalog/212"><?=lang('s212')?></a></li>
@@ -22,7 +22,7 @@
             </div>
 
             <div class="item">
-                <h2><?=lang('s22')?></h2>
+                <h2><a href="/welcome/catalog/221"><?=lang('s22')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/221"><?=lang('s221')?></a></li>
                     <li><a href="/welcome/catalog/222"><?=lang('s222')?></a></li>
@@ -34,7 +34,7 @@
             </div>
 
             <div class="item">
-                <h2><?=lang('s23')?></h2>
+                <h2><a href="/welcome/catalog/231"><?=lang('s23')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/231"><?=lang('s231')?></a></li>
                     <li><a href="/welcome/catalog/232"><?=lang('s232')?></a></li>
@@ -42,7 +42,7 @@
                 </ol>
             </div>
             <div class="item">
-                <h2><?=lang('s24')?></h2>
+                <h2><a href="/welcome/catalog/241"><?=lang('s24')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/241"><?=lang('s241')?></a></li>
                     <li><a href="/welcome/catalog/242"><?=lang('s242')?></a></li>

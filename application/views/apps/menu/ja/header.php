@@ -65,7 +65,7 @@
                     <li><a target="_blank" href="/welcome/catalog/213"><?=lang('s213')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/214"><?=lang('s214')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/215"><?=lang('s215')?></a></li>
-                    <li><a target="_blank" href="/welcome/catalog/216"><?=lang('s216')?></a></li>
+                    <!--<li><a target="_blank" href="/welcome/catalog/216"><?/*=lang('s216')*/?></a></li>-->
                     <h2><a target="_blank" href="/welcome/catalog/24"><?=lang('s24')?></a></h2>
                     <li><a target="_blank" href="/welcome/catalog/241"><?=lang('s241')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/242"><?=lang('s242')?></a></li>
@@ -80,7 +80,7 @@
                     <h2><a target="_blank" href="/welcome/catalog/22"><?=lang('s22')?></a></h2>
                     <li><a target="_blank" href="/welcome/catalog/221"><?=lang('s221')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/222"><?=lang('s222')?></a></li>
-                    <li><a target="_blank" href="/welcome/catalog/223"><?=lang('s223')?></a></li>
+                   <!-- <li><a target="_blank" href="/welcome/catalog/223"><?/*=lang('s223')*/?></a></li>-->
                     <li><a target="_blank" href="/welcome/catalog/224"><?=lang('s224')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/225"><?=lang('s225')?></a></li>
                     <h2><a target="_blank" href="/welcome/catalog/23"><?=lang('s23')?></a></h2>
@@ -166,8 +166,7 @@
                 <ul class="list">
                     <h2><a href="/welcome/catalog/41"><?=lang('s41')?></a></h2>
                     <h2><a href="/welcome/catalog/42"><?=lang('s42')?></a></h2>
-                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
-                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
+
                 </ul>
 
                 <!-- <ul class="list">
@@ -178,10 +177,11 @@
                 <ul class="list">
                     <h2><a href="/welcome/catalog/43"><?/*=lang('s43')*/?></a></h2>
 
-                </ul>
-                <ul class="list last">
-                    <h2><a href="/welcome/catalog/44"><?/*=lang('s44')*/?></a></h2>
                 </ul>-->
+                <ul class="list last">
+                    <h2><a href="/welcome/catalog/43"><?=lang('s43')?></a></h2>
+                    <h2><a href="/welcome/catalog/44"><?=lang('s44')?></a></h2>
+                </ul>
 
                 <div class="verticalLine" style="height: 215px;"></div>
 

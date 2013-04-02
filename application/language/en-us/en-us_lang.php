@@ -128,7 +128,7 @@ $lang['home-a-html']='<div class="yf_dx"></div>
 $lang['home-b-name']='Brief Introduction';
 $lang['home-b-html']=' <div class="gs_dx"></div>
         <div class="gs_info">
-            <h1>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xi’an Filter Metal Materials Co., Ltd. is the global leading R&D and manufacturing company for metal fiber and fiber products. The main products include metal fiber, fiber felt, multi-layer sintered wire mesh, filter elements and other porous metal materials, widely applied in fields of chemical fiber, petrochemical, textile, environmental protection, automobile, electrical appliance etc.</h1>
+            <h1>Xi’an Filter Metal Materials Co., Ltd. is the global leading R&D and manufacturing company for metal fiber and fiber products. The main products include metal fiber, fiber felt, multi-layer sintered wire mesh, filter elements and other porous metal materials, widely applied in fields of chemical fiber, petrochemical, textile, environmental protection, automobile, electrical appliance etc.</h1>
         </div>
         <div class="gs_info02">
             <ul>

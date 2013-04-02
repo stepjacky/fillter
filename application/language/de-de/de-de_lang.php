@@ -133,7 +133,7 @@ $lang['home-a-html']='<div class="yf_dx"></div>
 $lang['home-b-name']='Firmenprofil';
 $lang['home-b-html']=' <div class="gs_dx"></div>
         <div class="gs_info">
-            <h1>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xi\'an von Fürth Metall-Filter Material Co., Ltd ist ein weltweit führendes Unternehmen in der Metall-Faser und seine Produkte R & D und Produktion Unternehmen. Die wichtigsten Produkte sind Metallfaser, Metall Faserfilz gesintert, Edelstahlgewebe Schichten aus Metall, Metall-Filter und anderen porösen Metall-Material, weitgehend auf chemische Faser-, Petrochemie-, Textil-, Umweltschutz-, Automobil-, Elektro-, und anderen Bereichen angewendet.</h1>
+            <h1>Xi\'an von Fürth Metall-Filter Material Co., Ltd ist ein weltweit führendes Unternehmen in der Metall-Faser und seine Produkte R & D und Produktion Unternehmen. Die wichtigsten Produkte sind Metallfaser, Metall Faserfilz gesintert, Edelstahlgewebe Schichten aus Metall, Metall-Filter und anderen porösen Metall-Material, weitgehend auf chemische Faser-, Petrochemie-, Textil-, Umweltschutz-, Automobil-, Elektro-, und anderen Bereichen angewendet.</h1>
         </div>
         <div class="gs_info02">
             <ul>

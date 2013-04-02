@@ -9,14 +9,14 @@
         <div class="menu">
 
             <div class="item">
-                <h2><?=lang('s5')?></h2>
+                <h2><a href="/welcome/catalog/51"><?=lang('s5')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/51"><?=lang('s51')?></a></li>
                     <li><a href="/welcome/catalog/52"><?=lang('s52')?></a></li>
                     <li><a href="/welcome/catalog/53"><?=lang('s53')?></a></li>
                     <li><a href="/welcome/catalog/54"><?=lang('s54')?></a></li>
                     <li><a href="/welcome/catalog/55"><?=lang('s55')?></a></li>
-                    <h2><?=lang('s56')?></h2>
+                    <h2><a href="/welcome/catalog/561"><?=lang('s56')?></a></h2>
                     <ol>
                         <li><a href="/welcome/catalog/561"><?=lang('s561')?></a></li>
                         <li><a href="/welcome/catalog/562"><?=lang('s562')?></a></li>

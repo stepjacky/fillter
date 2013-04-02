@@ -65,7 +65,7 @@
                     <li><a target="_blank" href="/welcome/catalog/213"><?=lang('s213')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/214"><?=lang('s214')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/215"><?=lang('s215')?></a></li>
-                    <li><a target="_blank" href="/welcome/catalog/216"><?=lang('s216')?></a></li>
+                   <!-- <li><a target="_blank" href="/welcome/catalog/216"><?/*=lang('s216')*/?></a></li>-->
 
                 </ul>
 
@@ -73,7 +73,7 @@
                     <h2><a target="_blank" href="/welcome/catalog/22"><?=lang('s22')?></a></h2>
                     <li><a target="_blank" href="/welcome/catalog/221"><?=lang('s221')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/222"><?=lang('s222')?></a></li>
-                    <li><a target="_blank" href="/welcome/catalog/223"><?=lang('s223')?></a></li>
+                   <!-- <li><a target="_blank" href="/welcome/catalog/223"><?/*=lang('s223')*/?></a></li>-->
                     <li><a target="_blank" href="/welcome/catalog/224"><?=lang('s224')?></a></li>
                     <li><a target="_blank" href="/welcome/catalog/225"><?=lang('s225')?></a></li>
 

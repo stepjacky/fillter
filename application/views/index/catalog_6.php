@@ -9,7 +9,7 @@
         <div class="menu">
 
             <div class="item">
-                <h2><?=lang('s6')?></h2>
+                <h2><a href="/welcome/catalog/61"><?=lang('s6')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/61"><?=lang('s61')?></a></li>
                     <li><a href="/welcome/catalog/62"><?=lang('s62')?></a></li>

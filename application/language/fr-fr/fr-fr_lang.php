@@ -134,7 +134,7 @@ $lang['home-a-html']='<div class="yf_dx"></div>
 $lang['home-b-name']='Profil de l\'entreprise';
 $lang['home-b-html']=' <div class="gs_dx"></div>
         <div class="gs_info">
-            <h1>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xi\'an est de Fuerth filtre métallique
+            <h1>Xi\'an est de Fuerth filtre métallique
             matériel Co., Ltd est un leader mondial dans la fibre métallique et de ses produits de R & D et
              les entreprises de production. Les principaux produits sont des fibres métalliques, de fibres
              métalliques frittées feutre, frittés couches de mailles de fil de métal, de métal et d\'autres

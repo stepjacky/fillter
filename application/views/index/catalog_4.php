@@ -10,7 +10,7 @@
         <div class="menu">
 
             <div class="item">
-                <h2><?=lang('s4')?></h2>
+                <h2><a href="/welcome/catalog/41"><?=lang('s4')?></a></h2>
                 <ol>
                     <li><a href="/welcome/catalog/41"><?=lang('s41')?></a></li>
                     <li><a href="/welcome/catalog/42"><?=lang('s42')?></a></li>
