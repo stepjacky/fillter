@@ -25,3 +25,11 @@
     min-width: 600px;
     width: auto;
 }
+
+.cpinfo ul {
+    margin-top: 60px;
+}
+
+.cpimg ul{
+    margin-top: 20px;
+}
