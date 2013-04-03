@@ -31,11 +31,26 @@
             </a>
             <div class="header_info">
                 <ul style="float: right">
-                    <li><a href="javascript:set_lang('zh-cn');"><img src='/resources/images/menu/cn.png' /></a></li>
-                    <li><a href="javascript:set_lang('en-us');"><img src='/resources/images/menu/us.png' /></a></li>
-                    <li><a href="javascript:set_lang('de-de');"><img src='/resources/images/menu/de.png' /></a></li>
-                    <li><a href="javascript:set_lang('fr-fr');"><img src='/resources/images/menu/fr.png' /></a></li>
-                    <li><a href="javascript:set_lang('ja');"><img src='/resources/images/menu/ja.png' /></a></li>
+                    <li><?=lang('cn-flag')?></li>
+                    <li><a href="javascript:set_lang('zh-cn');">
+
+                            <img src='/resources/images/menu/cn.png' /></a></li>
+                    <li><?=lang('en-flag')?></li>
+                    <li><a href="javascript:set_lang('en-us');">
+
+                            <img src='/resources/images/menu/us.png' /></a></li>
+                    <li> <?=lang('de-flag')?></li>
+                    <li><a href="javascript:set_lang('de-de');">
+
+                            <img src='/resources/images/menu/de.png' /></a></li>
+                    <li><?=lang('fr-flag')?></li>
+                    <li><a href="javascript:set_lang('fr-fr');">
+
+                            <img src='/resources/images/menu/fr.png' /></a></li>
+                    <li> <?=lang('ja-flag')?></li>
+                    <li><a href="javascript:set_lang('ja');">
+
+                            <img src='/resources/images/menu/ja.png' /></a></li>
 
                     <li><input id="s" type="text" class="search" /></li>
                     <li><input name="butn" type="button" onclick="search('s')"  class="search_ico" /></li>

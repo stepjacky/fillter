@@ -6,8 +6,8 @@
  * Time: 上午11:01
  * To change this template use File | Settings | File Templates.
  */
-$lang['site_name'] ="西安菲尔特";
-$lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
+$lang['site_name'] ="西安菲尔特金属过滤材料有限公司";
+$lang['copyright'] = '版权所有 西安菲尔特金属过滤材料有限公司 1993-2012。 保留一切权利。陕ICP备06013362号';
 $lang['contact-title']='Quick info';
 $lang['contact-user']='Name';
 $lang['contact-unit']='Einheit:';
@@ -75,10 +75,10 @@ $lang['s321'] ='Metall-Faser-Technologie';
 $lang['s322'] ='Das Metall Fasermatte Technologie';
 $lang['s323'] ='Sintermetall Mesh-Technologie';
 $lang['s324'] ='Verschiedenen Filter-Design und Prozesstechnik';
-$lang['s33'] ='研发项目和课题';
-$lang['s331'] ='金属纤维研发';
-$lang['s332'] ='金属纤维毡研发';
-$lang['s333'] ='金属烧结网研发';
+$lang['s33'] ='研发成果';
+$lang['s331'] ='研发项目';
+$lang['s332'] ='获得专利';
+$lang['s333'] ='制定标准';
 $lang['s4'] ='Qualitätskontrolle';
 $lang['s41'] ='Qualitätspolitik';
 $lang['s42'] ='Quality Management System';
@@ -213,7 +213,7 @@ energiesparende Wirkung ist signifikant.
 $lang['home-e-name']='Besondere Anwendungen';
 $lang['home-e-html']=' <div class="yy_dx"></div>
         <div class="yy_info">
-            <h1>Automobile Abgasreinigung Träger</h1>
+            <h1><a href="/welcome/catalog/121">Automobile Abgasreinigung Träger</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Eisen Marke das Aluminium Fasermatte mit einer hohen
@@ -222,7 +222,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>Brenner</h1>
+            <h1><a href="/welcome/catalog/131">Brenner</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Brennerkopf ist eine Schicht aus Metall Fasergeflecht,
@@ -230,7 +230,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>Hochtemperaturgas Staub</h1>
+            <h1><a href="/welcome/catalog/1112">Hochtemperaturgas Staub</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Besondere Anwendungen" /></div>
                 <h2>Eisen Marke Aluminium Filtrationseffizienz der
@@ -269,10 +269,10 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
 $lang['contact-details']='  <ul>
             <li>Adresse: Xi\'an Economic and Technological Development Zone, China Jingwei Industrial Park West Golden Road 15:中国西安经济技术开发区泾渭工业园西金路15号</li>
             <li>Postal Code: 710201</li>
-            <li>Tel 029 -86968425 029-86968420</li>
-            <li>Fax 029 -86968425 029-86968420</li>
+            <li>Tel 0086-29-86968425  0086-29-86968420</li>
+            <li>Fax 0086-29-86968425  0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (Domestic)</li>
-            <li> xianfilter@gmail.com (International) </li>
+            <li>xianfilter@gmail.com (International) </li>
 			<li>Webseite: www.c-frt.com</li>
 
 

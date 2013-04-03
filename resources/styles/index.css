@@ -55,9 +55,9 @@ body {
 }
 
 .header_info {
-    width: 360px;
+    width: 460px;
     height: 45px;
-    margin-left: 170px;
+    margin-left: 100px;
     float: right;
     margin-top: 35px;
     margin-right: 30px;
@@ -86,7 +86,7 @@ body {
 .header_info ul li a img {
     width:24px;
     height: 18px;
-    margin-left: 5px;
+    margin-left: 2px;
     vertical-align: middle;
 }
 
@@ -98,7 +98,7 @@ body {
 }
 
 .search_ico {
-    margin-top: 5px;
+    margin-top: 0px;
     width: 22px;
     height: 18px;
     background: url(/resources/images/common/search_ico.jpg) no-repeat;

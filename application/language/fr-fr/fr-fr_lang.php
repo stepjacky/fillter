@@ -6,8 +6,8 @@
  * Time: 上午11:01
  * To change this template use File | Settings | File Templates.
  */
-$lang['site_name'] ="西安菲尔特";
-$lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
+$lang['site_name'] ="西安菲尔特金属过滤材料有限公司";
+$lang['copyright'] = '版权所有 西安菲尔特金属过滤材料有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
 $lang['contact-title']='Quick info';
 $lang['contact-user']='nom';
 $lang['contact-unit']='unité';
@@ -75,10 +75,10 @@ $lang['s321'] ='Technologie de la fibre métallique';
 $lang['s322'] ='La technologie du matelas de fibres métalliques';
 $lang['s323'] ='Technologie treillis métallique fritté';
 $lang['s324'] ='Diverse conception de filtre et de la technologie de traitement';
-$lang['s33'] ='研发项目和课题';
-$lang['s331'] ='金属纤维研发';
-$lang['s332'] ='金属纤维毡研发';
-$lang['s333'] ='金属烧结网研发';
+$lang['s33'] ='研发成果';
+$lang['s331'] ='研发项目';
+$lang['s332'] ='获得专利';
+$lang['s333'] ='制定标准';
 $lang['s4'] ='Contrôle Qualité';
 $lang['s41'] ='Politique qualité';
 $lang['s42'] ='Système de Management de la Qualité';
@@ -223,7 +223,7 @@ effet est significatif.
 $lang['home-e-name']='Applications en vedette';
 $lang['home-e-html']=' <div class="yy_dx"></div>
         <div class="yy_info">
-            <h1>Porteuse de purification d\'échappement automobile</h1>
+            <h1><a href="/welcome/catalog/121">Porteuse de purification d\'échappement automobile</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque de fer du mat de fibres d\'aluminium ayant une surface spécifique élevée géométrique afin
@@ -231,7 +231,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>brûleur</h1>
+            <h1><a href="/welcome/catalog/131">brûleur</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Applications en vedette" /></div>
                 <h2>Tête de brûleur est placée une couche de fibres métalliques tresse,
@@ -239,7 +239,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>Haut de la poussière de température des gaz</h1>
+            <h1><a href="/welcome/catalog/1112">Haut de la poussière de température des gaz</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Applications en vedette" /></div>
                 <h2>Marque fer filtration d\'aluminium d\'efficacité du tapis de fibres; porosité élevée,
@@ -279,8 +279,8 @@ $lang['contact-details']='  <ul>
             <li>Adresse: Zone de développement économique et technologique de Xi\'an, en Chine Jingwei
             Industrial Park Golden West Route 15</li>
             <li>Code postal: 710201</li>
-            <li>Tél 029 -86968425 029-86968420</li>
-            <li>Fax 029 -86968425 029-86968420</li>
+            <li>Tél 0086-29-86968425  0086-29-86968420</li>
+            <li>Fax 0086-29-86968425  0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (domestique) </li>
             <li>xianfilter@gmail.com (International) </li>
 			<li>Site: www.c-frt.com</li>

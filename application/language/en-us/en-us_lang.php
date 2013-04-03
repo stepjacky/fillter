@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 $lang['site_name'] ="XI'AN FILTER";
-$lang['copyright'] = 'Copyright XI\'AN FILTER 1993-2013。 All rights resvered。陕ICP备06013362号';
+$lang['copyright'] = 'Copyright 西安菲尔特金属过滤材料有限公司 1993-2013。 All rights resvered。陕ICP备06013362号';
 $lang['contact-title']='Quick info';
 $lang['contact-user']='Name';
 $lang['contact-unit']='Company';
@@ -75,10 +75,10 @@ $lang['s321'] ='Metal fiber technology';
 $lang['s322'] ='Technology of metal fiber felt';
 $lang['s323'] ='Technology of sintered metal mesh';
 $lang['s324'] ='Technology of design and processing of various filters';
-$lang['s33'] ='研发项目和课题';
-$lang['s331'] ='金属纤维研发';
-$lang['s332'] ='金属纤维毡研发';
-$lang['s333'] ='金属烧结网研发';
+$lang['s33'] ='研发成果';
+$lang['s331'] ='研发项目';
+$lang['s332'] ='获得专利';
+$lang['s333'] ='制定标准';
 $lang['s4'] ='Quality Control';
 $lang['s41'] ='Quality Policy';
 $lang['s42'] ='Quality Management System';
@@ -183,7 +183,7 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 $lang['home-e-name']='Featured Application';
 $lang['home-e-html']=' <div class="yy_dx"></div>
         <div class="yy_info">
-            <h1>Automobile exhaust purification carrier</h1>
+            <h1><a href="/welcome/catalog/121">Automobile exhaust purification carrier</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="Featured Application" /></div>
                 <h2>Fecralloy fiber felt is an excellent material
@@ -192,7 +192,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>Burner</h1>
+            <h1><a href="/welcome/catalog/131">Burner</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="Featured Application" /></div>
                 <h2>Burner head is placed a layer of metal fiber braid mesh,
@@ -200,7 +200,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>Dust filtration in high temperature gas</h1>
+            <h1><a href="/welcome/catalog/1112">Dust filtration in high temperature gas</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="Featured Application" /></div>
                 <h2>Fecralloy fiber felt has high filtration efficiency, high porosity,
@@ -267,8 +267,8 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
 $lang['contact-details']='  <ul>
             <li>Address: Xi\'an Economic and Technological Development Zone, China Jingwei Industrial Park West Golden Road 15</li>
             <li>Postal Code: 710201</li>
-            <li>Tel 029 -86968425 029-86968420</li>
-            <li>Fax 029 -86968425 029-86968420</li>
+            <li>Tel 0086-29-86968425  0086-29-86968420</li>
+            <li>Fax 0086-29-86968425  0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (Domestic) </li>
             <li> xianfilter@gmail.com (International)</li>
             <li>Website: www.c-frt.com</li>

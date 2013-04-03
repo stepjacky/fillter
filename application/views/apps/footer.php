@@ -4,17 +4,17 @@
     <ul>
 
         <li><a href="#"><span><?=lang('main-product')?></span></a></li>
-        <li><a href="/welcome/catalog/21"><?=lang('s21')?></a></li>
-        <li><a href="/welcome/catalog/22"><?=lang('s22')?></a></li>
-        <li><a href="/welcome/catalog/23"><?=lang('s23')?></a></li>
-        <li><a href="/welcome/catalog/24"><?=lang('s24')?></a></li>
+        <li><a href="/welcome/catalog/211"><?=lang('s21')?></a></li>
+        <li><a href="/welcome/catalog/221"><?=lang('s22')?></a></li>
+        <li><a href="/welcome/catalog/231"><?=lang('s23')?></a></li>
+        <li><a href="/welcome/catalog/241"><?=lang('s24')?></a></li>
     </ul>
     <ul>
         <li><a href="#"><span><?=lang('s1')?></span></a></li>
-        <li><a href="/welcome/catalog/11"><?=lang('s11')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/17"><?=lang('s17')?></a></li>
-        <li><a href="/welcome/catalog/12"><?=lang('s12')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/18"><?=lang('s18')?></a></li>
-        <li><a href="/welcome/catalog/13"><?=lang('s13')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/19"><?=lang('s19')?></a></li>
-        <li><a href="/welcome/catalog/14"><?=lang('s14')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1110"><?=lang('s1110')?></a></li>
+        <li><a href="/welcome/catalog/111"><?=lang('s11')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/17"><?=lang('s17')?></a></li>
+        <li><a href="/welcome/catalog/121"><?=lang('s12')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/18"><?=lang('s18')?></a></li>
+        <li><a href="/welcome/catalog/131"><?=lang('s13')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/19"><?=lang('s19')?></a></li>
+        <li><a href="/welcome/catalog/141"><?=lang('s14')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1110"><?=lang('s1110')?></a></li>
         <li><a href="/welcome/catalog/15"><?=lang('s15')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1111"><?=lang('s1111')?></a></li>
         <li><a href="/welcome/catalog/16"><?=lang('s16')?></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/welcome/catalog/1112"><?=lang('s1112')?></a></li>
 
@@ -26,7 +26,7 @@
         <li><a href="/welcome/catalog/53"><?=lang('s53')?></a></li>
         <li><a href="/welcome/catalog/54"><?=lang('s56')?></a></li>
         <li><a href="/welcome/catalog/55"><?=lang('s55')?></a></li>
-        <li><a href="/welcome/catalog/56"><?=lang('s56')?></a></li>
+        <li><a href="/welcome/catalog/561"><?=lang('s56')?></a></li>
         <li><a href="/welcome/catalog/57"><?=lang('s57')?></a></li>
     </ul>
     <ul>

@@ -6,8 +6,8 @@
  * Time: 上午11:01
  * To change this template use File | Settings | File Templates.
  */
-$lang['site_name'] ="西安菲尔特";
-$lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
+$lang['site_name'] ="西安菲尔特金属过滤材料有限公司";
+$lang['copyright'] = '版权所有 西安菲尔特金属过滤材料有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
 $lang['contact-title']='简易信息框';
 $lang['contact-user']='名称';
 $lang['contact-unit']='単位';
@@ -75,10 +75,10 @@ $lang['s321'] ='金属繊維技術';
 $lang['s322'] ='金属繊維マット技術';
 $lang['s323'] ='焼結金属メッシュテクノロジー';
 $lang['s324'] ='様々なフィルタの設計と加工技術';
-$lang['s33'] ='研发项目和课题';
-$lang['s331'] ='金属纤维研发';
-$lang['s332'] ='金属纤维毡研发';
-$lang['s333'] ='金属烧结网研发';
+$lang['s33'] ='研发成果';
+$lang['s331'] ='研发项目';
+$lang['s332'] ='获得专利';
+$lang['s333'] ='制定标准';
 $lang['s4'] ='品質管理';
 $lang['s41'] ='品質方針';
 $lang['s42'] ='品質管理システム';
@@ -142,8 +142,8 @@ $lang['home-c-html']='<div class="call_dx"></div>
         <div class="call_info">
             <h1>住所：中国西安経済技術開発区、兆銘工業団地ウエストゴールデンロード15</h1>
             <h1>郵便番号：710201</h1>
-            <h1>電話029 -86968425   029-86968420</h1>
-            <h1>ファックス029 -86968425029-86968420</h1>
+            <h1>電話0086-29-86968425  0086-29-86968420</h1>
+            <h1>ファックス0086-29-86968425  0086-29-86968420</h1>
             <h1>E-MAIL：xianfilter@yahoo.com.cn（国内）xianfilter@gmail.com（国際）</h1>
             <h1>ウェブサイト：www.c-frt.com</h1>
         </div>';
@@ -193,9 +193,10 @@ $lang['home-d-html']='<div class="cp_dx"></div>
 $lang['home-e-name']='注目のアプリケーション';
 $lang['home-e-html']=' <div class="yy_dx"></div>
         <div class="yy_info">
-            <h1>自動車排ガス浄化キャリア</h1>
+            <h1><a href="/welcome/catalog/121">自動車排ガス浄化キャリア</a></h1>
             <div class="yy_info02">
-                <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg" alt="注目のアプリケーション" /></div>
+                <div class="yy_info_img"><img src="/resources/images/common/yyimg01.jpg"
+                 alt="注目のアプリケーション" /></div>
                 <h2>アイアンブランド触媒吸着、高気孔率、およびスルーホールの度合燃焼ガスの全額、
                 熱伝導率の高いキャリア急速加熱性能......</h2>
             </div>
@@ -203,7 +204,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
 
 
         <div class="yy_info">
-            <h1>バーナー</h1>
+            <h1><a href="/welcome/catalog/131">バーナー</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg02.jpg" alt="注目のアプリケーション" /></div>
                 <h2>バーナーヘッドは、金属繊維編組、金属繊維編組を通って燃焼室で燃焼ガスの層が配置されている。
@@ -211,7 +212,7 @@ $lang['home-e-html']=' <div class="yy_dx"></div>
             </div>
         </div>
         <div class="yy_info">
-            <h1>高温ガス粉塵</h1>
+            <h1><a href="/welcome/catalog/1112">高温ガス粉塵</a></h1>
             <div class="yy_info02">
                 <div class="yy_info_img"><img src="/resources/images/common/yyimg03.jpg" alt="注目のアプリケーション" /></div>
                 <h2>繊維マットの鉄のブランドアルミろ過効率、高気孔率、低抵抗は、成形プロセスを容易にするために、

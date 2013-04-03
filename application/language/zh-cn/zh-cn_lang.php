@@ -6,8 +6,8 @@
  * Time: 上午11:01
  * To change this template use File | Settings | File Templates.
  */
-$lang['site_name'] ="西安菲尔特";
-$lang['copyright'] = '版权所有 西安菲尔特有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
+$lang['site_name'] ="西安菲尔特金属过滤材料有限公司";
+$lang['copyright'] = '版权所有 西安菲尔特金属过滤材料有限公司 1993-2013。 保留一切权利。陕ICP备06013362号';
 $lang['contact-title']='简易信息联系框';
 $lang['contact-user']='姓名';
 $lang['contact-unit']='单位';
@@ -49,7 +49,7 @@ $lang['s214'] ='哈氏合金纤维';
 $lang['s215'] ='锆纤维';
 $lang['s216'] ='压花纤维';
 $lang['s22'] ='纤维毡';
-$lang['s221'] ='金属纤维毡';
+$lang['s221'] ='不锈钢纤维毡';
 $lang['s222'] ='铁铬铝纤维烧结毡';
 $lang['s223'] ='非烧结毡';
 $lang['s224'] ='针刺毡';
@@ -75,10 +75,10 @@ $lang['s321'] ='金属纤维技术';
 $lang['s322'] ='金属纤维毡技术';
 $lang['s323'] ='金属烧结网技术';
 $lang['s324'] ='各种滤器的设计及加工技术';
-$lang['s33'] ='研发项目和课题';
+$lang['s33'] ='研发成果';
 $lang['s331'] ='研发项目';
-$lang['s332'] ='研发课题';
-$lang['s333'] ='获得专利';
+$lang['s332'] ='获得专利';
+$lang['s333'] ='制定标准';
 $lang['s4'] ='质量控制';
 $lang['s41'] ='质量方针';
 $lang['s42'] ='ISO 9000质量管理体系';
@@ -231,8 +231,8 @@ $lang['contact-details']='  <ul>
             <li>邮编：710201</li>
             <li>电话：029-86968425  029-86968420</li>
             <li>传真：029-86968425  029-86968420</li>
-            <li>E-MAIL:xianfilter@gmail.com（销售）</li>
-            <li>xianfilter@gmail.com（技术支持）</li>
+            <li>E-MAIL: xianfilter@yahoo.com.cn（国内）</li>
+            <li>xianfilter@gmail.com（国际）</li>
             <li>Website: www.c-frt.com</li>
 
 
@@ -255,3 +255,9 @@ $lang['c-rmm']='西安瑞福莱钨钼有限公司';
 $lang['c-rmm-url']='http://www.c-rmm.com';
 $lang['c-nnn']='西安诺博尔稀贵金属材料有限公司';
 $lang['c-nnn-url']='西安诺博尔稀贵金属材料有限公司';
+
+$lang['cn-flag']='中文';
+$lang['en-flag']='英语';
+$lang['de-flag']='德语';
+$lang['fr-flag']='法语';
+$lang['ja-flag']='日语';
