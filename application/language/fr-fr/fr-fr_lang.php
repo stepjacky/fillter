@@ -129,17 +129,24 @@ $lang['home-a-html']='<div class="yf_dx"></div>
             l\'innovation technologique l\'automatisation industrielle, économie d\'énergie ......</h2>
         </div>';
 
+/**
 
+produits sont des
+fibres métalliques, de fibres métalliques frittées feutre,
+frittés couches de mailles de fil de métal, de métal et d\'autres
+matériaux de filtre poreux, largement appliqué à la fibre chimique,
+pétrochimique, textile, protection de l\'environnement, de l\'automobile,
+de l\'électricité, et d\'autres domaines.
+ */
 
 $lang['home-b-name']='Profil de l\'entreprise';
 $lang['home-b-html']=' <div class="gs_dx"></div>
         <div class="gs_info">
             <h1>Xi\'an est de Fuerth filtre métallique
-            matériel Co., Ltd est un leader mondial dans la fibre métallique et de ses produits de R & D et
-             les entreprises de production. Les principaux produits sont des fibres métalliques, de fibres
-             métalliques frittées feutre, frittés couches de mailles de fil de métal, de métal et d\'autres
-             matériaux de filtre poreux, largement appliqué à la fibre chimique, pétrochimique, textile,
-             protection de l\'environnement, de l\'automobile, de l\'électricité, et d\'autres domaines.</h1>
+            matériel Co., Ltd est un leader mondial dans la fibre métallique
+            et de ses produits de R & D et les entreprises de production. Les principaux......
+
+            </h1>
         </div>
         <div class="gs_info02">
             <ul>
