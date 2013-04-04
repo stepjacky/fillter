@@ -9,7 +9,7 @@
     <file path="/header.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364984532006" ignored="false" />
     <file path="/globle_cn.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1363584218001" ignored="false" />
     <file path="/index.js" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364223882051" ignored="false" />
-    <file path="/index.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364901621451" ignored="false" />
+    <file path="/index.css" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1365076144026" ignored="false" />
     <file path="/index.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364888569090" ignored="false" />
     <file path="/footer.php" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364892200669" ignored="false" />
     <file path="/admin.js" changelist="96a376ec-832e-42bc-b35e-0be1a6beb0a8" time="1364790060046" ignored="false" />
@@ -70,87 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="en-us_lang.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/language/en-us/en-us_lang.php">
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/styles/index/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="63" selection-start="5040" selection-end="5040" vertical-scroll-proportion="0.0">
+            <state line="302" column="0" selection-start="4528" selection-end="4528" vertical-scroll-proportion="0.3735726">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="de-de_lang.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/language/de-de/de-de_lang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="12" selection-start="4830" selection-end="4830" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1364989708940" expanded="true" signature="4013:4433" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="4238:4418" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="4461:4813" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="4681:4798" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="5215:5474" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="5232:5459" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="5506:6185" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="5523:6170" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="6303:6742" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="6864:7217" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="6881:7202" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="7246:7979" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="7263:7964" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9146:9593" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9271:9578" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9418:9559" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9623:10018" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9723:10003" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="9870:9984" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="10048:10473" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="10165:10458" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="10312:10439" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="10596:10989" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="10613:10974" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="11113:11461" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="11130:11446" placeholder="..." />
-                <marker date="1364989708940" expanded="true" signature="11498:11989" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fr-fr_lang.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/language/fr-fr/fr-fr_lang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="12" selection-start="5694" selection-end="5694" vertical-scroll-proportion="0.2962963">
-              <folding>
-                <marker date="1364989824370" expanded="true" signature="4291:4761" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="4512:4746" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="4789:5213" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="5012:5198" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="5680:5941" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="5697:5926" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="5973:6676" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="5990:6661" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="6512:6643" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="6796:7246" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="7376:7753" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="7393:7738" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="7782:8548" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="7799:8533" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="9969:10418" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10112:10403" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10261:10384" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10448:10858" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10548:10843" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10697:10824" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="10888:11323" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="11025:11308" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="11174:11289" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="11450:11866" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="11467:11851" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="11989:12337" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="12006:12322" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="12374:12866" placeholder="..." />
-                <marker date="1364989824370" expanded="true" signature="12391:12531" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/resources/styles/index/index-en.css" />
         <option value="$PROJECT_DIR$/resources/styles/index/index-cn.css" />
         <option value="$PROJECT_DIR$/application/language/zh-cn/zh-cn_lang.php" />
         <option value="$PROJECT_DIR$/application/views/apps/header.php" />
@@ -181,6 +104,7 @@
         <option value="$PROJECT_DIR$/application/language/en-us/en-us_lang.php" />
         <option value="$PROJECT_DIR$/application/language/de-de/de-de_lang.php" />
         <option value="$PROJECT_DIR$/application/language/fr-fr/fr-fr_lang.php" />
+        <option value="$PROJECT_DIR$/resources/styles/index/index.css" />
       </list>
     </option>
   </component>
@@ -217,7 +141,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,384 +227,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zh-cn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ja" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fr-fr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-us" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de-de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zh-cn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ja" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fr-fr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-us" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de-de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fillter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -690,9 +238,9 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="F:/maven/repo/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.jar" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -757,7 +305,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25114754" sideWeight="0.6707727" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25508198" sideWeight="0.6707727" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -833,11 +381,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/scripts/admin/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="33" selection-start="1397" selection-end="1402" vertical-scroll-proportion="0.5089723" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/styles/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="18" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.74388254" />
@@ -909,71 +452,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="130" column="12" selection-start="4830" selection-end="4830" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1364989708940" expanded="true" signature="4013:4433" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="4238:4418" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="4461:4813" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="4681:4798" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="5215:5474" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="5232:5459" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="5506:6185" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="5523:6170" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="6303:6742" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="6864:7217" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="6881:7202" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="7246:7979" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="7263:7964" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9146:9593" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9271:9578" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9418:9559" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9623:10018" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9723:10003" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="9870:9984" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="10048:10473" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="10165:10458" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="10312:10439" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="10596:10989" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="10613:10974" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="11113:11461" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="11130:11446" placeholder="..." />
-            <marker date="1364989708940" expanded="true" signature="11498:11989" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989708940" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/language/fr-fr/fr-fr_lang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="12" selection-start="5694" selection-end="5694" vertical-scroll-proportion="0.2962963">
+        <state line="144" column="12" selection-start="5694" selection-end="5694" vertical-scroll-proportion="0.04232804">
           <folding>
-            <marker date="1364989824370" expanded="true" signature="4291:4761" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="4512:4746" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="4789:5213" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="5012:5198" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="5680:5941" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="5697:5926" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="5973:6676" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="5990:6661" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="6512:6643" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="6796:7246" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="7376:7753" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="7393:7738" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="7782:8548" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="7799:8533" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="9969:10418" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10112:10403" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10261:10384" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10448:10858" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10548:10843" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10697:10824" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="10888:11323" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="11025:11308" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="11174:11289" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="11450:11866" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="11467:11851" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="11989:12337" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="12006:12322" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="12374:12866" placeholder="..." />
-            <marker date="1364989824370" expanded="true" signature="12391:12531" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1364989824370" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="302" column="0" selection-start="4528" selection-end="4528" vertical-scroll-proportion="0.3735726">
+          <folding />
         </state>
       </provider>
     </entry>
