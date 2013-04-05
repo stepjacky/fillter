@@ -170,7 +170,7 @@ $lang['home-c-html']='<div class="call_dx"></div>
              de Xi\'an, en Chine Jingwei Industrial Park Golden West Route 15</li>
             <li>Code postal: 710201</li>
             <li>Tel: 0086-29-86968425 0086-29-86968420</li>
-            <li>Fax: 086-29-86968425 0086-29-86968420</li>
+            <li>Fax: 0086-29-86968425 0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (domestique)
             xianfilter@gmail.com (International) </li>
             <li>Site: www.c-frt.com</li>

@@ -165,8 +165,8 @@ $lang['home-c-html']='<div class="call_dx"></div>
         <div class="call_info">
             <h1>Adresse: Xi\'an Economic and Technological Development Zone, China Jingwei Industrial Park West Golden Road 15</h1>
             <h1>Postal Code: 710201</h1>
-            <h1>Tel 029 -86968425 029-86968420</h1>
-            <h1>Fax 029 -86968425 029-86968420</h1>
+            <h1>Tel 0086-29-86968425 0086-29-86968420</h1>
+            <h1>Fax 0086-29-86968425 0086-29-86968420</h1>
             <h1>E-MAIL: xianfilter@yahoo.com.cn (Domestic) xianfilter@gmail.com (International) </h1>
             <h1>Webseite: www.c-frt.com</h1>
         </div>';
@@ -283,7 +283,7 @@ $lang['contact-details']='  <ul>
              </li>
             <li>Postal Code: 710201</li>
             <li>Tel: 0086-29-86968425 0086-29-86968420</li>
-            <li>Fax: 086-29-86968425 0086-29-86968420</li>
+            <li>Fax: 0086-29-86968425 0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (Domestic)</li>
             <li>xianfilter@gmail.com (International) </li>
 			<li>Webseite: www.c-frt.com</li>
