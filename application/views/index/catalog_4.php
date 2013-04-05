@@ -1,4 +1,5 @@
 <link href="/resources/styles/secondary.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/resources/styles/index/index-<?=lang('style-local')?>.css" media="screen,print"/>
 <div class="main">
 
 <div class="cont">

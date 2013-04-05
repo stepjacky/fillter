@@ -278,10 +278,12 @@ $lang['home-g-html']=' <div class="zl_dx"></div>
 
 
 $lang['contact-details']='  <ul>
-            <li>Adresse: Xi\'an Economic and Technological Development Zone, China Jingwei Industrial Park West Golden Road 15:中国西安经济技术开发区泾渭工业园西金路15号</li>
+            <li>Adresse: Xi\'an Economic and Technological Development Zone,
+             China Jingwei Industrial Park West Golden Road 15
+             </li>
             <li>Postal Code: 710201</li>
-            <li>Tel 0086-29-86968425  0086-29-86968420</li>
-            <li>Fax 0086-29-86968425  0086-29-86968420</li>
+            <li>Tel: 0086-29-86968425 0086-29-86968420</li>
+            <li>Fax: 086-29-86968425 0086-29-86968420</li>
             <li>E-MAIL: xianfilter@yahoo.com.cn (Domestic)</li>
             <li>xianfilter@gmail.com (International) </li>
 			<li>Webseite: www.c-frt.com</li>

@@ -166,12 +166,14 @@ $lang['home-b-html']=' <div class="gs_dx"></div>
 $lang['home-c-name']='contacter';
 $lang['home-c-html']='<div class="call_dx"></div>
         <div class="call_info">
-            <h1>Adresse: Zone de développement économique et technologique de Xi\'an, en Chine Jingwei Industrial Park Golden West Route 15</h1>
-            <h1>Code postal: 710201</h1>
-            <h1>Tél 029 -86968425 029-86968420</h1>
-            <h1>Fax 029 -86968425 029-86968420</h1>
-            <h1>E-MAIL: xianfilter@yahoo.com.cn (domestique) xianfilter@gmail.com (International) </h1>
-            <h1>Site: www.c-frt.com</h1>
+            <li>Adresse: Zone de développement économique et technologique
+             de Xi\'an, en Chine Jingwei Industrial Park Golden West Route 15</li>
+            <li>Code postal: 710201</li>
+            <li>Tel: 0086-29-86968425 0086-29-86968420</li>
+            <li>Fax: 086-29-86968425 0086-29-86968420</li>
+            <li>E-MAIL: xianfilter@yahoo.com.cn (domestique)
+            xianfilter@gmail.com (International) </li>
+            <li>Site: www.c-frt.com</li>
         </div>';
 
 $lang['home-d-name']='Les produits de spécialité';
