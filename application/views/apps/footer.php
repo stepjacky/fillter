@@ -55,7 +55,7 @@
 
 </div>
 
-
+<script src="http://s15.cnzz.com/stat.php?id=5203050&web_id=5203050&show=pic" language="JavaScript"></script>
 <script type="text/javascript" src="/resources/scripts/index.js"></script>
 </body>
 </html>
