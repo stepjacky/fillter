@@ -28,6 +28,7 @@ class Myuser_model extends Media_Model {
      
     public  function __construct(){
         parent::__construct("Myuser_model");
+        $this->load->library('email');
     }
 
 
@@ -86,7 +87,34 @@ class Myuser_model extends Media_Model {
 
     public function add_contact($data){
 
+        $this->email->from('xxxxfox@163.com', 'filter代理');
+        $this->email->to('xianfilter@yahoo.com.cn,xianfilter@gmail.com,xxxxfox@163.com');
+        $this->email->cc('xianfilter@gmail.com');
+        $this->email->bcc('xianfilter@yahoo.com.cn');
+
+        $this->email->subject('客户信息');
+
+        $msg = "
+           客户联系方式:\n\r
+           姓名:%s\r\n
+           单位:%s\r\n
+           电话:%s\r\n
+           邮件:%s\r\n
+           留言:%s";
+
+        $cnt = sprintf ($msg,
+            $data['name'],
+            $data['address'],
+            $data['phone'],
+            $data['email'],
+            $data['company']);
+
+        $this->email->message($cnt);
+
+        $this->email->send();
+
         $this->db->insert('contact_info',$data);
+
     }
 
 

@@ -17,12 +17,8 @@
                     <li><a href="/welcome/catalog/53"><?=lang('s53')?></a></li>
                     <li><a href="/welcome/catalog/54"><?=lang('s54')?></a></li>
                     <li><a href="/welcome/catalog/55"><?=lang('s55')?></a></li>
-                    <h2><a href="/welcome/catalog/561"><?=lang('s56')?></a></h2>
-                    <ol>
-                        <li><a href="/welcome/catalog/561"><?=lang('s561')?></a></li>
-                        <li><a href="/welcome/catalog/562"><?=lang('s562')?></a></li>
-
-                    </ol>
+                    <li><a href="/welcome/catalog/561"><?=lang('s56')?></a></li>
+                   
                     <!--<li><a href="/welcome/catalog/57"><?/*=lang('s57')*/?></a></li>-->
 
                 </ol>
