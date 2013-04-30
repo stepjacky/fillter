@@ -88,7 +88,7 @@ class Myuser_model extends Media_Model {
     public function add_contact($data){
 
         $this->email->from('xxxxfox@163.com', 'filter代理');
-        $this->email->to('xianfilter@yahoo.com.cn,xianfilter@gmail.com,xxxxfox@163.com');
+        $this->email->to('xianfilter@yahoo.com.cn,xianfilter@gmail.com,xxxxfox@163.com,tcpcxg@163.com');
         $this->email->cc('xianfilter@gmail.com');
         $this->email->bcc('xianfilter@yahoo.com.cn');
 
